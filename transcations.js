@@ -55,7 +55,7 @@ function getHistoricalTranscationDataFromURL(url) {
   return new Promise((resolve, reject) => {
     request(options, function (error, response, body) {
       if (!error && response.statusCode == 200) {
-        console.log(options.url);
+        console.log((new Date()).toLocaleTimeString('en-US') + ':' + options.url);
         const dom = new JSDOM(body);
 
         // HTMLTableElement => HTMLTableElement.tBodies => HTMLTableRowElement => HTMLTableCellElement => 

@@ -64,9 +64,7 @@ async function queue(stocks) {
   let data = [];
   for (let stock of stocks) {
     let res = await foo(stock);
-    console.log(11);
     sleep.sleep(parseInt(Math.random(10))+3);
-    console.log(22);
     data.push(res);
   }
   return data;
