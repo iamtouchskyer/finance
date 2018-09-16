@@ -71,12 +71,8 @@ async function queue(stocks) {
   }
   return data;
 }
-/*
+
 generateStockSymbols().then(stocks => {
   return queue(stocks);
 })
 .catch(error => console.log(error));
-
-*/
-
-foo(600664);

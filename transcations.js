@@ -54,7 +54,6 @@ function getHistoricalTranscationDataFromURL(url) {
 
   return new Promise((resolve, reject) => {
     request(options, function (error, response, body) {
-      console.log(url);
       if (!error && response.statusCode == 200) {
         console.log(options.url);
         const dom = new JSDOM(body);
@@ -111,9 +110,7 @@ async function queue(urls) {
   let data = [];
   for (let url of urls) {
     let res = await getHistoricalTranscationDataFromURL(url);
-    console.log(1);
     sleep.sleep(parseInt(Math.random(10))+3);
-    console.log(2);
     data.push(res);
   }
   return data;
