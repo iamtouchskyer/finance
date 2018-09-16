@@ -1,0 +1,7076 @@
+[
+    {
+        "closingPrice": 28.04,
+        "date": "2015-06-30",
+        "highestPrice": 28.04,
+        "lowestPrice": 28.04,
+        "openingPrice": 28.04,
+        "tradingVolume": 71100,
+        "transactionAmount": 1993644
+    },
+    {
+        "closingPrice": 25.49,
+        "date": "2015-06-29",
+        "highestPrice": 25.49,
+        "lowestPrice": 25.49,
+        "openingPrice": 25.49,
+        "tradingVolume": 74100,
+        "transactionAmount": 1888809
+    },
+    {
+        "closingPrice": 25.36,
+        "date": "2015-09-30",
+        "highestPrice": 26,
+        "lowestPrice": 25.84,
+        "openingPrice": 25.62,
+        "tradingVolume": 3646517,
+        "transactionAmount": 93744320
+    },
+    {
+        "closingPrice": 25.12,
+        "date": "2015-09-29",
+        "highestPrice": 25.97,
+        "lowestPrice": 25.39,
+        "openingPrice": 25.7,
+        "tradingVolume": 3976668,
+        "transactionAmount": 101643864
+    },
+    {
+        "closingPrice": 25.66,
+        "date": "2015-09-28",
+        "highestPrice": 26.43,
+        "lowestPrice": 26.3,
+        "openingPrice": 25.75,
+        "tradingVolume": 3881669,
+        "transactionAmount": 101303016
+    },
+    {
+        "closingPrice": 25.3,
+        "date": "2015-09-25",
+        "highestPrice": 27.21,
+        "lowestPrice": 25.7,
+        "openingPrice": 27.2,
+        "tradingVolume": 6439071,
+        "transactionAmount": 168069824
+    },
+    {
+        "closingPrice": 26.81,
+        "date": "2015-09-24",
+        "highestPrice": 27.6,
+        "lowestPrice": 27.27,
+        "openingPrice": 27.17,
+        "tradingVolume": 6584354,
+        "transactionAmount": 179228656
+    },
+    {
+        "closingPrice": 26.26,
+        "date": "2015-09-23",
+        "highestPrice": 28.18,
+        "lowestPrice": 27.15,
+        "openingPrice": 26.47,
+        "tradingVolume": 9172071,
+        "transactionAmount": 250869744
+    },
+    {
+        "closingPrice": 26.5,
+        "date": "2015-09-22",
+        "highestPrice": 27.54,
+        "lowestPrice": 26.99,
+        "openingPrice": 27.33,
+        "tradingVolume": 7378334,
+        "transactionAmount": 199498320
+    },
+    {
+        "closingPrice": 25.75,
+        "date": "2015-09-21",
+        "highestPrice": 27.35,
+        "lowestPrice": 27.18,
+        "openingPrice": 25.9,
+        "tradingVolume": 7419212,
+        "transactionAmount": 197630432
+    },
+    {
+        "closingPrice": 25.6,
+        "date": "2015-09-18",
+        "highestPrice": 26.79,
+        "lowestPrice": 26.22,
+        "openingPrice": 26.49,
+        "tradingVolume": 6200911,
+        "transactionAmount": 161719728
+    },
+    {
+        "closingPrice": 26,
+        "date": "2015-09-17",
+        "highestPrice": 28.05,
+        "lowestPrice": 26.16,
+        "openingPrice": 27.69,
+        "tradingVolume": 11433595,
+        "transactionAmount": 311474912
+    },
+    {
+        "closingPrice": 25.6,
+        "date": "2015-09-16",
+        "highestPrice": 27.93,
+        "lowestPrice": 27.93,
+        "openingPrice": 25.82,
+        "tradingVolume": 10899298,
+        "transactionAmount": 291468864
+    },
+    {
+        "closingPrice": 24.4,
+        "date": "2015-09-15",
+        "highestPrice": 26.49,
+        "lowestPrice": 25.39,
+        "openingPrice": 24.86,
+        "tradingVolume": 8369071,
+        "transactionAmount": 213515040
+    },
+    {
+        "closingPrice": 25.61,
+        "date": "2015-09-14",
+        "highestPrice": 28.63,
+        "lowestPrice": 25.61,
+        "openingPrice": 28.43,
+        "tradingVolume": 8203760,
+        "transactionAmount": 218847200
+    },
+    {
+        "closingPrice": 27.72,
+        "date": "2015-09-11",
+        "highestPrice": 28.9,
+        "lowestPrice": 28.45,
+        "openingPrice": 28.12,
+        "tradingVolume": 6162901,
+        "transactionAmount": 175284544
+    },
+    {
+        "closingPrice": 28,
+        "date": "2015-09-10",
+        "highestPrice": 29.58,
+        "lowestPrice": 28.12,
+        "openingPrice": 29.5,
+        "tradingVolume": 10256088,
+        "transactionAmount": 295815808
+    },
+    {
+        "closingPrice": 29.3,
+        "date": "2015-09-09",
+        "highestPrice": 30.88,
+        "lowestPrice": 30.29,
+        "openingPrice": 30,
+        "tradingVolume": 15116434,
+        "transactionAmount": 455331136
+    },
+    {
+        "closingPrice": 26.73,
+        "date": "2015-09-08",
+        "highestPrice": 29.74,
+        "lowestPrice": 29.68,
+        "openingPrice": 26.73,
+        "tradingVolume": 11828404,
+        "transactionAmount": 335731232
+    },
+    {
+        "closingPrice": 26.52,
+        "date": "2015-09-07",
+        "highestPrice": 28.24,
+        "lowestPrice": 27.05,
+        "openingPrice": 27.46,
+        "tradingVolume": 7626472,
+        "transactionAmount": 209137360
+    },
+    {
+        "closingPrice": 25,
+        "date": "2015-09-02",
+        "highestPrice": 28.49,
+        "lowestPrice": 26.52,
+        "openingPrice": 25.3,
+        "tradingVolume": 9986664,
+        "transactionAmount": 273601280
+    },
+    {
+        "closingPrice": 26.78,
+        "date": "2015-09-01",
+        "highestPrice": 29,
+        "lowestPrice": 26.78,
+        "openingPrice": 29,
+        "tradingVolume": 10752716,
+        "transactionAmount": 296563808
+    },
+    {
+        "closingPrice": 29.75,
+        "date": "2015-08-31",
+        "highestPrice": 32.48,
+        "lowestPrice": 29.75,
+        "openingPrice": 32.02,
+        "tradingVolume": 9754287,
+        "transactionAmount": 303019200
+    },
+    {
+        "closingPrice": 30.65,
+        "date": "2015-08-28",
+        "highestPrice": 33.88,
+        "lowestPrice": 33.05,
+        "openingPrice": 32.5,
+        "tradingVolume": 16473889,
+        "transactionAmount": 531219872
+    },
+    {
+        "closingPrice": 29.07,
+        "date": "2015-08-27",
+        "highestPrice": 32.86,
+        "lowestPrice": 32.28,
+        "openingPrice": 31.55,
+        "tradingVolume": 16475920,
+        "transactionAmount": 512249792
+    },
+    {
+        "closingPrice": 28.43,
+        "date": "2015-08-26",
+        "highestPrice": 31.27,
+        "lowestPrice": 31.27,
+        "openingPrice": 29.5,
+        "tradingVolume": 17746140,
+        "transactionAmount": 539707456
+    },
+    {
+        "closingPrice": 27.06,
+        "date": "2015-08-25",
+        "highestPrice": 32.5,
+        "lowestPrice": 28.43,
+        "openingPrice": 27.06,
+        "tradingVolume": 14172598,
+        "transactionAmount": 418606752
+    },
+    {
+        "closingPrice": 29.96,
+        "date": "2015-08-24",
+        "highestPrice": 32.3,
+        "lowestPrice": 29.96,
+        "openingPrice": 31.2,
+        "tradingVolume": 6625859,
+        "transactionAmount": 202344768
+    },
+    {
+        "closingPrice": 32.78,
+        "date": "2015-08-21",
+        "highestPrice": 35.98,
+        "lowestPrice": 33.29,
+        "openingPrice": 34.89,
+        "tradingVolume": 8118451,
+        "transactionAmount": 279099072
+    },
+    {
+        "closingPrice": 35.35,
+        "date": "2015-08-20",
+        "highestPrice": 38,
+        "lowestPrice": 35.45,
+        "openingPrice": 38,
+        "tradingVolume": 8085263,
+        "transactionAmount": 297782816
+    },
+    {
+        "closingPrice": 34.35,
+        "date": "2015-08-19",
+        "highestPrice": 38.5,
+        "lowestPrice": 38.24,
+        "openingPrice": 35.89,
+        "tradingVolume": 11141160,
+        "transactionAmount": 412300064
+    },
+    {
+        "closingPrice": 36.88,
+        "date": "2015-08-18",
+        "highestPrice": 42.71,
+        "lowestPrice": 37.2,
+        "openingPrice": 40.72,
+        "tradingVolume": 11531978,
+        "transactionAmount": 465052704
+    },
+    {
+        "closingPrice": 40.01,
+        "date": "2015-08-17",
+        "highestPrice": 42.05,
+        "lowestPrice": 40.82,
+        "openingPrice": 41.53,
+        "tradingVolume": 8384768,
+        "transactionAmount": 342772192
+    },
+    {
+        "closingPrice": 41,
+        "date": "2015-08-14",
+        "highestPrice": 43.6,
+        "lowestPrice": 42.18,
+        "openingPrice": 41.94,
+        "tradingVolume": 11293997,
+        "transactionAmount": 475413760
+    },
+    {
+        "closingPrice": 39.96,
+        "date": "2015-08-13",
+        "highestPrice": 42,
+        "lowestPrice": 41.88,
+        "openingPrice": 40.34,
+        "tradingVolume": 10931931,
+        "transactionAmount": 447747488
+    },
+    {
+        "closingPrice": 41.2,
+        "date": "2015-08-12",
+        "highestPrice": 45.56,
+        "lowestPrice": 41.44,
+        "openingPrice": 44.65,
+        "tradingVolume": 14074205,
+        "transactionAmount": 606905472
+    },
+    {
+        "closingPrice": 43.5,
+        "date": "2015-08-11",
+        "highestPrice": 46.38,
+        "lowestPrice": 44.54,
+        "openingPrice": 43.8,
+        "tradingVolume": 15268112,
+        "transactionAmount": 689648640
+    },
+    {
+        "closingPrice": 41.02,
+        "date": "2015-08-10",
+        "highestPrice": 45.65,
+        "lowestPrice": 44.35,
+        "openingPrice": 42.4,
+        "tradingVolume": 17215308,
+        "transactionAmount": 745383872
+    },
+    {
+        "closingPrice": 40.7,
+        "date": "2015-08-07",
+        "highestPrice": 43.58,
+        "lowestPrice": 42.53,
+        "openingPrice": 41.2,
+        "tradingVolume": 14576771,
+        "transactionAmount": 616266560
+    },
+    {
+        "closingPrice": 40.38,
+        "date": "2015-08-06",
+        "highestPrice": 44.74,
+        "lowestPrice": 41.87,
+        "openingPrice": 43.5,
+        "tradingVolume": 16049736,
+        "transactionAmount": 679543616
+    },
+    {
+        "closingPrice": 40.03,
+        "date": "2015-08-05",
+        "highestPrice": 46.66,
+        "lowestPrice": 44.56,
+        "openingPrice": 40.77,
+        "tradingVolume": 22988424,
+        "transactionAmount": 1010211776
+    },
+    {
+        "closingPrice": 42.92,
+        "date": "2015-08-04",
+        "highestPrice": 49.2,
+        "lowestPrice": 42.92,
+        "openingPrice": 48.99,
+        "tradingVolume": 30997110,
+        "transactionAmount": 1378175616
+    },
+    {
+        "closingPrice": 42,
+        "date": "2015-08-03",
+        "highestPrice": 47.69,
+        "lowestPrice": 47.69,
+        "openingPrice": 43.12,
+        "tradingVolume": 28873080,
+        "transactionAmount": 1302627712
+    },
+    {
+        "closingPrice": 37.68,
+        "date": "2015-07-31",
+        "highestPrice": 43.35,
+        "lowestPrice": 43.35,
+        "openingPrice": 38,
+        "tradingVolume": 27721106,
+        "transactionAmount": 1147915904
+    },
+    {
+        "closingPrice": 37.96,
+        "date": "2015-07-30",
+        "highestPrice": 41.58,
+        "lowestPrice": 39.41,
+        "openingPrice": 38.94,
+        "tradingVolume": 24143060,
+        "transactionAmount": 963936640
+    },
+    {
+        "closingPrice": 33.35,
+        "date": "2015-07-29",
+        "highestPrice": 37.84,
+        "lowestPrice": 37.84,
+        "openingPrice": 35.15,
+        "tradingVolume": 14839423,
+        "transactionAmount": 527659936
+    },
+    {
+        "closingPrice": 30.88,
+        "date": "2015-07-28",
+        "highestPrice": 36.35,
+        "lowestPrice": 34.4,
+        "openingPrice": 31.46,
+        "tradingVolume": 14749034,
+        "transactionAmount": 490652128
+    },
+    {
+        "closingPrice": 34.25,
+        "date": "2015-07-27",
+        "highestPrice": 39.89,
+        "lowestPrice": 34.25,
+        "openingPrice": 36.8,
+        "tradingVolume": 17556036,
+        "transactionAmount": 659506240
+    },
+    {
+        "closingPrice": 37.02,
+        "date": "2015-07-24",
+        "highestPrice": 41.6,
+        "lowestPrice": 38.06,
+        "openingPrice": 39.73,
+        "tradingVolume": 23489716,
+        "transactionAmount": 928923200
+    },
+    {
+        "closingPrice": 34.49,
+        "date": "2015-07-23",
+        "highestPrice": 37.97,
+        "lowestPrice": 37.97,
+        "openingPrice": 34.71,
+        "tradingVolume": 11847098,
+        "transactionAmount": 432272768
+    },
+    {
+        "closingPrice": 33.5,
+        "date": "2015-07-22",
+        "highestPrice": 35.82,
+        "lowestPrice": 34.52,
+        "openingPrice": 35.69,
+        "tradingVolume": 11924661,
+        "transactionAmount": 415408832
+    },
+    {
+        "closingPrice": 33.5,
+        "date": "2015-07-21",
+        "highestPrice": 36.5,
+        "lowestPrice": 35.83,
+        "openingPrice": 34.29,
+        "tradingVolume": 13180989,
+        "transactionAmount": 462902272
+    },
+    {
+        "closingPrice": 34.1,
+        "date": "2015-07-20",
+        "highestPrice": 37.95,
+        "lowestPrice": 35.21,
+        "openingPrice": 36.3,
+        "tradingVolume": 14621372,
+        "transactionAmount": 528270336
+    },
+    {
+        "closingPrice": 34.5,
+        "date": "2015-07-17",
+        "highestPrice": 38.6,
+        "lowestPrice": 37.35,
+        "openingPrice": 36.5,
+        "tradingVolume": 18563360,
+        "transactionAmount": 687342848
+    },
+    {
+        "closingPrice": 36.25,
+        "date": "2015-07-16",
+        "highestPrice": 40.38,
+        "lowestPrice": 36.25,
+        "openingPrice": 36.25,
+        "tradingVolume": 18502076,
+        "transactionAmount": 693695232
+    },
+    {
+        "closingPrice": 40.28,
+        "date": "2015-07-15",
+        "highestPrice": 43.35,
+        "lowestPrice": 40.28,
+        "openingPrice": 41.9,
+        "tradingVolume": 11714557,
+        "transactionAmount": 480115456
+    },
+    {
+        "closingPrice": 40.01,
+        "date": "2015-07-14",
+        "highestPrice": 44.75,
+        "lowestPrice": 44.75,
+        "openingPrice": 42,
+        "tradingVolume": 29812228,
+        "transactionAmount": 1277567744
+    },
+    {
+        "closingPrice": 38.03,
+        "date": "2015-07-13",
+        "highestPrice": 40.68,
+        "lowestPrice": 40.68,
+        "openingPrice": 40,
+        "tradingVolume": 18159774,
+        "transactionAmount": 729918912
+    },
+    {
+        "closingPrice": 34,
+        "date": "2015-07-10",
+        "highestPrice": 36.98,
+        "lowestPrice": 36.98,
+        "openingPrice": 35,
+        "tradingVolume": 15907353,
+        "transactionAmount": 579426496
+    },
+    {
+        "closingPrice": 27.5,
+        "date": "2015-07-09",
+        "highestPrice": 33.62,
+        "lowestPrice": 33.62,
+        "openingPrice": 27.5,
+        "tradingVolume": 22147828,
+        "transactionAmount": 681912640
+    },
+    {
+        "closingPrice": 30.56,
+        "date": "2015-07-07",
+        "highestPrice": 30.56,
+        "lowestPrice": 30.56,
+        "openingPrice": 30.56,
+        "tradingVolume": 2543700,
+        "transactionAmount": 77735472
+    },
+    {
+        "closingPrice": 33.58,
+        "date": "2015-07-06",
+        "highestPrice": 41.04,
+        "lowestPrice": 33.95,
+        "openingPrice": 41.04,
+        "tradingVolume": 28729996,
+        "transactionAmount": 1081301632
+    },
+    {
+        "closingPrice": 30.54,
+        "date": "2015-07-03",
+        "highestPrice": 37.31,
+        "lowestPrice": 37.31,
+        "openingPrice": 35,
+        "tradingVolume": 34488212,
+        "transactionAmount": 1172921728
+    },
+    {
+        "closingPrice": 33.92,
+        "date": "2015-07-02",
+        "highestPrice": 33.92,
+        "lowestPrice": 33.92,
+        "openingPrice": 33.92,
+        "tradingVolume": 457950,
+        "transactionAmount": 15533664
+    },
+    {
+        "closingPrice": 30.84,
+        "date": "2015-07-01",
+        "highestPrice": 30.84,
+        "lowestPrice": 30.84,
+        "openingPrice": 30.84,
+        "tradingVolume": 33800,
+        "transactionAmount": 1042392
+    },
+    {
+        "closingPrice": 31.74,
+        "date": "2015-12-31",
+        "highestPrice": 32.88,
+        "lowestPrice": 31.78,
+        "openingPrice": 32.55,
+        "tradingVolume": 3468108,
+        "transactionAmount": 111936802
+    },
+    {
+        "closingPrice": 32.39,
+        "date": "2015-12-30",
+        "highestPrice": 33,
+        "lowestPrice": 32.78,
+        "openingPrice": 32.97,
+        "tradingVolume": 3178685,
+        "transactionAmount": 103900088
+    },
+    {
+        "closingPrice": 32.1,
+        "date": "2015-12-29",
+        "highestPrice": 32.98,
+        "lowestPrice": 32.95,
+        "openingPrice": 32.45,
+        "tradingVolume": 3650882,
+        "transactionAmount": 118528768
+    },
+    {
+        "closingPrice": 32.37,
+        "date": "2015-12-28",
+        "highestPrice": 34.46,
+        "lowestPrice": 32.44,
+        "openingPrice": 33.5,
+        "tradingVolume": 7097982,
+        "transactionAmount": 237748465
+    },
+    {
+        "closingPrice": 32.81,
+        "date": "2015-12-25",
+        "highestPrice": 33.65,
+        "lowestPrice": 33.06,
+        "openingPrice": 33.15,
+        "tradingVolume": 4232279,
+        "transactionAmount": 140645032
+    },
+    {
+        "closingPrice": 32.3,
+        "date": "2015-12-24",
+        "highestPrice": 33.29,
+        "lowestPrice": 33.17,
+        "openingPrice": 32.65,
+        "tradingVolume": 4607074,
+        "transactionAmount": 151488208
+    },
+    {
+        "closingPrice": 32.61,
+        "date": "2015-12-23",
+        "highestPrice": 33.88,
+        "lowestPrice": 32.73,
+        "openingPrice": 33.05,
+        "tradingVolume": 6046709,
+        "transactionAmount": 200831440
+    },
+    {
+        "closingPrice": 32.21,
+        "date": "2015-12-22",
+        "highestPrice": 33.26,
+        "lowestPrice": 32.98,
+        "openingPrice": 32.69,
+        "tradingVolume": 4198399,
+        "transactionAmount": 136944490
+    },
+    {
+        "closingPrice": 32.01,
+        "date": "2015-12-21",
+        "highestPrice": 33.49,
+        "lowestPrice": 32.98,
+        "openingPrice": 32.02,
+        "tradingVolume": 5272401,
+        "transactionAmount": 173746160
+    },
+    {
+        "closingPrice": 32.01,
+        "date": "2015-12-18",
+        "highestPrice": 32.78,
+        "lowestPrice": 32.22,
+        "openingPrice": 32.71,
+        "tradingVolume": 3951063,
+        "transactionAmount": 127744696
+    },
+    {
+        "closingPrice": 31.79,
+        "date": "2015-12-17",
+        "highestPrice": 32.94,
+        "lowestPrice": 32.85,
+        "openingPrice": 31.82,
+        "tradingVolume": 5663189,
+        "transactionAmount": 182636928
+    },
+    {
+        "closingPrice": 31.15,
+        "date": "2015-12-16",
+        "highestPrice": 32.28,
+        "lowestPrice": 31.69,
+        "openingPrice": 31.17,
+        "tradingVolume": 4169651,
+        "transactionAmount": 132695672
+    },
+    {
+        "closingPrice": 30.9,
+        "date": "2015-12-15",
+        "highestPrice": 31.48,
+        "lowestPrice": 31.16,
+        "openingPrice": 31.48,
+        "tradingVolume": 2681029,
+        "transactionAmount": 83559912
+    },
+    {
+        "closingPrice": 29.88,
+        "date": "2015-12-14",
+        "highestPrice": 31.36,
+        "lowestPrice": 31.24,
+        "openingPrice": 30.18,
+        "tradingVolume": 2784807,
+        "transactionAmount": 85302512
+    },
+    {
+        "closingPrice": 30.1,
+        "date": "2015-12-11",
+        "highestPrice": 30.65,
+        "lowestPrice": 30.44,
+        "openingPrice": 30.43,
+        "tradingVolume": 2650844,
+        "transactionAmount": 80652752
+    },
+    {
+        "closingPrice": 30.38,
+        "date": "2015-12-10",
+        "highestPrice": 31.25,
+        "lowestPrice": 30.57,
+        "openingPrice": 30.9,
+        "tradingVolume": 3144490,
+        "transactionAmount": 96831472
+    },
+    {
+        "closingPrice": 30.71,
+        "date": "2015-12-09",
+        "highestPrice": 31.74,
+        "lowestPrice": 30.93,
+        "openingPrice": 31.06,
+        "tradingVolume": 3170833,
+        "transactionAmount": 98854093
+    },
+    {
+        "closingPrice": 31,
+        "date": "2015-12-08",
+        "highestPrice": 32.2,
+        "lowestPrice": 31.06,
+        "openingPrice": 32.2,
+        "tradingVolume": 3993478,
+        "transactionAmount": 125428280
+    },
+    {
+        "closingPrice": 31.6,
+        "date": "2015-12-07",
+        "highestPrice": 32.28,
+        "lowestPrice": 32.05,
+        "openingPrice": 31.97,
+        "tradingVolume": 3224677,
+        "transactionAmount": 103064112
+    },
+    {
+        "closingPrice": 31.41,
+        "date": "2015-12-04",
+        "highestPrice": 32.4,
+        "lowestPrice": 31.86,
+        "openingPrice": 32,
+        "tradingVolume": 4464212,
+        "transactionAmount": 142594720
+    },
+    {
+        "closingPrice": 30.65,
+        "date": "2015-12-03",
+        "highestPrice": 32.09,
+        "lowestPrice": 32.08,
+        "openingPrice": 30.82,
+        "tradingVolume": 5134835,
+        "transactionAmount": 162227748
+    },
+    {
+        "closingPrice": 29.15,
+        "date": "2015-12-02",
+        "highestPrice": 31.17,
+        "lowestPrice": 30.64,
+        "openingPrice": 31,
+        "tradingVolume": 4072219,
+        "transactionAmount": 123353208
+    },
+    {
+        "closingPrice": 30.7,
+        "date": "2015-12-01",
+        "highestPrice": 32.1,
+        "lowestPrice": 31.19,
+        "openingPrice": 31.3,
+        "tradingVolume": 4916877,
+        "transactionAmount": 154859671
+    },
+    {
+        "closingPrice": 29.11,
+        "date": "2015-11-30",
+        "highestPrice": 31.77,
+        "lowestPrice": 31.47,
+        "openingPrice": 30.9,
+        "tradingVolume": 6588500,
+        "transactionAmount": 202270608
+    },
+    {
+        "closingPrice": 30.66,
+        "date": "2015-11-27",
+        "highestPrice": 33.63,
+        "lowestPrice": 31.01,
+        "openingPrice": 33.63,
+        "tradingVolume": 7324747,
+        "transactionAmount": 236387744
+    },
+    {
+        "closingPrice": 33.81,
+        "date": "2015-11-26",
+        "highestPrice": 35.18,
+        "lowestPrice": 34,
+        "openingPrice": 34.24,
+        "tradingVolume": 7031658,
+        "transactionAmount": 242008864
+    },
+    {
+        "closingPrice": 33.69,
+        "date": "2015-11-25",
+        "highestPrice": 34.6,
+        "lowestPrice": 34.31,
+        "openingPrice": 34.43,
+        "tradingVolume": 7062694,
+        "transactionAmount": 240990064
+    },
+    {
+        "closingPrice": 33,
+        "date": "2015-11-24",
+        "highestPrice": 34.77,
+        "lowestPrice": 34.62,
+        "openingPrice": 33.09,
+        "tradingVolume": 8127881,
+        "transactionAmount": 276847840
+    },
+    {
+        "closingPrice": 32.66,
+        "date": "2015-11-23",
+        "highestPrice": 34.16,
+        "lowestPrice": 33.16,
+        "openingPrice": 32.71,
+        "tradingVolume": 6907937,
+        "transactionAmount": 231097104
+    },
+    {
+        "closingPrice": 32.5,
+        "date": "2015-11-20",
+        "highestPrice": 33.22,
+        "lowestPrice": 32.94,
+        "openingPrice": 32.88,
+        "tradingVolume": 5869695,
+        "transactionAmount": 192892432
+    },
+    {
+        "closingPrice": 31.85,
+        "date": "2015-11-19",
+        "highestPrice": 32.9,
+        "lowestPrice": 32.89,
+        "openingPrice": 31.85,
+        "tradingVolume": 4849454,
+        "transactionAmount": 157221616
+    },
+    {
+        "closingPrice": 31.58,
+        "date": "2015-11-18",
+        "highestPrice": 32.95,
+        "lowestPrice": 31.79,
+        "openingPrice": 32.8,
+        "tradingVolume": 5194516,
+        "transactionAmount": 167150208
+    },
+    {
+        "closingPrice": 32.39,
+        "date": "2015-11-17",
+        "highestPrice": 34.24,
+        "lowestPrice": 32.42,
+        "openingPrice": 33.66,
+        "tradingVolume": 7536769,
+        "transactionAmount": 251232176
+    },
+    {
+        "closingPrice": 31.66,
+        "date": "2015-11-16",
+        "highestPrice": 33.48,
+        "lowestPrice": 33.3,
+        "openingPrice": 32,
+        "tradingVolume": 7480366,
+        "transactionAmount": 245448304
+    },
+    {
+        "closingPrice": 33,
+        "date": "2015-11-13",
+        "highestPrice": 35.96,
+        "lowestPrice": 33.19,
+        "openingPrice": 35.9,
+        "tradingVolume": 13730853,
+        "transactionAmount": 470428960
+    },
+    {
+        "closingPrice": 33.9,
+        "date": "2015-11-12",
+        "highestPrice": 36.96,
+        "lowestPrice": 36.28,
+        "openingPrice": 34.3,
+        "tradingVolume": 14327627,
+        "transactionAmount": 507721376
+    },
+    {
+        "closingPrice": 31.69,
+        "date": "2015-11-11",
+        "highestPrice": 35.21,
+        "lowestPrice": 34.09,
+        "openingPrice": 31.99,
+        "tradingVolume": 12034081,
+        "transactionAmount": 401597344
+    },
+    {
+        "closingPrice": 31.62,
+        "date": "2015-11-10",
+        "highestPrice": 33.5,
+        "lowestPrice": 32.3,
+        "openingPrice": 32.6,
+        "tradingVolume": 10251999,
+        "transactionAmount": 333140608
+    },
+    {
+        "closingPrice": 31.8,
+        "date": "2015-11-09",
+        "highestPrice": 33.79,
+        "lowestPrice": 32.98,
+        "openingPrice": 32,
+        "tradingVolume": 13836770,
+        "transactionAmount": 454849312
+    },
+    {
+        "closingPrice": 31.2,
+        "date": "2015-11-06",
+        "highestPrice": 32.4,
+        "lowestPrice": 32.02,
+        "openingPrice": 31.4,
+        "tradingVolume": 10678901,
+        "transactionAmount": 340299264
+    },
+    {
+        "closingPrice": 31.11,
+        "date": "2015-11-05",
+        "highestPrice": 32.45,
+        "lowestPrice": 31.29,
+        "openingPrice": 31.88,
+        "tradingVolume": 11864213,
+        "transactionAmount": 375594912
+    },
+    {
+        "closingPrice": 30.4,
+        "date": "2015-11-04",
+        "highestPrice": 32.45,
+        "lowestPrice": 32.15,
+        "openingPrice": 31.5,
+        "tradingVolume": 15344736,
+        "transactionAmount": 482408064
+    },
+    {
+        "closingPrice": 29.82,
+        "date": "2015-11-03",
+        "highestPrice": 31.5,
+        "lowestPrice": 31.37,
+        "openingPrice": 29.9,
+        "tradingVolume": 11955072,
+        "transactionAmount": 368197120
+    },
+    {
+        "closingPrice": 28.03,
+        "date": "2015-11-02",
+        "highestPrice": 30.9,
+        "lowestPrice": 29.85,
+        "openingPrice": 28.4,
+        "tradingVolume": 9822268,
+        "transactionAmount": 295246432
+    },
+    {
+        "closingPrice": 29,
+        "date": "2015-10-30",
+        "highestPrice": 30.48,
+        "lowestPrice": 29.51,
+        "openingPrice": 29.1,
+        "tradingVolume": 8627634,
+        "transactionAmount": 257741120
+    },
+    {
+        "closingPrice": 28.8,
+        "date": "2015-10-29",
+        "highestPrice": 29.5,
+        "lowestPrice": 29.14,
+        "openingPrice": 29.1,
+        "tradingVolume": 5159108,
+        "transactionAmount": 150315552
+    },
+    {
+        "closingPrice": 28.61,
+        "date": "2015-10-28",
+        "highestPrice": 30.27,
+        "lowestPrice": 28.93,
+        "openingPrice": 28.82,
+        "tradingVolume": 7879000,
+        "transactionAmount": 232506288
+    },
+    {
+        "closingPrice": 27.9,
+        "date": "2015-10-27",
+        "highestPrice": 29.32,
+        "lowestPrice": 29.08,
+        "openingPrice": 29.15,
+        "tradingVolume": 6795986,
+        "transactionAmount": 194587696
+    },
+    {
+        "closingPrice": 28.81,
+        "date": "2015-10-26",
+        "highestPrice": 29.99,
+        "lowestPrice": 29.4,
+        "openingPrice": 29.45,
+        "tradingVolume": 7143874,
+        "transactionAmount": 209518384
+    },
+    {
+        "closingPrice": 28.32,
+        "date": "2015-10-23",
+        "highestPrice": 29.29,
+        "lowestPrice": 29.06,
+        "openingPrice": 28.54,
+        "tradingVolume": 8365153,
+        "transactionAmount": 240027152
+    },
+    {
+        "closingPrice": 27.09,
+        "date": "2015-10-22",
+        "highestPrice": 28.88,
+        "lowestPrice": 28.58,
+        "openingPrice": 27.81,
+        "tradingVolume": 8231978,
+        "transactionAmount": 231289840
+    },
+    {
+        "closingPrice": 27.81,
+        "date": "2015-10-21",
+        "highestPrice": 31.1,
+        "lowestPrice": 27.81,
+        "openingPrice": 31.1,
+        "tradingVolume": 11423827,
+        "transactionAmount": 333906560
+    },
+    {
+        "closingPrice": 30.26,
+        "date": "2015-10-20",
+        "highestPrice": 31.28,
+        "lowestPrice": 30.9,
+        "openingPrice": 30.59,
+        "tradingVolume": 8520587,
+        "transactionAmount": 262028736
+    },
+    {
+        "closingPrice": 30.08,
+        "date": "2015-10-19",
+        "highestPrice": 31.57,
+        "lowestPrice": 30.78,
+        "openingPrice": 30.5,
+        "tradingVolume": 10374226,
+        "transactionAmount": 318722400
+    },
+    {
+        "closingPrice": 30.15,
+        "date": "2015-10-16",
+        "highestPrice": 32.63,
+        "lowestPrice": 30.92,
+        "openingPrice": 32.3,
+        "tradingVolume": 15252105,
+        "transactionAmount": 475841632
+    },
+    {
+        "closingPrice": 27.79,
+        "date": "2015-10-15",
+        "highestPrice": 30.87,
+        "lowestPrice": 30.87,
+        "openingPrice": 27.9,
+        "tradingVolume": 8874245,
+        "transactionAmount": 263239440
+    },
+    {
+        "closingPrice": 28.04,
+        "date": "2015-10-14",
+        "highestPrice": 29.47,
+        "lowestPrice": 28.06,
+        "openingPrice": 28.44,
+        "tradingVolume": 7218446,
+        "transactionAmount": 206903840
+    },
+    {
+        "closingPrice": 28.19,
+        "date": "2015-10-13",
+        "highestPrice": 28.99,
+        "lowestPrice": 28.73,
+        "openingPrice": 28.89,
+        "tradingVolume": 7511444,
+        "transactionAmount": 214912240
+    },
+    {
+        "closingPrice": 27.02,
+        "date": "2015-10-12",
+        "highestPrice": 29.66,
+        "lowestPrice": 29.06,
+        "openingPrice": 27.1,
+        "tradingVolume": 10437478,
+        "transactionAmount": 293862784
+    },
+    {
+        "closingPrice": 26.5,
+        "date": "2015-10-09",
+        "highestPrice": 27.24,
+        "lowestPrice": 27,
+        "openingPrice": 26.84,
+        "tradingVolume": 5890897,
+        "transactionAmount": 158494688
+    },
+    {
+        "closingPrice": 26.3,
+        "date": "2015-10-08",
+        "highestPrice": 27.48,
+        "lowestPrice": 26.89,
+        "openingPrice": 26.9,
+        "tradingVolume": 6692632,
+        "transactionAmount": 179816832
+    },
+    {
+        "closingPrice": 23.24,
+        "date": "2016-03-31",
+        "highestPrice": 23.59,
+        "lowestPrice": 23.34,
+        "openingPrice": 23.4,
+        "tradingVolume": 2807230,
+        "transactionAmount": 65802958
+    },
+    {
+        "closingPrice": 22.67,
+        "date": "2016-03-30",
+        "highestPrice": 23.29,
+        "lowestPrice": 23.27,
+        "openingPrice": 22.96,
+        "tradingVolume": 2322904,
+        "transactionAmount": 53340470
+    },
+    {
+        "closingPrice": 22.41,
+        "date": "2016-03-29",
+        "highestPrice": 23.2,
+        "lowestPrice": 22.52,
+        "openingPrice": 23.09,
+        "tradingVolume": 2093416,
+        "transactionAmount": 47559805
+    },
+    {
+        "closingPrice": 23.06,
+        "date": "2016-03-28",
+        "highestPrice": 23.6,
+        "lowestPrice": 23.1,
+        "openingPrice": 23.4,
+        "tradingVolume": 2085461,
+        "transactionAmount": 48715684
+    },
+    {
+        "closingPrice": 22.95,
+        "date": "2016-03-25",
+        "highestPrice": 23.41,
+        "lowestPrice": 23.28,
+        "openingPrice": 23.15,
+        "tradingVolume": 2186597,
+        "transactionAmount": 50716971
+    },
+    {
+        "closingPrice": 23.01,
+        "date": "2016-03-24",
+        "highestPrice": 23.75,
+        "lowestPrice": 23.18,
+        "openingPrice": 23.31,
+        "tradingVolume": 3454868,
+        "transactionAmount": 80781180
+    },
+    {
+        "closingPrice": 23.06,
+        "date": "2016-03-23",
+        "highestPrice": 24.01,
+        "lowestPrice": 23.65,
+        "openingPrice": 23.06,
+        "tradingVolume": 3925360,
+        "transactionAmount": 92633197
+    },
+    {
+        "closingPrice": 23.1,
+        "date": "2016-03-22",
+        "highestPrice": 23.44,
+        "lowestPrice": 23.18,
+        "openingPrice": 23.22,
+        "tradingVolume": 2935550,
+        "transactionAmount": 68280377
+    },
+    {
+        "closingPrice": 22.96,
+        "date": "2016-03-21",
+        "highestPrice": 23.71,
+        "lowestPrice": 23.54,
+        "openingPrice": 23.08,
+        "tradingVolume": 4329584,
+        "transactionAmount": 100828471
+    },
+    {
+        "closingPrice": 22.09,
+        "date": "2016-03-18",
+        "highestPrice": 23.15,
+        "lowestPrice": 22.92,
+        "openingPrice": 22.15,
+        "tradingVolume": 4685011,
+        "transactionAmount": 106267222
+    },
+    {
+        "closingPrice": 21.55,
+        "date": "2016-03-17",
+        "highestPrice": 22.25,
+        "lowestPrice": 22.2,
+        "openingPrice": 21.6,
+        "tradingVolume": 2856478,
+        "transactionAmount": 62906689
+    },
+    {
+        "closingPrice": 21.47,
+        "date": "2016-03-16",
+        "highestPrice": 22.04,
+        "lowestPrice": 21.57,
+        "openingPrice": 21.91,
+        "tradingVolume": 1519804,
+        "transactionAmount": 33020494
+    },
+    {
+        "closingPrice": 21.62,
+        "date": "2016-03-15",
+        "highestPrice": 22.33,
+        "lowestPrice": 21.82,
+        "openingPrice": 21.95,
+        "tradingVolume": 1872696,
+        "transactionAmount": 40949645
+    },
+    {
+        "closingPrice": 21.63,
+        "date": "2016-03-14",
+        "highestPrice": 22.41,
+        "lowestPrice": 22.11,
+        "openingPrice": 21.63,
+        "tradingVolume": 2746339,
+        "transactionAmount": 60843193
+    },
+    {
+        "closingPrice": 20.93,
+        "date": "2016-03-11",
+        "highestPrice": 21.57,
+        "lowestPrice": 21.47,
+        "openingPrice": 20.93,
+        "tradingVolume": 1387905,
+        "transactionAmount": 29551133
+    },
+    {
+        "closingPrice": 21.3,
+        "date": "2016-03-10",
+        "highestPrice": 21.93,
+        "lowestPrice": 21.35,
+        "openingPrice": 21.68,
+        "tradingVolume": 1611179,
+        "transactionAmount": 34922269
+    },
+    {
+        "closingPrice": 21.5,
+        "date": "2016-03-09",
+        "highestPrice": 21.95,
+        "lowestPrice": 21.63,
+        "openingPrice": 21.7,
+        "tradingVolume": 1830619,
+        "transactionAmount": 39771564
+    },
+    {
+        "closingPrice": 20.96,
+        "date": "2016-03-08",
+        "highestPrice": 22.4,
+        "lowestPrice": 22.28,
+        "openingPrice": 21.79,
+        "tradingVolume": 3317876,
+        "transactionAmount": 72189318
+    },
+    {
+        "closingPrice": 21.35,
+        "date": "2016-03-07",
+        "highestPrice": 22.01,
+        "lowestPrice": 21.83,
+        "openingPrice": 21.66,
+        "tradingVolume": 1707017,
+        "transactionAmount": 37205187
+    },
+    {
+        "closingPrice": 20.89,
+        "date": "2016-03-04",
+        "highestPrice": 22.2,
+        "lowestPrice": 21.31,
+        "openingPrice": 22.08,
+        "tradingVolume": 2447510,
+        "transactionAmount": 52966325
+    },
+    {
+        "closingPrice": 22.05,
+        "date": "2016-03-03",
+        "highestPrice": 22.49,
+        "lowestPrice": 22.23,
+        "openingPrice": 22.08,
+        "tradingVolume": 3092866,
+        "transactionAmount": 68876049
+    },
+    {
+        "closingPrice": 21.2,
+        "date": "2016-03-02",
+        "highestPrice": 22.41,
+        "lowestPrice": 22.22,
+        "openingPrice": 21.38,
+        "tradingVolume": 2868362,
+        "transactionAmount": 62542807
+    },
+    {
+        "closingPrice": 20.65,
+        "date": "2016-03-01",
+        "highestPrice": 21.68,
+        "lowestPrice": 21.3,
+        "openingPrice": 20.97,
+        "tradingVolume": 2193654,
+        "transactionAmount": 46394329
+    },
+    {
+        "closingPrice": 20.57,
+        "date": "2016-02-29",
+        "highestPrice": 22.43,
+        "lowestPrice": 20.96,
+        "openingPrice": 22.43,
+        "tradingVolume": 2376285,
+        "transactionAmount": 50160406
+    },
+    {
+        "closingPrice": 21.88,
+        "date": "2016-02-26",
+        "highestPrice": 22.99,
+        "lowestPrice": 22.59,
+        "openingPrice": 22.66,
+        "tradingVolume": 2238151,
+        "transactionAmount": 50623682
+    },
+    {
+        "closingPrice": 22.53,
+        "date": "2016-02-25",
+        "highestPrice": 24.73,
+        "lowestPrice": 22.53,
+        "openingPrice": 24.62,
+        "tradingVolume": 4496669,
+        "transactionAmount": 106101745
+    },
+    {
+        "closingPrice": 23.42,
+        "date": "2016-02-24",
+        "highestPrice": 25.45,
+        "lowestPrice": 25.03,
+        "openingPrice": 23.96,
+        "tradingVolume": 4965870,
+        "transactionAmount": 120952039
+    },
+    {
+        "closingPrice": 23.82,
+        "date": "2016-02-23",
+        "highestPrice": 24.47,
+        "lowestPrice": 24.07,
+        "openingPrice": 24.4,
+        "tradingVolume": 2667204,
+        "transactionAmount": 64483549
+    },
+    {
+        "closingPrice": 24.08,
+        "date": "2016-02-22",
+        "highestPrice": 24.53,
+        "lowestPrice": 24.49,
+        "openingPrice": 24.4,
+        "tradingVolume": 3567124,
+        "transactionAmount": 86752305
+    },
+    {
+        "closingPrice": 23.45,
+        "date": "2016-02-19",
+        "highestPrice": 24.3,
+        "lowestPrice": 24.03,
+        "openingPrice": 23.55,
+        "tradingVolume": 3314510,
+        "transactionAmount": 78691506
+    },
+    {
+        "closingPrice": 23.31,
+        "date": "2016-02-18",
+        "highestPrice": 24.64,
+        "lowestPrice": 23.92,
+        "openingPrice": 23.55,
+        "tradingVolume": 4609223,
+        "transactionAmount": 109868769
+    },
+    {
+        "closingPrice": 22.96,
+        "date": "2016-02-17",
+        "highestPrice": 23.58,
+        "lowestPrice": 23.47,
+        "openingPrice": 23.3,
+        "tradingVolume": 3010495,
+        "transactionAmount": 70153168
+    },
+    {
+        "closingPrice": 22.53,
+        "date": "2016-02-16",
+        "highestPrice": 23.4,
+        "lowestPrice": 23.33,
+        "openingPrice": 22.53,
+        "tradingVolume": 2756471,
+        "transactionAmount": 63795506
+    },
+    {
+        "closingPrice": 21.74,
+        "date": "2016-02-15",
+        "highestPrice": 22.74,
+        "lowestPrice": 22.45,
+        "openingPrice": 22,
+        "tradingVolume": 1815518,
+        "transactionAmount": 40279856
+    },
+    {
+        "closingPrice": 22.7,
+        "date": "2016-02-05",
+        "highestPrice": 23.36,
+        "lowestPrice": 22.8,
+        "openingPrice": 23.02,
+        "tradingVolume": 2579985,
+        "transactionAmount": 59227153
+    },
+    {
+        "closingPrice": 22.33,
+        "date": "2016-02-04",
+        "highestPrice": 23.88,
+        "lowestPrice": 23.28,
+        "openingPrice": 22.4,
+        "tradingVolume": 4001876,
+        "transactionAmount": 92246276
+    },
+    {
+        "closingPrice": 21.71,
+        "date": "2016-02-03",
+        "highestPrice": 22.39,
+        "lowestPrice": 22.29,
+        "openingPrice": 22.1,
+        "tradingVolume": 2023804,
+        "transactionAmount": 44593129
+    },
+    {
+        "closingPrice": 21.6,
+        "date": "2016-02-02",
+        "highestPrice": 22.46,
+        "lowestPrice": 22.4,
+        "openingPrice": 21.66,
+        "tradingVolume": 2656884,
+        "transactionAmount": 59055037
+    },
+    {
+        "closingPrice": 21,
+        "date": "2016-02-01",
+        "highestPrice": 22.39,
+        "lowestPrice": 21.65,
+        "openingPrice": 22.3,
+        "tradingVolume": 2270795,
+        "transactionAmount": 49682608
+    },
+    {
+        "closingPrice": 21.5,
+        "date": "2016-01-29",
+        "highestPrice": 22.7,
+        "lowestPrice": 22.41,
+        "openingPrice": 21.78,
+        "tradingVolume": 2690342,
+        "transactionAmount": 59705383
+    },
+    {
+        "closingPrice": 21.4,
+        "date": "2016-01-28",
+        "highestPrice": 23.08,
+        "lowestPrice": 21.66,
+        "openingPrice": 22.89,
+        "tradingVolume": 2345200,
+        "transactionAmount": 52542084
+    },
+    {
+        "closingPrice": 21.68,
+        "date": "2016-01-27",
+        "highestPrice": 23.9,
+        "lowestPrice": 22.99,
+        "openingPrice": 23.4,
+        "tradingVolume": 3201961,
+        "transactionAmount": 72975473
+    },
+    {
+        "closingPrice": 23.2,
+        "date": "2016-01-26",
+        "highestPrice": 25.55,
+        "lowestPrice": 23.35,
+        "openingPrice": 25.51,
+        "tradingVolume": 3099478,
+        "transactionAmount": 76284142
+    },
+    {
+        "closingPrice": 25.6,
+        "date": "2016-01-25",
+        "highestPrice": 26.1,
+        "lowestPrice": 25.78,
+        "openingPrice": 25.89,
+        "tradingVolume": 1915546,
+        "transactionAmount": 49517998
+    },
+    {
+        "closingPrice": 25,
+        "date": "2016-01-22",
+        "highestPrice": 25.7,
+        "lowestPrice": 25.68,
+        "openingPrice": 25.3,
+        "tradingVolume": 2353093,
+        "transactionAmount": 59792818
+    },
+    {
+        "closingPrice": 25.11,
+        "date": "2016-01-21",
+        "highestPrice": 26.24,
+        "lowestPrice": 25.13,
+        "openingPrice": 25.69,
+        "tradingVolume": 2684039,
+        "transactionAmount": 68845300
+    },
+    {
+        "closingPrice": 25.82,
+        "date": "2016-01-20",
+        "highestPrice": 26.7,
+        "lowestPrice": 26.01,
+        "openingPrice": 26.4,
+        "tradingVolume": 3501067,
+        "transactionAmount": 91830552
+    },
+    {
+        "closingPrice": 25.34,
+        "date": "2016-01-19",
+        "highestPrice": 26.66,
+        "lowestPrice": 26.65,
+        "openingPrice": 25.66,
+        "tradingVolume": 3852333,
+        "transactionAmount": 100247977
+    },
+    {
+        "closingPrice": 25,
+        "date": "2016-01-18",
+        "highestPrice": 26.12,
+        "lowestPrice": 25.7,
+        "openingPrice": 25.02,
+        "tradingVolume": 2746558,
+        "transactionAmount": 70489678
+    },
+    {
+        "closingPrice": 25.09,
+        "date": "2016-01-15",
+        "highestPrice": 26.77,
+        "lowestPrice": 25.53,
+        "openingPrice": 26.62,
+        "tradingVolume": 3298486,
+        "transactionAmount": 85626367
+    },
+    {
+        "closingPrice": 24.75,
+        "date": "2016-01-14",
+        "highestPrice": 27.15,
+        "lowestPrice": 26.81,
+        "openingPrice": 25,
+        "tradingVolume": 3770777,
+        "transactionAmount": 98515869
+    },
+    {
+        "closingPrice": 25.35,
+        "date": "2016-01-13",
+        "highestPrice": 26.68,
+        "lowestPrice": 25.73,
+        "openingPrice": 26.21,
+        "tradingVolume": 2870528,
+        "transactionAmount": 75069591
+    },
+    {
+        "closingPrice": 25.31,
+        "date": "2016-01-12",
+        "highestPrice": 26.6,
+        "lowestPrice": 26.21,
+        "openingPrice": 25.69,
+        "tradingVolume": 3204835,
+        "transactionAmount": 83290625
+    },
+    {
+        "closingPrice": 25.23,
+        "date": "2016-01-11",
+        "highestPrice": 27.44,
+        "lowestPrice": 25.35,
+        "openingPrice": 26.42,
+        "tradingVolume": 3976429,
+        "transactionAmount": 104944205
+    },
+    {
+        "closingPrice": 25.2,
+        "date": "2016-01-08",
+        "highestPrice": 27.24,
+        "lowestPrice": 26.92,
+        "openingPrice": 27,
+        "tradingVolume": 4212834,
+        "transactionAmount": 112215010
+    },
+    {
+        "closingPrice": 26.12,
+        "date": "2016-01-07",
+        "highestPrice": 28.52,
+        "lowestPrice": 26.13,
+        "openingPrice": 28.5,
+        "tradingVolume": 1069701,
+        "transactionAmount": 29050688
+    },
+    {
+        "closingPrice": 28.11,
+        "date": "2016-01-06",
+        "highestPrice": 29.18,
+        "lowestPrice": 29.02,
+        "openingPrice": 28.3,
+        "tradingVolume": 3818267,
+        "transactionAmount": 109077918
+    },
+    {
+        "closingPrice": 26.8,
+        "date": "2016-01-05",
+        "highestPrice": 28.58,
+        "lowestPrice": 28.25,
+        "openingPrice": 26.81,
+        "tradingVolume": 4656201,
+        "transactionAmount": 129612374
+    },
+    {
+        "closingPrice": 28.6,
+        "date": "2016-01-04",
+        "highestPrice": 31.79,
+        "lowestPrice": 28.6,
+        "openingPrice": 31.38,
+        "tradingVolume": 3180671,
+        "transactionAmount": 96123837
+    },
+    {
+        "closingPrice": 23.46,
+        "date": "2016-06-30",
+        "highestPrice": 23.8,
+        "lowestPrice": 23.68,
+        "openingPrice": 23.69,
+        "tradingVolume": 3388564,
+        "transactionAmount": 80058341
+    },
+    {
+        "closingPrice": 23.43,
+        "date": "2016-06-29",
+        "highestPrice": 24.15,
+        "lowestPrice": 23.85,
+        "openingPrice": 23.68,
+        "tradingVolume": 6036830,
+        "transactionAmount": 143385583
+    },
+    {
+        "closingPrice": 22.73,
+        "date": "2016-06-28",
+        "highestPrice": 23.8,
+        "lowestPrice": 23.73,
+        "openingPrice": 22.89,
+        "tradingVolume": 5787896,
+        "transactionAmount": 135906074
+    },
+    {
+        "closingPrice": 22.2,
+        "date": "2016-06-27",
+        "highestPrice": 23.14,
+        "lowestPrice": 23.05,
+        "openingPrice": 22.3,
+        "tradingVolume": 2956361,
+        "transactionAmount": 67537271
+    },
+    {
+        "closingPrice": 22.09,
+        "date": "2016-06-24",
+        "highestPrice": 23.27,
+        "lowestPrice": 22.59,
+        "openingPrice": 23.14,
+        "tradingVolume": 3595600,
+        "transactionAmount": 81673081
+    },
+    {
+        "closingPrice": 22.92,
+        "date": "2016-06-23",
+        "highestPrice": 23.5,
+        "lowestPrice": 23.14,
+        "openingPrice": 23.41,
+        "tradingVolume": 2810005,
+        "transactionAmount": 65246755
+    },
+    {
+        "closingPrice": 22.85,
+        "date": "2016-06-22",
+        "highestPrice": 23.45,
+        "lowestPrice": 23.44,
+        "openingPrice": 22.9,
+        "tradingVolume": 3361566,
+        "transactionAmount": 78177389
+    },
+    {
+        "closingPrice": 22.8,
+        "date": "2016-06-21",
+        "highestPrice": 23.82,
+        "lowestPrice": 22.98,
+        "openingPrice": 23.5,
+        "tradingVolume": 3840480,
+        "transactionAmount": 89729757
+    },
+    {
+        "closingPrice": 22.4,
+        "date": "2016-06-20",
+        "highestPrice": 23.58,
+        "lowestPrice": 23.51,
+        "openingPrice": 22.88,
+        "tradingVolume": 4383613,
+        "transactionAmount": 101451977
+    },
+    {
+        "closingPrice": 22.77,
+        "date": "2016-06-17",
+        "highestPrice": 23.22,
+        "lowestPrice": 22.93,
+        "openingPrice": 22.77,
+        "tradingVolume": 3084877,
+        "transactionAmount": 70953514
+    },
+    {
+        "closingPrice": 22.66,
+        "date": "2016-06-16",
+        "highestPrice": 23.17,
+        "lowestPrice": 22.77,
+        "openingPrice": 23,
+        "tradingVolume": 2706852,
+        "transactionAmount": 61890390
+    },
+    {
+        "closingPrice": 22,
+        "date": "2016-06-15",
+        "highestPrice": 23.23,
+        "lowestPrice": 23.09,
+        "openingPrice": 22.16,
+        "tradingVolume": 3844325,
+        "transactionAmount": 87828175
+    },
+    {
+        "closingPrice": 22.02,
+        "date": "2016-06-14",
+        "highestPrice": 22.38,
+        "lowestPrice": 22.35,
+        "openingPrice": 22.12,
+        "tradingVolume": 1672731,
+        "transactionAmount": 37157044
+    },
+    {
+        "closingPrice": 22.1,
+        "date": "2016-06-13",
+        "highestPrice": 23.16,
+        "lowestPrice": 22.13,
+        "openingPrice": 23.05,
+        "tradingVolume": 3387206,
+        "transactionAmount": 76978348
+    },
+    {
+        "closingPrice": 23.35,
+        "date": "2016-06-08",
+        "highestPrice": 23.9,
+        "lowestPrice": 23.6,
+        "openingPrice": 23.83,
+        "tradingVolume": 3760864,
+        "transactionAmount": 88875411
+    },
+    {
+        "closingPrice": 23.22,
+        "date": "2016-06-07",
+        "highestPrice": 24.4,
+        "lowestPrice": 24.06,
+        "openingPrice": 23.52,
+        "tradingVolume": 5006047,
+        "transactionAmount": 119343878
+    },
+    {
+        "closingPrice": 23.26,
+        "date": "2016-06-06",
+        "highestPrice": 23.89,
+        "lowestPrice": 23.5,
+        "openingPrice": 23.66,
+        "tradingVolume": 3508733,
+        "transactionAmount": 82482088
+    },
+    {
+        "closingPrice": 22.65,
+        "date": "2016-06-03",
+        "highestPrice": 24.48,
+        "lowestPrice": 23.8,
+        "openingPrice": 22.65,
+        "tradingVolume": 6517190,
+        "transactionAmount": 153328909
+    },
+    {
+        "closingPrice": 22.44,
+        "date": "2016-06-02",
+        "highestPrice": 22.94,
+        "lowestPrice": 22.87,
+        "openingPrice": 22.44,
+        "tradingVolume": 3226435,
+        "transactionAmount": 73218970
+    },
+    {
+        "closingPrice": 22.52,
+        "date": "2016-06-01",
+        "highestPrice": 22.89,
+        "lowestPrice": 22.6,
+        "openingPrice": 22.65,
+        "tradingVolume": 3733786,
+        "transactionAmount": 84737240
+    },
+    {
+        "closingPrice": 21.5,
+        "date": "2016-05-31",
+        "highestPrice": 22.85,
+        "lowestPrice": 22.7,
+        "openingPrice": 21.82,
+        "tradingVolume": 4264041,
+        "transactionAmount": 95293451
+    },
+    {
+        "closingPrice": 21.36,
+        "date": "2016-05-30",
+        "highestPrice": 21.96,
+        "lowestPrice": 21.74,
+        "openingPrice": 21.85,
+        "tradingVolume": 1402750,
+        "transactionAmount": 30494660
+    },
+    {
+        "closingPrice": 21.69,
+        "date": "2016-05-27",
+        "highestPrice": 22.18,
+        "lowestPrice": 22.07,
+        "openingPrice": 21.89,
+        "tradingVolume": 2231404,
+        "transactionAmount": 49103150
+    },
+    {
+        "closingPrice": 21.35,
+        "date": "2016-05-26",
+        "highestPrice": 21.9,
+        "lowestPrice": 21.89,
+        "openingPrice": 21.68,
+        "tradingVolume": 1487358,
+        "transactionAmount": 32159699
+    },
+    {
+        "closingPrice": 21.7,
+        "date": "2016-05-25",
+        "highestPrice": 22.09,
+        "lowestPrice": 21.83,
+        "openingPrice": 21.95,
+        "tradingVolume": 1386628,
+        "transactionAmount": 30398738
+    },
+    {
+        "closingPrice": 21.69,
+        "date": "2016-05-24",
+        "highestPrice": 22.13,
+        "lowestPrice": 21.82,
+        "openingPrice": 22.13,
+        "tradingVolume": 1542757,
+        "transactionAmount": 33702507
+    },
+    {
+        "closingPrice": 21.51,
+        "date": "2016-05-23",
+        "highestPrice": 22.21,
+        "lowestPrice": 22.17,
+        "openingPrice": 21.68,
+        "tradingVolume": 2103707,
+        "transactionAmount": 46140443
+    },
+    {
+        "closingPrice": 21.15,
+        "date": "2016-05-20",
+        "highestPrice": 21.72,
+        "lowestPrice": 21.68,
+        "openingPrice": 21.3,
+        "tradingVolume": 1453823,
+        "transactionAmount": 31243220
+    },
+    {
+        "closingPrice": 21.22,
+        "date": "2016-05-19",
+        "highestPrice": 21.8,
+        "lowestPrice": 21.49,
+        "openingPrice": 21.25,
+        "tradingVolume": 1945069,
+        "transactionAmount": 41914977
+    },
+    {
+        "closingPrice": 21,
+        "date": "2016-05-18",
+        "highestPrice": 21.97,
+        "lowestPrice": 21.26,
+        "openingPrice": 21.97,
+        "tradingVolume": 2316598,
+        "transactionAmount": 49728343
+    },
+    {
+        "closingPrice": 21.91,
+        "date": "2016-05-17",
+        "highestPrice": 22.32,
+        "lowestPrice": 22.09,
+        "openingPrice": 22.28,
+        "tradingVolume": 1893100,
+        "transactionAmount": 41878367
+    },
+    {
+        "closingPrice": 21.66,
+        "date": "2016-05-16",
+        "highestPrice": 22.34,
+        "lowestPrice": 22.3,
+        "openingPrice": 22.05,
+        "tradingVolume": 2096927,
+        "transactionAmount": 46204979
+    },
+    {
+        "closingPrice": 21.85,
+        "date": "2016-05-13",
+        "highestPrice": 22.21,
+        "lowestPrice": 22.05,
+        "openingPrice": 21.96,
+        "tradingVolume": 1565132,
+        "transactionAmount": 34470596
+    },
+    {
+        "closingPrice": 21.51,
+        "date": "2016-05-12",
+        "highestPrice": 22.03,
+        "lowestPrice": 21.98,
+        "openingPrice": 22.03,
+        "tradingVolume": 2044665,
+        "transactionAmount": 44545073
+    },
+    {
+        "closingPrice": 22.21,
+        "date": "2016-05-11",
+        "highestPrice": 22.83,
+        "lowestPrice": 22.22,
+        "openingPrice": 22.8,
+        "tradingVolume": 2506741,
+        "transactionAmount": 56421470
+    },
+    {
+        "closingPrice": 22.4,
+        "date": "2016-05-10",
+        "highestPrice": 22.7,
+        "lowestPrice": 22.58,
+        "openingPrice": 22.46,
+        "tradingVolume": 2292502,
+        "transactionAmount": 51661802
+    },
+    {
+        "closingPrice": 22.31,
+        "date": "2016-05-09",
+        "highestPrice": 23.53,
+        "lowestPrice": 22.45,
+        "openingPrice": 23.37,
+        "tradingVolume": 3842318,
+        "transactionAmount": 87332720
+    },
+    {
+        "closingPrice": 23.53,
+        "date": "2016-05-06",
+        "highestPrice": 25.1,
+        "lowestPrice": 23.6,
+        "openingPrice": 25,
+        "tradingVolume": 6775476,
+        "transactionAmount": 164794335
+    },
+    {
+        "closingPrice": 24.52,
+        "date": "2016-05-05",
+        "highestPrice": 25.42,
+        "lowestPrice": 25.15,
+        "openingPrice": 24.75,
+        "tradingVolume": 7278221,
+        "transactionAmount": 182794685
+    },
+    {
+        "closingPrice": 24.5,
+        "date": "2016-05-04",
+        "highestPrice": 25.16,
+        "lowestPrice": 24.9,
+        "openingPrice": 24.9,
+        "tradingVolume": 4984843,
+        "transactionAmount": 123419444
+    },
+    {
+        "closingPrice": 24.5,
+        "date": "2016-05-03",
+        "highestPrice": 25.25,
+        "lowestPrice": 25.05,
+        "openingPrice": 24.56,
+        "tradingVolume": 6289382,
+        "transactionAmount": 156214676
+    },
+    {
+        "closingPrice": 23.68,
+        "date": "2016-04-29",
+        "highestPrice": 24.68,
+        "lowestPrice": 24.62,
+        "openingPrice": 23.68,
+        "tradingVolume": 4862995,
+        "transactionAmount": 118331925
+    },
+    {
+        "closingPrice": 23.25,
+        "date": "2016-04-28",
+        "highestPrice": 24.4,
+        "lowestPrice": 23.94,
+        "openingPrice": 24.23,
+        "tradingVolume": 3254722,
+        "transactionAmount": 77655908
+    },
+    {
+        "closingPrice": 23.99,
+        "date": "2016-04-27",
+        "highestPrice": 24.79,
+        "lowestPrice": 24.3,
+        "openingPrice": 24.21,
+        "tradingVolume": 5977462,
+        "transactionAmount": 145995244
+    },
+    {
+        "closingPrice": 23.02,
+        "date": "2016-04-26",
+        "highestPrice": 24.3,
+        "lowestPrice": 24.22,
+        "openingPrice": 23.1,
+        "tradingVolume": 5157256,
+        "transactionAmount": 122143767
+    },
+    {
+        "closingPrice": 22.41,
+        "date": "2016-04-25",
+        "highestPrice": 23.8,
+        "lowestPrice": 23.75,
+        "openingPrice": 22.75,
+        "tradingVolume": 3300902,
+        "transactionAmount": 76910774
+    },
+    {
+        "closingPrice": 22.2,
+        "date": "2016-04-22",
+        "highestPrice": 22.8,
+        "lowestPrice": 22.78,
+        "openingPrice": 22.3,
+        "tradingVolume": 1580697,
+        "transactionAmount": 35605871
+    },
+    {
+        "closingPrice": 22.34,
+        "date": "2016-04-21",
+        "highestPrice": 22.89,
+        "lowestPrice": 22.43,
+        "openingPrice": 22.74,
+        "tradingVolume": 1979551,
+        "transactionAmount": 44814461
+    },
+    {
+        "closingPrice": 22.03,
+        "date": "2016-04-20",
+        "highestPrice": 24.27,
+        "lowestPrice": 22.75,
+        "openingPrice": 24.27,
+        "tradingVolume": 3896186,
+        "transactionAmount": 90326064
+    },
+    {
+        "closingPrice": 24.01,
+        "date": "2016-04-19",
+        "highestPrice": 24.34,
+        "lowestPrice": 24.18,
+        "openingPrice": 24.15,
+        "tradingVolume": 1916126,
+        "transactionAmount": 46275242
+    },
+    {
+        "closingPrice": 23.97,
+        "date": "2016-04-18",
+        "highestPrice": 24.45,
+        "lowestPrice": 24.07,
+        "openingPrice": 24.39,
+        "tradingVolume": 2859501,
+        "transactionAmount": 69037809
+    },
+    {
+        "closingPrice": 24.6,
+        "date": "2016-04-15",
+        "highestPrice": 24.95,
+        "lowestPrice": 24.69,
+        "openingPrice": 24.95,
+        "tradingVolume": 3595965,
+        "transactionAmount": 88889882
+    },
+    {
+        "closingPrice": 24.21,
+        "date": "2016-04-14",
+        "highestPrice": 24.98,
+        "lowestPrice": 24.96,
+        "openingPrice": 24.52,
+        "tradingVolume": 5289337,
+        "transactionAmount": 130566084
+    },
+    {
+        "closingPrice": 24.15,
+        "date": "2016-04-13",
+        "highestPrice": 24.68,
+        "lowestPrice": 24.4,
+        "openingPrice": 24.19,
+        "tradingVolume": 4609968,
+        "transactionAmount": 112952662
+    },
+    {
+        "closingPrice": 23.56,
+        "date": "2016-04-12",
+        "highestPrice": 24.29,
+        "lowestPrice": 24.13,
+        "openingPrice": 24.03,
+        "tradingVolume": 2401151,
+        "transactionAmount": 57505159
+    },
+    {
+        "closingPrice": 23,
+        "date": "2016-04-11",
+        "highestPrice": 24.44,
+        "lowestPrice": 24.17,
+        "openingPrice": 23.7,
+        "tradingVolume": 3512811,
+        "transactionAmount": 84455309
+    },
+    {
+        "closingPrice": 23.12,
+        "date": "2016-04-08",
+        "highestPrice": 23.69,
+        "lowestPrice": 23.48,
+        "openingPrice": 23.56,
+        "tradingVolume": 2878018,
+        "transactionAmount": 67416371
+    },
+    {
+        "closingPrice": 23.73,
+        "date": "2016-04-07",
+        "highestPrice": 24.75,
+        "lowestPrice": 23.8,
+        "openingPrice": 24.13,
+        "tradingVolume": 4457847,
+        "transactionAmount": 108480435
+    },
+    {
+        "closingPrice": 23.81,
+        "date": "2016-04-06",
+        "highestPrice": 24.22,
+        "lowestPrice": 24.12,
+        "openingPrice": 24.1,
+        "tradingVolume": 3469533,
+        "transactionAmount": 83481715
+    },
+    {
+        "closingPrice": 23.65,
+        "date": "2016-04-05",
+        "highestPrice": 24.34,
+        "lowestPrice": 24.24,
+        "openingPrice": 23.88,
+        "tradingVolume": 4613021,
+        "transactionAmount": 111149022
+    },
+    {
+        "closingPrice": 23.16,
+        "date": "2016-04-01",
+        "highestPrice": 23.88,
+        "lowestPrice": 23.85,
+        "openingPrice": 23.23,
+        "tradingVolume": 4056837,
+        "transactionAmount": 95557344
+    },
+    {
+        "closingPrice": 21.1,
+        "date": "2016-09-30",
+        "highestPrice": 21.26,
+        "lowestPrice": 21.22,
+        "openingPrice": 21.14,
+        "tradingVolume": 1125969,
+        "transactionAmount": 23855953
+    },
+    {
+        "closingPrice": 21.11,
+        "date": "2016-09-29",
+        "highestPrice": 21.3,
+        "lowestPrice": 21.15,
+        "openingPrice": 21.18,
+        "tradingVolume": 1626735,
+        "transactionAmount": 34495679
+    },
+    {
+        "closingPrice": 21.02,
+        "date": "2016-09-28",
+        "highestPrice": 21.15,
+        "lowestPrice": 21.07,
+        "openingPrice": 21.14,
+        "tradingVolume": 1239976,
+        "transactionAmount": 26139753
+    },
+    {
+        "closingPrice": 20.98,
+        "date": "2016-09-27",
+        "highestPrice": 21.18,
+        "lowestPrice": 21.15,
+        "openingPrice": 21.02,
+        "tradingVolume": 2029305,
+        "transactionAmount": 42761681
+    },
+    {
+        "closingPrice": 21.05,
+        "date": "2016-09-26",
+        "highestPrice": 21.46,
+        "lowestPrice": 21.07,
+        "openingPrice": 21.45,
+        "tradingVolume": 2632619,
+        "transactionAmount": 55998705
+    },
+    {
+        "closingPrice": 21.46,
+        "date": "2016-09-23",
+        "highestPrice": 21.67,
+        "lowestPrice": 21.5,
+        "openingPrice": 21.67,
+        "tradingVolume": 1851555,
+        "transactionAmount": 39946358
+    },
+    {
+        "closingPrice": 21.56,
+        "date": "2016-09-22",
+        "highestPrice": 21.71,
+        "lowestPrice": 21.6,
+        "openingPrice": 21.64,
+        "tradingVolume": 1992254,
+        "transactionAmount": 43103680
+    },
+    {
+        "closingPrice": 21.5,
+        "date": "2016-09-21",
+        "highestPrice": 21.6,
+        "lowestPrice": 21.55,
+        "openingPrice": 21.53,
+        "tradingVolume": 1778229,
+        "transactionAmount": 38339007
+    },
+    {
+        "closingPrice": 21.5,
+        "date": "2016-09-20",
+        "highestPrice": 21.6,
+        "lowestPrice": 21.53,
+        "openingPrice": 21.6,
+        "tradingVolume": 1341957,
+        "transactionAmount": 28900255
+    },
+    {
+        "closingPrice": 21.46,
+        "date": "2016-09-19",
+        "highestPrice": 21.62,
+        "lowestPrice": 21.6,
+        "openingPrice": 21.55,
+        "tradingVolume": 1682325,
+        "transactionAmount": 36269107
+    },
+    {
+        "closingPrice": 21.37,
+        "date": "2016-09-14",
+        "highestPrice": 21.63,
+        "lowestPrice": 21.45,
+        "openingPrice": 21.45,
+        "tradingVolume": 2383299,
+        "transactionAmount": 51227743
+    },
+    {
+        "closingPrice": 21.41,
+        "date": "2016-09-13",
+        "highestPrice": 21.66,
+        "lowestPrice": 21.54,
+        "openingPrice": 21.6,
+        "tradingVolume": 1970236,
+        "transactionAmount": 42426026
+    },
+    {
+        "closingPrice": 21.44,
+        "date": "2016-09-12",
+        "highestPrice": 21.81,
+        "lowestPrice": 21.5,
+        "openingPrice": 21.8,
+        "tradingVolume": 3761856,
+        "transactionAmount": 81425870
+    },
+    {
+        "closingPrice": 22.04,
+        "date": "2016-09-09",
+        "highestPrice": 22.31,
+        "lowestPrice": 22.06,
+        "openingPrice": 22.31,
+        "tradingVolume": 3002643,
+        "transactionAmount": 66588308
+    },
+    {
+        "closingPrice": 22.02,
+        "date": "2016-09-08",
+        "highestPrice": 22.36,
+        "lowestPrice": 22.34,
+        "openingPrice": 22.03,
+        "tradingVolume": 3548194,
+        "transactionAmount": 78643253
+    },
+    {
+        "closingPrice": 21.95,
+        "date": "2016-09-07",
+        "highestPrice": 22.17,
+        "lowestPrice": 22.03,
+        "openingPrice": 22.06,
+        "tradingVolume": 2971037,
+        "transactionAmount": 65606586
+    },
+    {
+        "closingPrice": 21.63,
+        "date": "2016-09-06",
+        "highestPrice": 22.08,
+        "lowestPrice": 22.06,
+        "openingPrice": 21.85,
+        "tradingVolume": 3199385,
+        "transactionAmount": 69923531
+    },
+    {
+        "closingPrice": 21.82,
+        "date": "2016-09-05",
+        "highestPrice": 22.03,
+        "lowestPrice": 21.87,
+        "openingPrice": 21.89,
+        "tradingVolume": 1568036,
+        "transactionAmount": 34372372
+    },
+    {
+        "closingPrice": 21.73,
+        "date": "2016-09-02",
+        "highestPrice": 22.05,
+        "lowestPrice": 21.86,
+        "openingPrice": 22.03,
+        "tradingVolume": 2154335,
+        "transactionAmount": 47173131
+    },
+    {
+        "closingPrice": 21.94,
+        "date": "2016-09-01",
+        "highestPrice": 22.12,
+        "lowestPrice": 22.06,
+        "openingPrice": 21.97,
+        "tradingVolume": 2429934,
+        "transactionAmount": 53596941
+    },
+    {
+        "closingPrice": 21.85,
+        "date": "2016-08-31",
+        "highestPrice": 22.09,
+        "lowestPrice": 21.98,
+        "openingPrice": 22.06,
+        "tradingVolume": 1833738,
+        "transactionAmount": 40264061
+    },
+    {
+        "closingPrice": 22.01,
+        "date": "2016-08-30",
+        "highestPrice": 22.18,
+        "lowestPrice": 22.07,
+        "openingPrice": 22.07,
+        "tradingVolume": 1741964,
+        "transactionAmount": 38466293
+    },
+    {
+        "closingPrice": 21.85,
+        "date": "2016-08-29",
+        "highestPrice": 22.12,
+        "lowestPrice": 22.04,
+        "openingPrice": 21.94,
+        "tradingVolume": 1716551,
+        "transactionAmount": 37810211
+    },
+    {
+        "closingPrice": 21.85,
+        "date": "2016-08-26",
+        "highestPrice": 22.05,
+        "lowestPrice": 21.94,
+        "openingPrice": 21.85,
+        "tradingVolume": 2094460,
+        "transactionAmount": 45961114
+    },
+    {
+        "closingPrice": 21.62,
+        "date": "2016-08-25",
+        "highestPrice": 21.98,
+        "lowestPrice": 21.88,
+        "openingPrice": 21.98,
+        "tradingVolume": 2717219,
+        "transactionAmount": 59197814
+    },
+    {
+        "closingPrice": 21.92,
+        "date": "2016-08-24",
+        "highestPrice": 22.21,
+        "lowestPrice": 22.08,
+        "openingPrice": 21.95,
+        "tradingVolume": 2113872,
+        "transactionAmount": 46717776
+    },
+    {
+        "closingPrice": 21.93,
+        "date": "2016-08-23",
+        "highestPrice": 22.09,
+        "lowestPrice": 21.97,
+        "openingPrice": 21.97,
+        "tradingVolume": 1929858,
+        "transactionAmount": 42492439
+    },
+    {
+        "closingPrice": 22.01,
+        "date": "2016-08-22",
+        "highestPrice": 22.3,
+        "lowestPrice": 22.04,
+        "openingPrice": 22.3,
+        "tradingVolume": 2414564,
+        "transactionAmount": 53443695
+    },
+    {
+        "closingPrice": 22.16,
+        "date": "2016-08-19",
+        "highestPrice": 22.36,
+        "lowestPrice": 22.29,
+        "openingPrice": 22.22,
+        "tradingVolume": 2253905,
+        "transactionAmount": 50153383
+    },
+    {
+        "closingPrice": 22.16,
+        "date": "2016-08-18",
+        "highestPrice": 22.42,
+        "lowestPrice": 22.21,
+        "openingPrice": 22.38,
+        "tradingVolume": 2615315,
+        "transactionAmount": 58273676
+    },
+    {
+        "closingPrice": 22.11,
+        "date": "2016-08-17",
+        "highestPrice": 22.48,
+        "lowestPrice": 22.42,
+        "openingPrice": 22.26,
+        "tradingVolume": 3584419,
+        "transactionAmount": 79928881
+    },
+    {
+        "closingPrice": 22.11,
+        "date": "2016-08-16",
+        "highestPrice": 22.35,
+        "lowestPrice": 22.29,
+        "openingPrice": 22.2,
+        "tradingVolume": 3273650,
+        "transactionAmount": 72853643
+    },
+    {
+        "closingPrice": 21.8,
+        "date": "2016-08-15",
+        "highestPrice": 22.29,
+        "lowestPrice": 22.22,
+        "openingPrice": 21.8,
+        "tradingVolume": 4708695,
+        "transactionAmount": 104062371
+    },
+    {
+        "closingPrice": 21.52,
+        "date": "2016-08-12",
+        "highestPrice": 21.83,
+        "lowestPrice": 21.82,
+        "openingPrice": 21.58,
+        "tradingVolume": 2274329,
+        "transactionAmount": 49311618
+    },
+    {
+        "closingPrice": 21.57,
+        "date": "2016-08-11",
+        "highestPrice": 21.92,
+        "lowestPrice": 21.58,
+        "openingPrice": 21.82,
+        "tradingVolume": 2639213,
+        "transactionAmount": 57343795
+    },
+    {
+        "closingPrice": 21.84,
+        "date": "2016-08-10",
+        "highestPrice": 22.04,
+        "lowestPrice": 21.85,
+        "openingPrice": 22,
+        "tradingVolume": 2763101,
+        "transactionAmount": 60613136
+    },
+    {
+        "closingPrice": 21.75,
+        "date": "2016-08-09",
+        "highestPrice": 22.04,
+        "lowestPrice": 22,
+        "openingPrice": 21.84,
+        "tradingVolume": 3075065,
+        "transactionAmount": 67445072
+    },
+    {
+        "closingPrice": 21.37,
+        "date": "2016-08-08",
+        "highestPrice": 21.87,
+        "lowestPrice": 21.84,
+        "openingPrice": 21.63,
+        "tradingVolume": 2545630,
+        "transactionAmount": 55081996
+    },
+    {
+        "closingPrice": 21.6,
+        "date": "2016-08-05",
+        "highestPrice": 21.77,
+        "lowestPrice": 21.64,
+        "openingPrice": 21.7,
+        "tradingVolume": 2355650,
+        "transactionAmount": 51037452
+    },
+    {
+        "closingPrice": 21.39,
+        "date": "2016-08-04",
+        "highestPrice": 21.77,
+        "lowestPrice": 21.7,
+        "openingPrice": 21.59,
+        "tradingVolume": 2829868,
+        "transactionAmount": 61147312
+    },
+    {
+        "closingPrice": 21.44,
+        "date": "2016-08-03",
+        "highestPrice": 21.67,
+        "lowestPrice": 21.61,
+        "openingPrice": 21.5,
+        "tradingVolume": 2605350,
+        "transactionAmount": 56230922
+    },
+    {
+        "closingPrice": 21.28,
+        "date": "2016-08-02",
+        "highestPrice": 21.62,
+        "lowestPrice": 21.59,
+        "openingPrice": 21.38,
+        "tradingVolume": 3074721,
+        "transactionAmount": 66121304
+    },
+    {
+        "closingPrice": 21.31,
+        "date": "2016-08-01",
+        "highestPrice": 21.87,
+        "lowestPrice": 21.45,
+        "openingPrice": 21.87,
+        "tradingVolume": 3257839,
+        "transactionAmount": 69965870
+    },
+    {
+        "closingPrice": 21.88,
+        "date": "2016-07-29",
+        "highestPrice": 22.09,
+        "lowestPrice": 21.94,
+        "openingPrice": 22,
+        "tradingVolume": 2837740,
+        "transactionAmount": 62410534
+    },
+    {
+        "closingPrice": 21.7,
+        "date": "2016-07-28",
+        "highestPrice": 22.29,
+        "lowestPrice": 22.01,
+        "openingPrice": 22.1,
+        "tradingVolume": 4617213,
+        "transactionAmount": 101656879
+    },
+    {
+        "closingPrice": 21.97,
+        "date": "2016-07-27",
+        "highestPrice": 23.55,
+        "lowestPrice": 22.13,
+        "openingPrice": 23.55,
+        "tradingVolume": 8316077,
+        "transactionAmount": 187920139
+    },
+    {
+        "closingPrice": 23.35,
+        "date": "2016-07-26",
+        "highestPrice": 23.55,
+        "lowestPrice": 23.54,
+        "openingPrice": 23.4,
+        "tradingVolume": 3741805,
+        "transactionAmount": 87715599
+    },
+    {
+        "closingPrice": 23.16,
+        "date": "2016-07-25",
+        "highestPrice": 23.43,
+        "lowestPrice": 23.39,
+        "openingPrice": 23.18,
+        "tradingVolume": 3446409,
+        "transactionAmount": 80319900
+    },
+    {
+        "closingPrice": 23.3,
+        "date": "2016-07-22",
+        "highestPrice": 23.67,
+        "lowestPrice": 23.34,
+        "openingPrice": 23.59,
+        "tradingVolume": 4793200,
+        "transactionAmount": 112409707
+    },
+    {
+        "closingPrice": 23.61,
+        "date": "2016-07-21",
+        "highestPrice": 23.95,
+        "lowestPrice": 23.62,
+        "openingPrice": 23.86,
+        "tradingVolume": 6321800,
+        "transactionAmount": 150110521
+    },
+    {
+        "closingPrice": 23.78,
+        "date": "2016-07-20",
+        "highestPrice": 24.15,
+        "lowestPrice": 23.86,
+        "openingPrice": 24.15,
+        "tradingVolume": 4881800,
+        "transactionAmount": 116808399
+    },
+    {
+        "closingPrice": 23.69,
+        "date": "2016-07-19",
+        "highestPrice": 24.24,
+        "lowestPrice": 24.13,
+        "openingPrice": 23.84,
+        "tradingVolume": 6624653,
+        "transactionAmount": 159032438
+    },
+    {
+        "closingPrice": 23.61,
+        "date": "2016-07-18",
+        "highestPrice": 23.95,
+        "lowestPrice": 23.74,
+        "openingPrice": 23.9,
+        "tradingVolume": 5412116,
+        "transactionAmount": 128662026
+    },
+    {
+        "closingPrice": 23.93,
+        "date": "2016-07-15",
+        "highestPrice": 24.3,
+        "lowestPrice": 24.04,
+        "openingPrice": 24.21,
+        "tradingVolume": 5565122,
+        "transactionAmount": 134071675
+    },
+    {
+        "closingPrice": 23.95,
+        "date": "2016-07-14",
+        "highestPrice": 24.45,
+        "lowestPrice": 24.22,
+        "openingPrice": 24.3,
+        "tradingVolume": 7109704,
+        "transactionAmount": 171979200
+    },
+    {
+        "closingPrice": 24.05,
+        "date": "2016-07-13",
+        "highestPrice": 24.7,
+        "lowestPrice": 24.24,
+        "openingPrice": 24.55,
+        "tradingVolume": 11113702,
+        "transactionAmount": 270115567
+    },
+    {
+        "closingPrice": 23.34,
+        "date": "2016-07-12",
+        "highestPrice": 24.38,
+        "lowestPrice": 24.35,
+        "openingPrice": 23.85,
+        "tradingVolume": 11139476,
+        "transactionAmount": 265875258
+    },
+    {
+        "closingPrice": 23.73,
+        "date": "2016-07-11",
+        "highestPrice": 24.29,
+        "lowestPrice": 23.78,
+        "openingPrice": 24,
+        "tradingVolume": 11063286,
+        "transactionAmount": 265579270
+    },
+    {
+        "closingPrice": 23.83,
+        "date": "2016-07-08",
+        "highestPrice": 24.36,
+        "lowestPrice": 24.1,
+        "openingPrice": 24.14,
+        "tradingVolume": 13162011,
+        "transactionAmount": 317371994
+    },
+    {
+        "closingPrice": 22.98,
+        "date": "2016-07-07",
+        "highestPrice": 24.88,
+        "lowestPrice": 24.43,
+        "openingPrice": 23.01,
+        "tradingVolume": 20903855,
+        "transactionAmount": 500670539
+    },
+    {
+        "closingPrice": 22.65,
+        "date": "2016-07-06",
+        "highestPrice": 23.3,
+        "lowestPrice": 23.15,
+        "openingPrice": 23.3,
+        "tradingVolume": 13555141,
+        "transactionAmount": 310675750
+    },
+    {
+        "closingPrice": 23.16,
+        "date": "2016-07-05",
+        "highestPrice": 23.96,
+        "lowestPrice": 23.3,
+        "openingPrice": 23.85,
+        "tradingVolume": 28511742,
+        "transactionAmount": 667812983
+    },
+    {
+        "closingPrice": 23.3,
+        "date": "2016-07-04",
+        "highestPrice": 24.08,
+        "lowestPrice": 24.02,
+        "openingPrice": 23.3,
+        "tradingVolume": 6068250,
+        "transactionAmount": 143954891
+    },
+    {
+        "closingPrice": 23.38,
+        "date": "2016-07-01",
+        "highestPrice": 23.78,
+        "lowestPrice": 23.65,
+        "openingPrice": 23.61,
+        "tradingVolume": 2979834,
+        "transactionAmount": 70370569
+    },
+    {
+        "closingPrice": 21.98,
+        "date": "2016-12-30",
+        "highestPrice": 22.16,
+        "lowestPrice": 22.06,
+        "openingPrice": 22.05,
+        "tradingVolume": 1650160,
+        "transactionAmount": 36428626
+    },
+    {
+        "closingPrice": 22.01,
+        "date": "2016-12-29",
+        "highestPrice": 22.21,
+        "lowestPrice": 22.05,
+        "openingPrice": 22.01,
+        "tradingVolume": 1558000,
+        "transactionAmount": 34433608
+    },
+    {
+        "closingPrice": 22.04,
+        "date": "2016-12-28",
+        "highestPrice": 22.52,
+        "lowestPrice": 22.11,
+        "openingPrice": 22.45,
+        "tradingVolume": 3198863,
+        "transactionAmount": 71194314
+    },
+    {
+        "closingPrice": 22.45,
+        "date": "2016-12-27",
+        "highestPrice": 22.85,
+        "lowestPrice": 22.49,
+        "openingPrice": 22.69,
+        "tradingVolume": 3327000,
+        "transactionAmount": 75338002
+    },
+    {
+        "closingPrice": 22.11,
+        "date": "2016-12-26",
+        "highestPrice": 22.73,
+        "lowestPrice": 22.7,
+        "openingPrice": 22.63,
+        "tradingVolume": 2437275,
+        "transactionAmount": 54765579
+    },
+    {
+        "closingPrice": 22.42,
+        "date": "2016-12-23",
+        "highestPrice": 22.85,
+        "lowestPrice": 22.7,
+        "openingPrice": 22.58,
+        "tradingVolume": 3914199,
+        "transactionAmount": 88732308
+    },
+    {
+        "closingPrice": 22.25,
+        "date": "2016-12-22",
+        "highestPrice": 22.65,
+        "lowestPrice": 22.57,
+        "openingPrice": 22.65,
+        "tradingVolume": 2015800,
+        "transactionAmount": 45278411
+    },
+    {
+        "closingPrice": 22.51,
+        "date": "2016-12-21",
+        "highestPrice": 22.77,
+        "lowestPrice": 22.66,
+        "openingPrice": 22.59,
+        "tradingVolume": 2347816,
+        "transactionAmount": 53086936
+    },
+    {
+        "closingPrice": 22.22,
+        "date": "2016-12-20",
+        "highestPrice": 22.75,
+        "lowestPrice": 22.53,
+        "openingPrice": 22.28,
+        "tradingVolume": 3272039,
+        "transactionAmount": 73750937
+    },
+    {
+        "closingPrice": 22.21,
+        "date": "2016-12-19",
+        "highestPrice": 22.46,
+        "lowestPrice": 22.36,
+        "openingPrice": 22.46,
+        "tradingVolume": 2208986,
+        "transactionAmount": 49277342
+    },
+    {
+        "closingPrice": 22.16,
+        "date": "2016-12-16",
+        "highestPrice": 22.47,
+        "lowestPrice": 22.46,
+        "openingPrice": 22.39,
+        "tradingVolume": 2831360,
+        "transactionAmount": 63273286
+    },
+    {
+        "closingPrice": 22,
+        "date": "2016-12-15",
+        "highestPrice": 22.69,
+        "lowestPrice": 22.45,
+        "openingPrice": 22.3,
+        "tradingVolume": 3664135,
+        "transactionAmount": 82173575
+    },
+    {
+        "closingPrice": 22.23,
+        "date": "2016-12-14",
+        "highestPrice": 23.2,
+        "lowestPrice": 22.32,
+        "openingPrice": 22.99,
+        "tradingVolume": 8578835,
+        "transactionAmount": 194933992
+    },
+    {
+        "closingPrice": 21.8,
+        "date": "2016-12-13",
+        "highestPrice": 23.49,
+        "lowestPrice": 23.26,
+        "openingPrice": 22.12,
+        "tradingVolume": 5732499,
+        "transactionAmount": 128087216
+    },
+    {
+        "closingPrice": 21.93,
+        "date": "2016-12-12",
+        "highestPrice": 23.22,
+        "lowestPrice": 22.02,
+        "openingPrice": 23.1,
+        "tradingVolume": 5390148,
+        "transactionAmount": 121055694
+    },
+    {
+        "closingPrice": 22.8,
+        "date": "2016-12-09",
+        "highestPrice": 23.5,
+        "lowestPrice": 23.21,
+        "openingPrice": 22.83,
+        "tradingVolume": 4779221,
+        "transactionAmount": 111056504
+    },
+    {
+        "closingPrice": 22.82,
+        "date": "2016-12-08",
+        "highestPrice": 23.23,
+        "lowestPrice": 22.87,
+        "openingPrice": 22.93,
+        "tradingVolume": 2707300,
+        "transactionAmount": 62384085
+    },
+    {
+        "closingPrice": 22.6,
+        "date": "2016-12-07",
+        "highestPrice": 23.06,
+        "lowestPrice": 23.02,
+        "openingPrice": 22.69,
+        "tradingVolume": 3353240,
+        "transactionAmount": 76863322
+    },
+    {
+        "closingPrice": 22.51,
+        "date": "2016-12-06",
+        "highestPrice": 22.87,
+        "lowestPrice": 22.77,
+        "openingPrice": 22.62,
+        "tradingVolume": 3879840,
+        "transactionAmount": 88146076
+    },
+    {
+        "closingPrice": 22.18,
+        "date": "2016-12-05",
+        "highestPrice": 22.58,
+        "lowestPrice": 22.55,
+        "openingPrice": 22.3,
+        "tradingVolume": 2522191,
+        "transactionAmount": 56588555
+    },
+    {
+        "closingPrice": 22.52,
+        "date": "2016-12-02",
+        "highestPrice": 23.1,
+        "lowestPrice": 22.54,
+        "openingPrice": 23.1,
+        "tradingVolume": 3803010,
+        "transactionAmount": 86429180
+    },
+    {
+        "closingPrice": 22.85,
+        "date": "2016-12-01",
+        "highestPrice": 23.17,
+        "lowestPrice": 23.11,
+        "openingPrice": 22.99,
+        "tradingVolume": 3428575,
+        "transactionAmount": 78900589
+    },
+    {
+        "closingPrice": 22.7,
+        "date": "2016-11-30",
+        "highestPrice": 23.11,
+        "lowestPrice": 22.99,
+        "openingPrice": 22.85,
+        "tradingVolume": 3239182,
+        "transactionAmount": 74196131
+    },
+    {
+        "closingPrice": 22.88,
+        "date": "2016-11-29",
+        "highestPrice": 23.36,
+        "lowestPrice": 22.92,
+        "openingPrice": 23.27,
+        "tradingVolume": 3466092,
+        "transactionAmount": 80138432
+    },
+    {
+        "closingPrice": 23.14,
+        "date": "2016-11-28",
+        "highestPrice": 23.51,
+        "lowestPrice": 23.26,
+        "openingPrice": 23.5,
+        "tradingVolume": 3892516,
+        "transactionAmount": 90627767
+    },
+    {
+        "closingPrice": 22.9,
+        "date": "2016-11-25",
+        "highestPrice": 23.5,
+        "lowestPrice": 23.4,
+        "openingPrice": 23.38,
+        "tradingVolume": 4521103,
+        "transactionAmount": 104878089
+    },
+    {
+        "closingPrice": 23.36,
+        "date": "2016-11-24",
+        "highestPrice": 23.92,
+        "lowestPrice": 23.39,
+        "openingPrice": 23.85,
+        "tradingVolume": 5439096,
+        "transactionAmount": 128558695
+    },
+    {
+        "closingPrice": 23.8,
+        "date": "2016-11-23",
+        "highestPrice": 24.4,
+        "lowestPrice": 23.92,
+        "openingPrice": 24.26,
+        "tradingVolume": 6280687,
+        "transactionAmount": 151028663
+    },
+    {
+        "closingPrice": 23.96,
+        "date": "2016-11-22",
+        "highestPrice": 24.54,
+        "lowestPrice": 24.4,
+        "openingPrice": 24.08,
+        "tradingVolume": 8039933,
+        "transactionAmount": 195384304
+    },
+    {
+        "closingPrice": 23.8,
+        "date": "2016-11-21",
+        "highestPrice": 24.3,
+        "lowestPrice": 23.97,
+        "openingPrice": 24.06,
+        "tradingVolume": 4929328,
+        "transactionAmount": 118411683
+    },
+    {
+        "closingPrice": 23.82,
+        "date": "2016-11-18",
+        "highestPrice": 24.35,
+        "lowestPrice": 24.01,
+        "openingPrice": 23.94,
+        "tradingVolume": 6326545,
+        "transactionAmount": 152805804
+    },
+    {
+        "closingPrice": 23.72,
+        "date": "2016-11-17",
+        "highestPrice": 24.17,
+        "lowestPrice": 23.93,
+        "openingPrice": 24.1,
+        "tradingVolume": 5010078,
+        "transactionAmount": 119709365
+    },
+    {
+        "closingPrice": 24.11,
+        "date": "2016-11-16",
+        "highestPrice": 24.54,
+        "lowestPrice": 24.23,
+        "openingPrice": 24.45,
+        "tradingVolume": 8506816,
+        "transactionAmount": 206053706
+    },
+    {
+        "closingPrice": 24.45,
+        "date": "2016-11-15",
+        "highestPrice": 25.55,
+        "lowestPrice": 24.6,
+        "openingPrice": 25.38,
+        "tradingVolume": 14433679,
+        "transactionAmount": 356828665
+    },
+    {
+        "closingPrice": 24.33,
+        "date": "2016-11-14",
+        "highestPrice": 27.12,
+        "lowestPrice": 25.3,
+        "openingPrice": 24.44,
+        "tradingVolume": 22981144,
+        "transactionAmount": 579736223
+    },
+    {
+        "closingPrice": 24.28,
+        "date": "2016-11-11",
+        "highestPrice": 24.91,
+        "lowestPrice": 24.65,
+        "openingPrice": 24.69,
+        "tradingVolume": 10288244,
+        "transactionAmount": 251866407
+    },
+    {
+        "closingPrice": 23.57,
+        "date": "2016-11-10",
+        "highestPrice": 25,
+        "lowestPrice": 24.78,
+        "openingPrice": 23.74,
+        "tradingVolume": 16569599,
+        "transactionAmount": 403054358
+    },
+    {
+        "closingPrice": 23.09,
+        "date": "2016-11-09",
+        "highestPrice": 23.84,
+        "lowestPrice": 23.5,
+        "openingPrice": 23.54,
+        "tradingVolume": 7045190,
+        "transactionAmount": 165027534
+    },
+    {
+        "closingPrice": 23.47,
+        "date": "2016-11-08",
+        "highestPrice": 24.16,
+        "lowestPrice": 23.61,
+        "openingPrice": 23.78,
+        "tradingVolume": 7294877,
+        "transactionAmount": 173627054
+    },
+    {
+        "closingPrice": 23.39,
+        "date": "2016-11-07",
+        "highestPrice": 23.87,
+        "lowestPrice": 23.7,
+        "openingPrice": 23.39,
+        "tradingVolume": 6907371,
+        "transactionAmount": 163316069
+    },
+    {
+        "closingPrice": 23.08,
+        "date": "2016-11-04",
+        "highestPrice": 23.55,
+        "lowestPrice": 23.36,
+        "openingPrice": 23.3,
+        "tradingVolume": 9774933,
+        "transactionAmount": 227526300
+    },
+    {
+        "closingPrice": 22.82,
+        "date": "2016-11-03",
+        "highestPrice": 23.5,
+        "lowestPrice": 23.31,
+        "openingPrice": 22.82,
+        "tradingVolume": 8867040,
+        "transactionAmount": 206034245
+    },
+    {
+        "closingPrice": 22.53,
+        "date": "2016-11-02",
+        "highestPrice": 23.15,
+        "lowestPrice": 23.01,
+        "openingPrice": 22.7,
+        "tradingVolume": 6662164,
+        "transactionAmount": 152334366
+    },
+    {
+        "closingPrice": 22.67,
+        "date": "2016-11-01",
+        "highestPrice": 22.96,
+        "lowestPrice": 22.9,
+        "openingPrice": 22.86,
+        "tradingVolume": 5050462,
+        "transactionAmount": 115234662
+    },
+    {
+        "closingPrice": 22.02,
+        "date": "2016-10-31",
+        "highestPrice": 22.96,
+        "lowestPrice": 22.88,
+        "openingPrice": 22.29,
+        "tradingVolume": 6483175,
+        "transactionAmount": 147084335
+    },
+    {
+        "closingPrice": 22.23,
+        "date": "2016-10-28",
+        "highestPrice": 22.98,
+        "lowestPrice": 22.29,
+        "openingPrice": 22.75,
+        "tradingVolume": 5158130,
+        "transactionAmount": 116433940
+    },
+    {
+        "closingPrice": 22.41,
+        "date": "2016-10-27",
+        "highestPrice": 22.75,
+        "lowestPrice": 22.6,
+        "openingPrice": 22.65,
+        "tradingVolume": 4174626,
+        "transactionAmount": 94261299
+    },
+    {
+        "closingPrice": 22.38,
+        "date": "2016-10-26",
+        "highestPrice": 22.87,
+        "lowestPrice": 22.59,
+        "openingPrice": 22.58,
+        "tradingVolume": 6766940,
+        "transactionAmount": 153362588
+    },
+    {
+        "closingPrice": 22.18,
+        "date": "2016-10-25",
+        "highestPrice": 22.9,
+        "lowestPrice": 22.57,
+        "openingPrice": 22.23,
+        "tradingVolume": 7331637,
+        "transactionAmount": 165476716
+    },
+    {
+        "closingPrice": 22.02,
+        "date": "2016-10-24",
+        "highestPrice": 22.37,
+        "lowestPrice": 22.28,
+        "openingPrice": 22.15,
+        "tradingVolume": 6420481,
+        "transactionAmount": 142548158
+    },
+    {
+        "closingPrice": 21.83,
+        "date": "2016-10-21",
+        "highestPrice": 22.39,
+        "lowestPrice": 22.1,
+        "openingPrice": 21.85,
+        "tradingVolume": 9284234,
+        "transactionAmount": 205329331
+    },
+    {
+        "closingPrice": 21.61,
+        "date": "2016-10-20",
+        "highestPrice": 22,
+        "lowestPrice": 21.96,
+        "openingPrice": 21.78,
+        "tradingVolume": 4209512,
+        "transactionAmount": 91954536
+    },
+    {
+        "closingPrice": 21.63,
+        "date": "2016-10-19",
+        "highestPrice": 21.82,
+        "lowestPrice": 21.76,
+        "openingPrice": 21.69,
+        "tradingVolume": 3222764,
+        "transactionAmount": 70064668
+    },
+    {
+        "closingPrice": 21.36,
+        "date": "2016-10-18",
+        "highestPrice": 21.69,
+        "lowestPrice": 21.68,
+        "openingPrice": 21.43,
+        "tradingVolume": 2354598,
+        "transactionAmount": 50736252
+    },
+    {
+        "closingPrice": 21.32,
+        "date": "2016-10-17",
+        "highestPrice": 21.75,
+        "lowestPrice": 21.4,
+        "openingPrice": 21.57,
+        "tradingVolume": 2317955,
+        "transactionAmount": 49977856
+    },
+    {
+        "closingPrice": 21.4,
+        "date": "2016-10-14",
+        "highestPrice": 21.7,
+        "lowestPrice": 21.55,
+        "openingPrice": 21.66,
+        "tradingVolume": 2003678,
+        "transactionAmount": 43105916
+    },
+    {
+        "closingPrice": 21.52,
+        "date": "2016-10-13",
+        "highestPrice": 21.8,
+        "lowestPrice": 21.72,
+        "openingPrice": 21.52,
+        "tradingVolume": 3370598,
+        "transactionAmount": 73059883
+    },
+    {
+        "closingPrice": 21.42,
+        "date": "2016-10-12",
+        "highestPrice": 21.6,
+        "lowestPrice": 21.6,
+        "openingPrice": 21.51,
+        "tradingVolume": 2145398,
+        "transactionAmount": 46116834
+    },
+    {
+        "closingPrice": 21.41,
+        "date": "2016-10-11",
+        "highestPrice": 21.63,
+        "lowestPrice": 21.58,
+        "openingPrice": 21.48,
+        "tradingVolume": 2593383,
+        "transactionAmount": 55880967
+    },
+    {
+        "closingPrice": 21.2,
+        "date": "2016-10-10",
+        "highestPrice": 21.55,
+        "lowestPrice": 21.51,
+        "openingPrice": 21.3,
+        "tradingVolume": 2821275,
+        "transactionAmount": 60342152
+    },
+    {
+        "closingPrice": 19.5,
+        "date": "2017-03-31",
+        "highestPrice": 19.77,
+        "lowestPrice": 19.66,
+        "openingPrice": 19.5,
+        "tradingVolume": 1641014,
+        "transactionAmount": 32170218
+    },
+    {
+        "closingPrice": 19.43,
+        "date": "2017-03-30",
+        "highestPrice": 20,
+        "lowestPrice": 19.48,
+        "openingPrice": 19.9,
+        "tradingVolume": 3125424,
+        "transactionAmount": 61381411
+    },
+    {
+        "closingPrice": 19.9,
+        "date": "2017-03-29",
+        "highestPrice": 20.32,
+        "lowestPrice": 19.94,
+        "openingPrice": 20.32,
+        "tradingVolume": 3204324,
+        "transactionAmount": 64291512
+    },
+    {
+        "closingPrice": 20.25,
+        "date": "2017-03-28",
+        "highestPrice": 20.45,
+        "lowestPrice": 20.29,
+        "openingPrice": 20.4,
+        "tradingVolume": 2059221,
+        "transactionAmount": 41882782
+    },
+    {
+        "closingPrice": 20.42,
+        "date": "2017-03-27",
+        "highestPrice": 20.64,
+        "lowestPrice": 20.45,
+        "openingPrice": 20.52,
+        "tradingVolume": 1372584,
+        "transactionAmount": 28116246
+    },
+    {
+        "closingPrice": 20.38,
+        "date": "2017-03-24",
+        "highestPrice": 20.57,
+        "lowestPrice": 20.54,
+        "openingPrice": 20.53,
+        "tradingVolume": 1741157,
+        "transactionAmount": 35641635
+    },
+    {
+        "closingPrice": 20.26,
+        "date": "2017-03-23",
+        "highestPrice": 20.7,
+        "lowestPrice": 20.53,
+        "openingPrice": 20.37,
+        "tradingVolume": 3115384,
+        "transactionAmount": 63847956
+    },
+    {
+        "closingPrice": 20.24,
+        "date": "2017-03-22",
+        "highestPrice": 20.64,
+        "lowestPrice": 20.38,
+        "openingPrice": 20.64,
+        "tradingVolume": 3816617,
+        "transactionAmount": 77749215
+    },
+    {
+        "closingPrice": 20.68,
+        "date": "2017-03-21",
+        "highestPrice": 20.82,
+        "lowestPrice": 20.76,
+        "openingPrice": 20.75,
+        "tradingVolume": 1739535,
+        "transactionAmount": 36068684
+    },
+    {
+        "closingPrice": 20.54,
+        "date": "2017-03-20",
+        "highestPrice": 20.73,
+        "lowestPrice": 20.72,
+        "openingPrice": 20.57,
+        "tradingVolume": 1841118,
+        "transactionAmount": 37963091
+    },
+    {
+        "closingPrice": 20.53,
+        "date": "2017-03-17",
+        "highestPrice": 20.96,
+        "lowestPrice": 20.6,
+        "openingPrice": 20.79,
+        "tradingVolume": 3128592,
+        "transactionAmount": 65022852
+    },
+    {
+        "closingPrice": 20.6,
+        "date": "2017-03-16",
+        "highestPrice": 20.85,
+        "lowestPrice": 20.8,
+        "openingPrice": 20.6,
+        "tradingVolume": 2208901,
+        "transactionAmount": 45888006
+    },
+    {
+        "closingPrice": 20.53,
+        "date": "2017-03-15",
+        "highestPrice": 20.69,
+        "lowestPrice": 20.62,
+        "openingPrice": 20.55,
+        "tradingVolume": 2118024,
+        "transactionAmount": 43644613
+    },
+    {
+        "closingPrice": 20.57,
+        "date": "2017-03-14",
+        "highestPrice": 20.93,
+        "lowestPrice": 20.63,
+        "openingPrice": 20.8,
+        "tradingVolume": 4982599,
+        "transactionAmount": 103414627
+    },
+    {
+        "closingPrice": 20.73,
+        "date": "2017-03-13",
+        "highestPrice": 21.59,
+        "lowestPrice": 20.88,
+        "openingPrice": 21.58,
+        "tradingVolume": 10450871,
+        "transactionAmount": 218670905
+    },
+    {
+        "closingPrice": 21.1,
+        "date": "2017-03-10",
+        "highestPrice": 21.6,
+        "lowestPrice": 21.53,
+        "openingPrice": 21.4,
+        "tradingVolume": 3741209,
+        "transactionAmount": 80023678
+    },
+    {
+        "closingPrice": 20.99,
+        "date": "2017-03-09",
+        "highestPrice": 21.58,
+        "lowestPrice": 21.21,
+        "openingPrice": 21.58,
+        "tradingVolume": 3216361,
+        "transactionAmount": 68320394
+    },
+    {
+        "closingPrice": 21.15,
+        "date": "2017-03-08",
+        "highestPrice": 22,
+        "lowestPrice": 21.62,
+        "openingPrice": 21.5,
+        "tradingVolume": 7307652,
+        "transactionAmount": 157202594
+    },
+    {
+        "closingPrice": 21.15,
+        "date": "2017-03-07",
+        "highestPrice": 21.65,
+        "lowestPrice": 21.53,
+        "openingPrice": 21.26,
+        "tradingVolume": 3826037,
+        "transactionAmount": 82175524
+    },
+    {
+        "closingPrice": 20.77,
+        "date": "2017-03-06",
+        "highestPrice": 21.58,
+        "lowestPrice": 21.26,
+        "openingPrice": 20.81,
+        "tradingVolume": 4915076,
+        "transactionAmount": 104090313
+    },
+    {
+        "closingPrice": 20.51,
+        "date": "2017-03-03",
+        "highestPrice": 20.89,
+        "lowestPrice": 20.85,
+        "openingPrice": 20.8,
+        "tradingVolume": 1813698,
+        "transactionAmount": 37501261
+    },
+    {
+        "closingPrice": 20.8,
+        "date": "2017-03-02",
+        "highestPrice": 21.05,
+        "lowestPrice": 20.83,
+        "openingPrice": 20.93,
+        "tradingVolume": 1298803,
+        "transactionAmount": 27159913
+    },
+    {
+        "closingPrice": 20.86,
+        "date": "2017-03-01",
+        "highestPrice": 21.09,
+        "lowestPrice": 20.96,
+        "openingPrice": 20.86,
+        "tradingVolume": 2284782,
+        "transactionAmount": 47945193
+    },
+    {
+        "closingPrice": 20.76,
+        "date": "2017-02-28",
+        "highestPrice": 20.99,
+        "lowestPrice": 20.94,
+        "openingPrice": 20.98,
+        "tradingVolume": 1857683,
+        "transactionAmount": 38771614
+    },
+    {
+        "closingPrice": 20.81,
+        "date": "2017-02-27",
+        "highestPrice": 21.11,
+        "lowestPrice": 21.04,
+        "openingPrice": 21.01,
+        "tradingVolume": 2495632,
+        "transactionAmount": 52288565
+    },
+    {
+        "closingPrice": 20.82,
+        "date": "2017-02-24",
+        "highestPrice": 21.02,
+        "lowestPrice": 21.01,
+        "openingPrice": 20.88,
+        "tradingVolume": 2190143,
+        "transactionAmount": 45811525
+    },
+    {
+        "closingPrice": 20.7,
+        "date": "2017-02-23",
+        "highestPrice": 20.99,
+        "lowestPrice": 20.95,
+        "openingPrice": 20.92,
+        "tradingVolume": 3440997,
+        "transactionAmount": 71834583
+    },
+    {
+        "closingPrice": 20.49,
+        "date": "2017-02-22",
+        "highestPrice": 21.3,
+        "lowestPrice": 20.9,
+        "openingPrice": 20.49,
+        "tradingVolume": 5390831,
+        "transactionAmount": 112788510
+    },
+    {
+        "closingPrice": 20.31,
+        "date": "2017-02-21",
+        "highestPrice": 20.6,
+        "lowestPrice": 20.43,
+        "openingPrice": 20.39,
+        "tradingVolume": 2790067,
+        "transactionAmount": 57168249
+    },
+    {
+        "closingPrice": 20.05,
+        "date": "2017-02-20",
+        "highestPrice": 20.37,
+        "lowestPrice": 20.32,
+        "openingPrice": 20.37,
+        "tradingVolume": 2445184,
+        "transactionAmount": 49392745
+    },
+    {
+        "closingPrice": 20.34,
+        "date": "2017-02-17",
+        "highestPrice": 20.72,
+        "lowestPrice": 20.38,
+        "openingPrice": 20.58,
+        "tradingVolume": 1807411,
+        "transactionAmount": 37036800
+    },
+    {
+        "closingPrice": 20.42,
+        "date": "2017-02-16",
+        "highestPrice": 20.67,
+        "lowestPrice": 20.65,
+        "openingPrice": 20.49,
+        "tradingVolume": 1821248,
+        "transactionAmount": 37465402
+    },
+    {
+        "closingPrice": 20.41,
+        "date": "2017-02-15",
+        "highestPrice": 20.85,
+        "lowestPrice": 20.5,
+        "openingPrice": 20.8,
+        "tradingVolume": 2193100,
+        "transactionAmount": 45300965
+    },
+    {
+        "closingPrice": 20.79,
+        "date": "2017-02-14",
+        "highestPrice": 20.92,
+        "lowestPrice": 20.8,
+        "openingPrice": 20.8,
+        "tradingVolume": 1232287,
+        "transactionAmount": 25669414
+    },
+    {
+        "closingPrice": 20.55,
+        "date": "2017-02-13",
+        "highestPrice": 21,
+        "lowestPrice": 20.87,
+        "openingPrice": 20.7,
+        "tradingVolume": 2640826,
+        "transactionAmount": 54984289
+    },
+    {
+        "closingPrice": 20.66,
+        "date": "2017-02-10",
+        "highestPrice": 21.52,
+        "lowestPrice": 20.69,
+        "openingPrice": 20.8,
+        "tradingVolume": 5156529,
+        "transactionAmount": 108044854
+    },
+    {
+        "closingPrice": 20.67,
+        "date": "2017-02-09",
+        "highestPrice": 20.93,
+        "lowestPrice": 20.81,
+        "openingPrice": 20.72,
+        "tradingVolume": 1489400,
+        "transactionAmount": 31021792
+    },
+    {
+        "closingPrice": 20.53,
+        "date": "2017-02-08",
+        "highestPrice": 20.78,
+        "lowestPrice": 20.76,
+        "openingPrice": 20.59,
+        "tradingVolume": 1743857,
+        "transactionAmount": 36013448
+    },
+    {
+        "closingPrice": 20.45,
+        "date": "2017-02-07",
+        "highestPrice": 20.72,
+        "lowestPrice": 20.64,
+        "openingPrice": 20.52,
+        "tradingVolume": 1548590,
+        "transactionAmount": 31915311
+    },
+    {
+        "closingPrice": 20.3,
+        "date": "2017-02-06",
+        "highestPrice": 20.57,
+        "lowestPrice": 20.56,
+        "openingPrice": 20.32,
+        "tradingVolume": 1508163,
+        "transactionAmount": 30843633
+    },
+    {
+        "closingPrice": 20.14,
+        "date": "2017-02-03",
+        "highestPrice": 20.52,
+        "lowestPrice": 20.3,
+        "openingPrice": 20.5,
+        "tradingVolume": 1061660,
+        "transactionAmount": 21576655
+    },
+    {
+        "closingPrice": 20.22,
+        "date": "2017-01-26",
+        "highestPrice": 20.59,
+        "lowestPrice": 20.54,
+        "openingPrice": 20.29,
+        "tradingVolume": 1022166,
+        "transactionAmount": 20954241
+    },
+    {
+        "closingPrice": 20.11,
+        "date": "2017-01-25",
+        "highestPrice": 20.36,
+        "lowestPrice": 20.28,
+        "openingPrice": 20.12,
+        "tradingVolume": 1087000,
+        "transactionAmount": 22062188
+    },
+    {
+        "closingPrice": 20.14,
+        "date": "2017-01-24",
+        "highestPrice": 20.41,
+        "lowestPrice": 20.21,
+        "openingPrice": 20.16,
+        "tradingVolume": 1498534,
+        "transactionAmount": 30442663
+    },
+    {
+        "closingPrice": 20.15,
+        "date": "2017-01-23",
+        "highestPrice": 20.44,
+        "lowestPrice": 20.25,
+        "openingPrice": 20.21,
+        "tradingVolume": 1225947,
+        "transactionAmount": 24885753
+    },
+    {
+        "closingPrice": 19.96,
+        "date": "2017-01-20",
+        "highestPrice": 20.26,
+        "lowestPrice": 20.19,
+        "openingPrice": 20,
+        "tradingVolume": 1273533,
+        "transactionAmount": 25716960
+    },
+    {
+        "closingPrice": 19.73,
+        "date": "2017-01-19",
+        "highestPrice": 20.2,
+        "lowestPrice": 20.03,
+        "openingPrice": 19.8,
+        "tradingVolume": 1890434,
+        "transactionAmount": 37863274
+    },
+    {
+        "closingPrice": 19.61,
+        "date": "2017-01-18",
+        "highestPrice": 20.08,
+        "lowestPrice": 19.93,
+        "openingPrice": 19.69,
+        "tradingVolume": 2745350,
+        "transactionAmount": 54614904
+    },
+    {
+        "closingPrice": 19.2,
+        "date": "2017-01-17",
+        "highestPrice": 20.04,
+        "lowestPrice": 19.82,
+        "openingPrice": 19.86,
+        "tradingVolume": 2949709,
+        "transactionAmount": 57887471
+    },
+    {
+        "closingPrice": 19.11,
+        "date": "2017-01-16",
+        "highestPrice": 21.07,
+        "lowestPrice": 19.83,
+        "openingPrice": 21.05,
+        "tradingVolume": 4493850,
+        "transactionAmount": 91250105
+    },
+    {
+        "closingPrice": 21.06,
+        "date": "2017-01-13",
+        "highestPrice": 21.39,
+        "lowestPrice": 21.08,
+        "openingPrice": 21.38,
+        "tradingVolume": 2578982,
+        "transactionAmount": 54633424
+    },
+    {
+        "closingPrice": 21.24,
+        "date": "2017-01-12",
+        "highestPrice": 21.96,
+        "lowestPrice": 21.41,
+        "openingPrice": 21.95,
+        "tradingVolume": 3310654,
+        "transactionAmount": 71657044
+    },
+    {
+        "closingPrice": 21.9,
+        "date": "2017-01-11",
+        "highestPrice": 22.38,
+        "lowestPrice": 21.93,
+        "openingPrice": 22.28,
+        "tradingVolume": 2342668,
+        "transactionAmount": 51858359
+    },
+    {
+        "closingPrice": 22.05,
+        "date": "2017-01-10",
+        "highestPrice": 22.47,
+        "lowestPrice": 22.3,
+        "openingPrice": 22.1,
+        "tradingVolume": 2351051,
+        "transactionAmount": 52390595
+    },
+    {
+        "closingPrice": 22.09,
+        "date": "2017-01-09",
+        "highestPrice": 22.24,
+        "lowestPrice": 22.14,
+        "openingPrice": 22.15,
+        "tradingVolume": 1997050,
+        "transactionAmount": 44273103
+    },
+    {
+        "closingPrice": 22.08,
+        "date": "2017-01-06",
+        "highestPrice": 22.38,
+        "lowestPrice": 22.17,
+        "openingPrice": 22.38,
+        "tradingVolume": 2669201,
+        "transactionAmount": 59297609
+    },
+    {
+        "closingPrice": 22.21,
+        "date": "2017-01-05",
+        "highestPrice": 22.38,
+        "lowestPrice": 22.37,
+        "openingPrice": 22.3,
+        "tradingVolume": 2254460,
+        "transactionAmount": 50321981
+    },
+    {
+        "closingPrice": 22.12,
+        "date": "2017-01-04",
+        "highestPrice": 22.45,
+        "lowestPrice": 22.34,
+        "openingPrice": 22.18,
+        "tradingVolume": 2591605,
+        "transactionAmount": 57709599
+    },
+    {
+        "closingPrice": 22.07,
+        "date": "2017-01-03",
+        "highestPrice": 22.25,
+        "lowestPrice": 22.22,
+        "openingPrice": 22.11,
+        "tradingVolume": 1972000,
+        "transactionAmount": 43692032
+    },
+    {
+        "closingPrice": 18.14,
+        "date": "2017-06-30",
+        "highestPrice": 18.45,
+        "lowestPrice": 18.38,
+        "openingPrice": 18.18,
+        "tradingVolume": 2685130,
+        "transactionAmount": 49263586
+    },
+    {
+        "closingPrice": 18.08,
+        "date": "2017-06-29",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.24,
+        "openingPrice": 18.09,
+        "tradingVolume": 1493663,
+        "transactionAmount": 27133085
+    },
+    {
+        "closingPrice": 18.06,
+        "date": "2017-06-28",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.09,
+        "openingPrice": 18.25,
+        "tradingVolume": 1433277,
+        "transactionAmount": 25990531
+    },
+    {
+        "closingPrice": 18.17,
+        "date": "2017-06-27",
+        "highestPrice": 18.29,
+        "lowestPrice": 18.24,
+        "openingPrice": 18.17,
+        "tradingVolume": 1392663,
+        "transactionAmount": 25393056
+    },
+    {
+        "closingPrice": 18.04,
+        "date": "2017-06-26",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.25,
+        "openingPrice": 18.1,
+        "tradingVolume": 1513077,
+        "transactionAmount": 27512134
+    },
+    {
+        "closingPrice": 17.91,
+        "date": "2017-06-23",
+        "highestPrice": 18.13,
+        "lowestPrice": 18.12,
+        "openingPrice": 18.01,
+        "tradingVolume": 1883851,
+        "transactionAmount": 33989612
+    },
+    {
+        "closingPrice": 18.07,
+        "date": "2017-06-22",
+        "highestPrice": 18.46,
+        "lowestPrice": 18.1,
+        "openingPrice": 18.45,
+        "tradingVolume": 2136539,
+        "transactionAmount": 39094220
+    },
+    {
+        "closingPrice": 18.31,
+        "date": "2017-06-21",
+        "highestPrice": 18.52,
+        "lowestPrice": 18.45,
+        "openingPrice": 18.44,
+        "tradingVolume": 1876328,
+        "transactionAmount": 34532633
+    },
+    {
+        "closingPrice": 18.31,
+        "date": "2017-06-20",
+        "highestPrice": 18.48,
+        "lowestPrice": 18.4,
+        "openingPrice": 18.4,
+        "tradingVolume": 1963824,
+        "transactionAmount": 36122115
+    },
+    {
+        "closingPrice": 18.2,
+        "date": "2017-06-19",
+        "highestPrice": 18.47,
+        "lowestPrice": 18.46,
+        "openingPrice": 18.23,
+        "tradingVolume": 1941199,
+        "transactionAmount": 35594163
+    },
+    {
+        "closingPrice": 18.2,
+        "date": "2017-06-16",
+        "highestPrice": 18.4,
+        "lowestPrice": 18.22,
+        "openingPrice": 18.35,
+        "tradingVolume": 1863450,
+        "transactionAmount": 34055412
+    },
+    {
+        "closingPrice": 18.14,
+        "date": "2017-06-15",
+        "highestPrice": 18.45,
+        "lowestPrice": 18.4,
+        "openingPrice": 18.2,
+        "tradingVolume": 2690273,
+        "transactionAmount": 49397105
+    },
+    {
+        "closingPrice": 18.07,
+        "date": "2017-06-14",
+        "highestPrice": 18.26,
+        "lowestPrice": 18.16,
+        "openingPrice": 18.22,
+        "tradingVolume": 1218768,
+        "transactionAmount": 22131441
+    },
+    {
+        "closingPrice": 17.91,
+        "date": "2017-06-13",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.24,
+        "openingPrice": 17.91,
+        "tradingVolume": 1676759,
+        "transactionAmount": 30469386
+    },
+    {
+        "closingPrice": 17.92,
+        "date": "2017-06-12",
+        "highestPrice": 18.26,
+        "lowestPrice": 17.99,
+        "openingPrice": 18.1,
+        "tradingVolume": 1719400,
+        "transactionAmount": 31122387
+    },
+    {
+        "closingPrice": 18.14,
+        "date": "2017-06-09",
+        "highestPrice": 18.45,
+        "lowestPrice": 18.32,
+        "openingPrice": 18.4,
+        "tradingVolume": 1898087,
+        "transactionAmount": 34695005
+    },
+    {
+        "closingPrice": 18.36,
+        "date": "2017-06-08",
+        "highestPrice": 18.52,
+        "lowestPrice": 18.39,
+        "openingPrice": 18.51,
+        "tradingVolume": 2534027,
+        "transactionAmount": 46693172
+    },
+    {
+        "closingPrice": 18.06,
+        "date": "2017-06-07",
+        "highestPrice": 18.55,
+        "lowestPrice": 18.52,
+        "openingPrice": 18.14,
+        "tradingVolume": 3405095,
+        "transactionAmount": 62550391
+    },
+    {
+        "closingPrice": 17.98,
+        "date": "2017-06-06",
+        "highestPrice": 18.14,
+        "lowestPrice": 18.13,
+        "openingPrice": 18.09,
+        "tradingVolume": 1510701,
+        "transactionAmount": 27309555
+    },
+    {
+        "closingPrice": 18.03,
+        "date": "2017-06-05",
+        "highestPrice": 18.26,
+        "lowestPrice": 18.15,
+        "openingPrice": 18.03,
+        "tradingVolume": 2097380,
+        "transactionAmount": 38048206
+    },
+    {
+        "closingPrice": 17.53,
+        "date": "2017-06-02",
+        "highestPrice": 18.08,
+        "lowestPrice": 18.07,
+        "openingPrice": 17.6,
+        "tradingVolume": 2140494,
+        "transactionAmount": 38214597
+    },
+    {
+        "closingPrice": 17.66,
+        "date": "2017-06-01",
+        "highestPrice": 17.91,
+        "lowestPrice": 17.69,
+        "openingPrice": 17.91,
+        "tradingVolume": 2023011,
+        "transactionAmount": 35954608
+    },
+    {
+        "closingPrice": 18,
+        "date": "2017-05-31",
+        "highestPrice": 18.6,
+        "lowestPrice": 18.01,
+        "openingPrice": 18.36,
+        "tradingVolume": 2164692,
+        "transactionAmount": 39620480
+    },
+    {
+        "closingPrice": 17.91,
+        "date": "2017-05-26",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.09,
+        "openingPrice": 18.02,
+        "tradingVolume": 2332912,
+        "transactionAmount": 42137506
+    },
+    {
+        "closingPrice": 17.6,
+        "date": "2017-05-25",
+        "highestPrice": 18.1,
+        "lowestPrice": 18.02,
+        "openingPrice": 17.8,
+        "tradingVolume": 2740890,
+        "transactionAmount": 48999286
+    },
+    {
+        "closingPrice": 17.46,
+        "date": "2017-05-24",
+        "highestPrice": 17.85,
+        "lowestPrice": 17.84,
+        "openingPrice": 17.49,
+        "tradingVolume": 2280792,
+        "transactionAmount": 40356291
+    },
+    {
+        "closingPrice": 17.49,
+        "date": "2017-05-23",
+        "highestPrice": 18.12,
+        "lowestPrice": 17.56,
+        "openingPrice": 18.01,
+        "tradingVolume": 3152318,
+        "transactionAmount": 56164263
+    },
+    {
+        "closingPrice": 18.1,
+        "date": "2017-05-22",
+        "highestPrice": 18.63,
+        "lowestPrice": 18.14,
+        "openingPrice": 18.6,
+        "tradingVolume": 2715143,
+        "transactionAmount": 49932620
+    },
+    {
+        "closingPrice": 18.52,
+        "date": "2017-05-19",
+        "highestPrice": 18.9,
+        "lowestPrice": 18.68,
+        "openingPrice": 18.52,
+        "tradingVolume": 2547414,
+        "transactionAmount": 47660048
+    },
+    {
+        "closingPrice": 18.54,
+        "date": "2017-05-18",
+        "highestPrice": 18.83,
+        "lowestPrice": 18.6,
+        "openingPrice": 18.59,
+        "tradingVolume": 2589463,
+        "transactionAmount": 48345997
+    },
+    {
+        "closingPrice": 18.74,
+        "date": "2017-05-17",
+        "highestPrice": 19.09,
+        "lowestPrice": 18.83,
+        "openingPrice": 19.05,
+        "tradingVolume": 4631219,
+        "transactionAmount": 87578912
+    },
+    {
+        "closingPrice": 18.62,
+        "date": "2017-05-16",
+        "highestPrice": 19.14,
+        "lowestPrice": 19.14,
+        "openingPrice": 18.86,
+        "tradingVolume": 4684289,
+        "transactionAmount": 88524319
+    },
+    {
+        "closingPrice": 18.41,
+        "date": "2017-05-15",
+        "highestPrice": 19.19,
+        "lowestPrice": 18.97,
+        "openingPrice": 18.6,
+        "tradingVolume": 5634162,
+        "transactionAmount": 105805088
+    },
+    {
+        "closingPrice": 18.3,
+        "date": "2017-05-12",
+        "highestPrice": 19.54,
+        "lowestPrice": 18.86,
+        "openingPrice": 18.5,
+        "tradingVolume": 8152153,
+        "transactionAmount": 154768622
+    },
+    {
+        "closingPrice": 17.21,
+        "date": "2017-05-11",
+        "highestPrice": 18.33,
+        "lowestPrice": 18.29,
+        "openingPrice": 17.8,
+        "tradingVolume": 3765960,
+        "transactionAmount": 67252788
+    },
+    {
+        "closingPrice": 17.81,
+        "date": "2017-05-10",
+        "highestPrice": 18.41,
+        "lowestPrice": 17.82,
+        "openingPrice": 18.28,
+        "tradingVolume": 1633636,
+        "transactionAmount": 29549112
+    },
+    {
+        "closingPrice": 17.91,
+        "date": "2017-05-09",
+        "highestPrice": 18.35,
+        "lowestPrice": 18.28,
+        "openingPrice": 18.04,
+        "tradingVolume": 1106037,
+        "transactionAmount": 20109744
+    },
+    {
+        "closingPrice": 18,
+        "date": "2017-05-08",
+        "highestPrice": 18.38,
+        "lowestPrice": 18.04,
+        "openingPrice": 18.29,
+        "tradingVolume": 1276233,
+        "transactionAmount": 23224372
+    },
+    {
+        "closingPrice": 18.4,
+        "date": "2017-05-05",
+        "highestPrice": 18.67,
+        "lowestPrice": 18.42,
+        "openingPrice": 18.6,
+        "tradingVolume": 1477647,
+        "transactionAmount": 27338915
+    },
+    {
+        "closingPrice": 18.5,
+        "date": "2017-05-04",
+        "highestPrice": 18.78,
+        "lowestPrice": 18.7,
+        "openingPrice": 18.59,
+        "tradingVolume": 1712954,
+        "transactionAmount": 31922202
+    },
+    {
+        "closingPrice": 18.36,
+        "date": "2017-05-03",
+        "highestPrice": 18.77,
+        "lowestPrice": 18.74,
+        "openingPrice": 18.45,
+        "tradingVolume": 2197211,
+        "transactionAmount": 40850875
+    },
+    {
+        "closingPrice": 18.35,
+        "date": "2017-05-02",
+        "highestPrice": 18.53,
+        "lowestPrice": 18.48,
+        "openingPrice": 18.5,
+        "tradingVolume": 1035845,
+        "transactionAmount": 19105772
+    },
+    {
+        "closingPrice": 18.14,
+        "date": "2017-04-28",
+        "highestPrice": 18.5,
+        "lowestPrice": 18.44,
+        "openingPrice": 18.2,
+        "tradingVolume": 1787888,
+        "transactionAmount": 32805137
+    },
+    {
+        "closingPrice": 17.75,
+        "date": "2017-04-27",
+        "highestPrice": 18.33,
+        "lowestPrice": 18.25,
+        "openingPrice": 18.14,
+        "tradingVolume": 2696432,
+        "transactionAmount": 48616508
+    },
+    {
+        "closingPrice": 18.03,
+        "date": "2017-04-26",
+        "highestPrice": 18.24,
+        "lowestPrice": 18.13,
+        "openingPrice": 18.05,
+        "tradingVolume": 1086100,
+        "transactionAmount": 19703802
+    },
+    {
+        "closingPrice": 18.01,
+        "date": "2017-04-25",
+        "highestPrice": 18.22,
+        "lowestPrice": 18.11,
+        "openingPrice": 18.1,
+        "tradingVolume": 1844506,
+        "transactionAmount": 33442679
+    },
+    {
+        "closingPrice": 18.03,
+        "date": "2017-04-24",
+        "highestPrice": 18.79,
+        "lowestPrice": 18.08,
+        "openingPrice": 18.75,
+        "tradingVolume": 2408902,
+        "transactionAmount": 44152049
+    },
+    {
+        "closingPrice": 18.72,
+        "date": "2017-04-21",
+        "highestPrice": 18.95,
+        "lowestPrice": 18.82,
+        "openingPrice": 18.91,
+        "tradingVolume": 1542623,
+        "transactionAmount": 28996264
+    },
+    {
+        "closingPrice": 18.65,
+        "date": "2017-04-20",
+        "highestPrice": 18.83,
+        "lowestPrice": 18.79,
+        "openingPrice": 18.73,
+        "tradingVolume": 1446928,
+        "transactionAmount": 27116483
+    },
+    {
+        "closingPrice": 18.54,
+        "date": "2017-04-19",
+        "highestPrice": 19.01,
+        "lowestPrice": 18.74,
+        "openingPrice": 19,
+        "tradingVolume": 2385876,
+        "transactionAmount": 44683986
+    },
+    {
+        "closingPrice": 19.03,
+        "date": "2017-04-18",
+        "highestPrice": 19.33,
+        "lowestPrice": 19.04,
+        "openingPrice": 19.21,
+        "tradingVolume": 1567200,
+        "transactionAmount": 30005561
+    },
+    {
+        "closingPrice": 19.1,
+        "date": "2017-04-17",
+        "highestPrice": 19.37,
+        "lowestPrice": 19.17,
+        "openingPrice": 19.3,
+        "tradingVolume": 1919795,
+        "transactionAmount": 36883913
+    },
+    {
+        "closingPrice": 19.32,
+        "date": "2017-04-14",
+        "highestPrice": 19.54,
+        "lowestPrice": 19.39,
+        "openingPrice": 19.5,
+        "tradingVolume": 1381969,
+        "transactionAmount": 26839553
+    },
+    {
+        "closingPrice": 19.41,
+        "date": "2017-04-13",
+        "highestPrice": 19.61,
+        "lowestPrice": 19.56,
+        "openingPrice": 19.41,
+        "tradingVolume": 1389623,
+        "transactionAmount": 27168271
+    },
+    {
+        "closingPrice": 19.43,
+        "date": "2017-04-12",
+        "highestPrice": 19.57,
+        "lowestPrice": 19.46,
+        "openingPrice": 19.53,
+        "tradingVolume": 1828400,
+        "transactionAmount": 35654383
+    },
+    {
+        "closingPrice": 19.28,
+        "date": "2017-04-11",
+        "highestPrice": 19.69,
+        "lowestPrice": 19.61,
+        "openingPrice": 19.48,
+        "tradingVolume": 2604314,
+        "transactionAmount": 50736272
+    },
+    {
+        "closingPrice": 19.57,
+        "date": "2017-04-10",
+        "highestPrice": 19.84,
+        "lowestPrice": 19.61,
+        "openingPrice": 19.84,
+        "tradingVolume": 2191189,
+        "transactionAmount": 43055741
+    },
+    {
+        "closingPrice": 19.77,
+        "date": "2017-04-07",
+        "highestPrice": 19.93,
+        "lowestPrice": 19.86,
+        "openingPrice": 19.83,
+        "tradingVolume": 1660116,
+        "transactionAmount": 32970408
+    },
+    {
+        "closingPrice": 19.71,
+        "date": "2017-04-06",
+        "highestPrice": 19.92,
+        "lowestPrice": 19.87,
+        "openingPrice": 19.86,
+        "tradingVolume": 2301754,
+        "transactionAmount": 45611064
+    },
+    {
+        "closingPrice": 19.7,
+        "date": "2017-04-05",
+        "highestPrice": 20.08,
+        "lowestPrice": 19.95,
+        "openingPrice": 19.7,
+        "tradingVolume": 2805460,
+        "transactionAmount": 55912996
+    },
+    {
+        "closingPrice": 17.23,
+        "date": "2017-09-29",
+        "highestPrice": 17.41,
+        "lowestPrice": 17.4,
+        "openingPrice": 17.31,
+        "tradingVolume": 906401,
+        "transactionAmount": 15722414
+    },
+    {
+        "closingPrice": 17.3,
+        "date": "2017-09-28",
+        "highestPrice": 17.5,
+        "lowestPrice": 17.31,
+        "openingPrice": 17.49,
+        "tradingVolume": 1202800,
+        "transactionAmount": 20906913
+    },
+    {
+        "closingPrice": 17.44,
+        "date": "2017-09-27",
+        "highestPrice": 17.53,
+        "lowestPrice": 17.5,
+        "openingPrice": 17.47,
+        "tradingVolume": 722575,
+        "transactionAmount": 12638060
+    },
+    {
+        "closingPrice": 17.4,
+        "date": "2017-09-26",
+        "highestPrice": 17.53,
+        "lowestPrice": 17.47,
+        "openingPrice": 17.48,
+        "tradingVolume": 1009807,
+        "transactionAmount": 17616356
+    },
+    {
+        "closingPrice": 17.43,
+        "date": "2017-09-25",
+        "highestPrice": 17.65,
+        "lowestPrice": 17.45,
+        "openingPrice": 17.55,
+        "tradingVolume": 1183135,
+        "transactionAmount": 20763177
+    },
+    {
+        "closingPrice": 17.56,
+        "date": "2017-09-22",
+        "highestPrice": 17.77,
+        "lowestPrice": 17.65,
+        "openingPrice": 17.73,
+        "tradingVolume": 1583161,
+        "transactionAmount": 27940986
+    },
+    {
+        "closingPrice": 17.68,
+        "date": "2017-09-21",
+        "highestPrice": 17.93,
+        "lowestPrice": 17.71,
+        "openingPrice": 17.91,
+        "tradingVolume": 1683300,
+        "transactionAmount": 30033251
+    },
+    {
+        "closingPrice": 17.72,
+        "date": "2017-09-20",
+        "highestPrice": 17.93,
+        "lowestPrice": 17.9,
+        "openingPrice": 17.74,
+        "tradingVolume": 1776745,
+        "transactionAmount": 31663200
+    },
+    {
+        "closingPrice": 17.7,
+        "date": "2017-09-19",
+        "highestPrice": 17.84,
+        "lowestPrice": 17.73,
+        "openingPrice": 17.83,
+        "tradingVolume": 1229235,
+        "transactionAmount": 21834094
+    },
+    {
+        "closingPrice": 17.7,
+        "date": "2017-09-18",
+        "highestPrice": 17.84,
+        "lowestPrice": 17.82,
+        "openingPrice": 17.74,
+        "tradingVolume": 1277521,
+        "transactionAmount": 22702045
+    },
+    {
+        "closingPrice": 17.66,
+        "date": "2017-09-15",
+        "highestPrice": 17.76,
+        "lowestPrice": 17.71,
+        "openingPrice": 17.71,
+        "tradingVolume": 1191300,
+        "transactionAmount": 21113619
+    },
+    {
+        "closingPrice": 17.68,
+        "date": "2017-09-14",
+        "highestPrice": 17.89,
+        "lowestPrice": 17.73,
+        "openingPrice": 17.82,
+        "tradingVolume": 1496600,
+        "transactionAmount": 26603677
+    },
+    {
+        "closingPrice": 17.73,
+        "date": "2017-09-13",
+        "highestPrice": 17.87,
+        "lowestPrice": 17.82,
+        "openingPrice": 17.73,
+        "tradingVolume": 1292012,
+        "transactionAmount": 23016152
+    },
+    {
+        "closingPrice": 17.78,
+        "date": "2017-09-12",
+        "highestPrice": 18.04,
+        "lowestPrice": 17.79,
+        "openingPrice": 18.03,
+        "tradingVolume": 2103567,
+        "transactionAmount": 37598459
+    },
+    {
+        "closingPrice": 17.83,
+        "date": "2017-09-11",
+        "highestPrice": 18.02,
+        "lowestPrice": 18.01,
+        "openingPrice": 17.85,
+        "tradingVolume": 1773702,
+        "transactionAmount": 31879888
+    },
+    {
+        "closingPrice": 17.7,
+        "date": "2017-09-08",
+        "highestPrice": 17.9,
+        "lowestPrice": 17.88,
+        "openingPrice": 17.82,
+        "tradingVolume": 1986754,
+        "transactionAmount": 35379583
+    },
+    {
+        "closingPrice": 17.78,
+        "date": "2017-09-07",
+        "highestPrice": 17.94,
+        "lowestPrice": 17.79,
+        "openingPrice": 17.85,
+        "tradingVolume": 2521532,
+        "transactionAmount": 45046936
+    },
+    {
+        "closingPrice": 17.78,
+        "date": "2017-09-06",
+        "highestPrice": 17.89,
+        "lowestPrice": 17.87,
+        "openingPrice": 17.82,
+        "tradingVolume": 2202000,
+        "transactionAmount": 39248910
+    },
+    {
+        "closingPrice": 17.82,
+        "date": "2017-09-05",
+        "highestPrice": 18.1,
+        "lowestPrice": 17.84,
+        "openingPrice": 17.97,
+        "tradingVolume": 1987724,
+        "transactionAmount": 35582860
+    },
+    {
+        "closingPrice": 17.94,
+        "date": "2017-09-04",
+        "highestPrice": 18.17,
+        "lowestPrice": 17.99,
+        "openingPrice": 18.16,
+        "tradingVolume": 4650700,
+        "transactionAmount": 83736805
+    },
+    {
+        "closingPrice": 17.86,
+        "date": "2017-09-01",
+        "highestPrice": 18.18,
+        "lowestPrice": 18.13,
+        "openingPrice": 17.91,
+        "tradingVolume": 3952090,
+        "transactionAmount": 71201360
+    },
+    {
+        "closingPrice": 17.66,
+        "date": "2017-08-31",
+        "highestPrice": 18.07,
+        "lowestPrice": 17.98,
+        "openingPrice": 17.7,
+        "tradingVolume": 4549552,
+        "transactionAmount": 81271266
+    },
+    {
+        "closingPrice": 17.64,
+        "date": "2017-08-30",
+        "highestPrice": 17.86,
+        "lowestPrice": 17.7,
+        "openingPrice": 17.71,
+        "tradingVolume": 2124000,
+        "transactionAmount": 37606407
+    },
+    {
+        "closingPrice": 17.62,
+        "date": "2017-08-29",
+        "highestPrice": 17.85,
+        "lowestPrice": 17.76,
+        "openingPrice": 17.79,
+        "tradingVolume": 2749505,
+        "transactionAmount": 48789826
+    },
+    {
+        "closingPrice": 17.54,
+        "date": "2017-08-28",
+        "highestPrice": 17.76,
+        "lowestPrice": 17.71,
+        "openingPrice": 17.54,
+        "tradingVolume": 2671629,
+        "transactionAmount": 47219685
+    },
+    {
+        "closingPrice": 17.37,
+        "date": "2017-08-25",
+        "highestPrice": 17.57,
+        "lowestPrice": 17.55,
+        "openingPrice": 17.39,
+        "tradingVolume": 2060927,
+        "transactionAmount": 36037429
+    },
+    {
+        "closingPrice": 17.35,
+        "date": "2017-08-24",
+        "highestPrice": 17.6,
+        "lowestPrice": 17.38,
+        "openingPrice": 17.54,
+        "tradingVolume": 1702341,
+        "transactionAmount": 29674707
+    },
+    {
+        "closingPrice": 17.42,
+        "date": "2017-08-23",
+        "highestPrice": 17.68,
+        "lowestPrice": 17.52,
+        "openingPrice": 17.57,
+        "tradingVolume": 2205200,
+        "transactionAmount": 38604627
+    },
+    {
+        "closingPrice": 17.62,
+        "date": "2017-08-22",
+        "highestPrice": 18.12,
+        "lowestPrice": 17.63,
+        "openingPrice": 18.12,
+        "tradingVolume": 4866924,
+        "transactionAmount": 86978455
+    },
+    {
+        "closingPrice": 17.38,
+        "date": "2017-08-21",
+        "highestPrice": 17.57,
+        "lowestPrice": 17.55,
+        "openingPrice": 17.45,
+        "tradingVolume": 1854701,
+        "transactionAmount": 32411294
+    },
+    {
+        "closingPrice": 17.31,
+        "date": "2017-08-18",
+        "highestPrice": 17.45,
+        "lowestPrice": 17.4,
+        "openingPrice": 17.34,
+        "tradingVolume": 1358600,
+        "transactionAmount": 23608662
+    },
+    {
+        "closingPrice": 17.33,
+        "date": "2017-08-17",
+        "highestPrice": 17.5,
+        "lowestPrice": 17.46,
+        "openingPrice": 17.45,
+        "tradingVolume": 1560151,
+        "transactionAmount": 27198625
+    },
+    {
+        "closingPrice": 17.21,
+        "date": "2017-08-16",
+        "highestPrice": 17.45,
+        "lowestPrice": 17.44,
+        "openingPrice": 17.25,
+        "tradingVolume": 2172385,
+        "transactionAmount": 37681521
+    },
+    {
+        "closingPrice": 17.16,
+        "date": "2017-08-15",
+        "highestPrice": 17.26,
+        "lowestPrice": 17.23,
+        "openingPrice": 17.21,
+        "tradingVolume": 1213300,
+        "transactionAmount": 20879621
+    },
+    {
+        "closingPrice": 17.01,
+        "date": "2017-08-14",
+        "highestPrice": 17.22,
+        "lowestPrice": 17.21,
+        "openingPrice": 17.07,
+        "tradingVolume": 1445300,
+        "transactionAmount": 24797707
+    },
+    {
+        "closingPrice": 17,
+        "date": "2017-08-11",
+        "highestPrice": 17.14,
+        "lowestPrice": 17.03,
+        "openingPrice": 17.05,
+        "tradingVolume": 1856278,
+        "transactionAmount": 31652146
+    },
+    {
+        "closingPrice": 17.1,
+        "date": "2017-08-10",
+        "highestPrice": 17.52,
+        "lowestPrice": 17.19,
+        "openingPrice": 17.48,
+        "tradingVolume": 1683600,
+        "transactionAmount": 29123314
+    },
+    {
+        "closingPrice": 17.32,
+        "date": "2017-08-09",
+        "highestPrice": 17.58,
+        "lowestPrice": 17.49,
+        "openingPrice": 17.46,
+        "tradingVolume": 1587701,
+        "transactionAmount": 27700287
+    },
+    {
+        "closingPrice": 17.32,
+        "date": "2017-08-08",
+        "highestPrice": 17.57,
+        "lowestPrice": 17.47,
+        "openingPrice": 17.48,
+        "tradingVolume": 1816200,
+        "transactionAmount": 31669851
+    },
+    {
+        "closingPrice": 17.35,
+        "date": "2017-08-03",
+        "highestPrice": 17.5,
+        "lowestPrice": 17.46,
+        "openingPrice": 17.35,
+        "tradingVolume": 1561300,
+        "transactionAmount": 27228108
+    },
+    {
+        "closingPrice": 17.33,
+        "date": "2017-08-02",
+        "highestPrice": 17.78,
+        "lowestPrice": 17.34,
+        "openingPrice": 17.76,
+        "tradingVolume": 2589107,
+        "transactionAmount": 45428475
+    },
+    {
+        "closingPrice": 17.64,
+        "date": "2017-08-01",
+        "highestPrice": 17.89,
+        "lowestPrice": 17.72,
+        "openingPrice": 17.8,
+        "tradingVolume": 2490974,
+        "transactionAmount": 44263491
+    },
+    {
+        "closingPrice": 17.75,
+        "date": "2017-07-31",
+        "highestPrice": 18.3,
+        "lowestPrice": 17.86,
+        "openingPrice": 17.85,
+        "tradingVolume": 4254911,
+        "transactionAmount": 76147273
+    },
+    {
+        "closingPrice": 17.8,
+        "date": "2017-07-28",
+        "highestPrice": 18.48,
+        "lowestPrice": 18.03,
+        "openingPrice": 18.35,
+        "tradingVolume": 4681045,
+        "transactionAmount": 84592555
+    },
+    {
+        "closingPrice": 17.75,
+        "date": "2017-07-27",
+        "highestPrice": 18.37,
+        "lowestPrice": 18.14,
+        "openingPrice": 17.95,
+        "tradingVolume": 4232967,
+        "transactionAmount": 76373251
+    },
+    {
+        "closingPrice": 17.63,
+        "date": "2017-07-26",
+        "highestPrice": 18.25,
+        "lowestPrice": 17.96,
+        "openingPrice": 17.96,
+        "tradingVolume": 4478600,
+        "transactionAmount": 80153085
+    },
+    {
+        "closingPrice": 17.19,
+        "date": "2017-07-25",
+        "highestPrice": 18.4,
+        "lowestPrice": 17.98,
+        "openingPrice": 17.28,
+        "tradingVolume": 6018138,
+        "transactionAmount": 106654740
+    },
+    {
+        "closingPrice": 16.98,
+        "date": "2017-07-24",
+        "highestPrice": 17.57,
+        "lowestPrice": 17.33,
+        "openingPrice": 17.02,
+        "tradingVolume": 3116824,
+        "transactionAmount": 53773769
+    },
+    {
+        "closingPrice": 17.02,
+        "date": "2017-07-21",
+        "highestPrice": 17.14,
+        "lowestPrice": 17.07,
+        "openingPrice": 17.02,
+        "tradingVolume": 1133941,
+        "transactionAmount": 19379266
+    },
+    {
+        "closingPrice": 17,
+        "date": "2017-07-20",
+        "highestPrice": 17.28,
+        "lowestPrice": 17.08,
+        "openingPrice": 17.06,
+        "tradingVolume": 1921681,
+        "transactionAmount": 33000085
+    },
+    {
+        "closingPrice": 16.7,
+        "date": "2017-07-19",
+        "highestPrice": 17.14,
+        "lowestPrice": 17.13,
+        "openingPrice": 16.9,
+        "tradingVolume": 1775440,
+        "transactionAmount": 30151628
+    },
+    {
+        "closingPrice": 16.72,
+        "date": "2017-07-18",
+        "highestPrice": 17.01,
+        "lowestPrice": 16.95,
+        "openingPrice": 16.81,
+        "tradingVolume": 1595800,
+        "transactionAmount": 26949844
+    },
+    {
+        "closingPrice": 16.82,
+        "date": "2017-07-17",
+        "highestPrice": 17.74,
+        "lowestPrice": 16.85,
+        "openingPrice": 17.67,
+        "tradingVolume": 3549200,
+        "transactionAmount": 60895366
+    },
+    {
+        "closingPrice": 17.7,
+        "date": "2017-07-14",
+        "highestPrice": 17.95,
+        "lowestPrice": 17.76,
+        "openingPrice": 17.92,
+        "tradingVolume": 1594265,
+        "transactionAmount": 28371850
+    },
+    {
+        "closingPrice": 17.7,
+        "date": "2017-07-13",
+        "highestPrice": 18.09,
+        "lowestPrice": 17.92,
+        "openingPrice": 17.9,
+        "tradingVolume": 2007151,
+        "transactionAmount": 35907757
+    },
+    {
+        "closingPrice": 17.51,
+        "date": "2017-07-12",
+        "highestPrice": 18.23,
+        "lowestPrice": 17.91,
+        "openingPrice": 18.11,
+        "tradingVolume": 2211583,
+        "transactionAmount": 39577199
+    },
+    {
+        "closingPrice": 18.02,
+        "date": "2017-07-11",
+        "highestPrice": 18.45,
+        "lowestPrice": 18.14,
+        "openingPrice": 18.09,
+        "tradingVolume": 2930675,
+        "transactionAmount": 53425010
+    },
+    {
+        "closingPrice": 18.05,
+        "date": "2017-07-10",
+        "highestPrice": 18.24,
+        "lowestPrice": 18.09,
+        "openingPrice": 18.22,
+        "tradingVolume": 1826901,
+        "transactionAmount": 33166600
+    },
+    {
+        "closingPrice": 18.03,
+        "date": "2017-07-07",
+        "highestPrice": 18.2,
+        "lowestPrice": 18.2,
+        "openingPrice": 18.1,
+        "tradingVolume": 2107910,
+        "transactionAmount": 38208779
+    },
+    {
+        "closingPrice": 18.01,
+        "date": "2017-07-06",
+        "highestPrice": 18.27,
+        "lowestPrice": 18.08,
+        "openingPrice": 18.27,
+        "tradingVolume": 2643413,
+        "transactionAmount": 47865823
+    },
+    {
+        "closingPrice": 18.34,
+        "date": "2017-07-05",
+        "highestPrice": 18.54,
+        "lowestPrice": 18.45,
+        "openingPrice": 18.4,
+        "tradingVolume": 2434734,
+        "transactionAmount": 44917277
+    },
+    {
+        "closingPrice": 18.32,
+        "date": "2017-07-04",
+        "highestPrice": 18.49,
+        "lowestPrice": 18.4,
+        "openingPrice": 18.47,
+        "tradingVolume": 2223177,
+        "transactionAmount": 40892424
+    },
+    {
+        "closingPrice": 18.29,
+        "date": "2017-07-03",
+        "highestPrice": 18.49,
+        "lowestPrice": 18.45,
+        "openingPrice": 18.38,
+        "tradingVolume": 2198847,
+        "transactionAmount": 40505909
+    },
+    {
+        "closingPrice": 15.32,
+        "date": "2017-12-29",
+        "highestPrice": 15.49,
+        "lowestPrice": 15.42,
+        "openingPrice": 15.32,
+        "tradingVolume": 1079327,
+        "transactionAmount": 16607314
+    },
+    {
+        "closingPrice": 15.06,
+        "date": "2017-12-28",
+        "highestPrice": 15.37,
+        "lowestPrice": 15.29,
+        "openingPrice": 15.14,
+        "tradingVolume": 1252000,
+        "transactionAmount": 19136636
+    },
+    {
+        "closingPrice": 15.11,
+        "date": "2017-12-27",
+        "highestPrice": 15.3,
+        "lowestPrice": 15.14,
+        "openingPrice": 15.3,
+        "tradingVolume": 930000,
+        "transactionAmount": 14134392
+    },
+    {
+        "closingPrice": 14.99,
+        "date": "2017-12-26",
+        "highestPrice": 15.37,
+        "lowestPrice": 15.29,
+        "openingPrice": 15.09,
+        "tradingVolume": 1168831,
+        "transactionAmount": 17777795
+    },
+    {
+        "closingPrice": 14.93,
+        "date": "2017-12-25",
+        "highestPrice": 15.19,
+        "lowestPrice": 15,
+        "openingPrice": 15.17,
+        "tradingVolume": 1093260,
+        "transactionAmount": 16461151
+    },
+    {
+        "closingPrice": 15.11,
+        "date": "2017-12-22",
+        "highestPrice": 15.24,
+        "lowestPrice": 15.13,
+        "openingPrice": 15.19,
+        "tradingVolume": 790280,
+        "transactionAmount": 11974028
+    },
+    {
+        "closingPrice": 15.08,
+        "date": "2017-12-21",
+        "highestPrice": 15.27,
+        "lowestPrice": 15.19,
+        "openingPrice": 15.21,
+        "tradingVolume": 876352,
+        "transactionAmount": 13315937
+    },
+    {
+        "closingPrice": 15.22,
+        "date": "2017-12-20",
+        "highestPrice": 15.59,
+        "lowestPrice": 15.24,
+        "openingPrice": 15.59,
+        "tradingVolume": 955380,
+        "transactionAmount": 14702455
+    },
+    {
+        "closingPrice": 15.2,
+        "date": "2017-12-19",
+        "highestPrice": 15.35,
+        "lowestPrice": 15.34,
+        "openingPrice": 15.2,
+        "tradingVolume": 855063,
+        "transactionAmount": 13084920
+    },
+    {
+        "closingPrice": 15.16,
+        "date": "2017-12-18",
+        "highestPrice": 15.4,
+        "lowestPrice": 15.19,
+        "openingPrice": 15.37,
+        "tradingVolume": 855700,
+        "transactionAmount": 13050393
+    },
+    {
+        "closingPrice": 15.27,
+        "date": "2017-12-15",
+        "highestPrice": 15.4,
+        "lowestPrice": 15.37,
+        "openingPrice": 15.33,
+        "tradingVolume": 654707,
+        "transactionAmount": 10034434
+    },
+    {
+        "closingPrice": 15.24,
+        "date": "2017-12-14",
+        "highestPrice": 15.39,
+        "lowestPrice": 15.36,
+        "openingPrice": 15.3,
+        "tradingVolume": 709000,
+        "transactionAmount": 10859620
+    },
+    {
+        "closingPrice": 15.07,
+        "date": "2017-12-13",
+        "highestPrice": 15.45,
+        "lowestPrice": 15.39,
+        "openingPrice": 15.11,
+        "tradingVolume": 1057213,
+        "transactionAmount": 16201751
+    },
+    {
+        "closingPrice": 15.18,
+        "date": "2017-12-12",
+        "highestPrice": 15.46,
+        "lowestPrice": 15.18,
+        "openingPrice": 15.46,
+        "tradingVolume": 1215600,
+        "transactionAmount": 18600054
+    },
+    {
+        "closingPrice": 15.23,
+        "date": "2017-12-11",
+        "highestPrice": 15.52,
+        "lowestPrice": 15.46,
+        "openingPrice": 15.35,
+        "tradingVolume": 1442793,
+        "transactionAmount": 22208585
+    },
+    {
+        "closingPrice": 15.12,
+        "date": "2017-12-08",
+        "highestPrice": 15.41,
+        "lowestPrice": 15.34,
+        "openingPrice": 15.12,
+        "tradingVolume": 1437938,
+        "transactionAmount": 22019274
+    },
+    {
+        "closingPrice": 15.09,
+        "date": "2017-12-07",
+        "highestPrice": 15.29,
+        "lowestPrice": 15.15,
+        "openingPrice": 15.19,
+        "tradingVolume": 1244025,
+        "transactionAmount": 18879353
+    },
+    {
+        "closingPrice": 15.01,
+        "date": "2017-12-06",
+        "highestPrice": 15.23,
+        "lowestPrice": 15.22,
+        "openingPrice": 15.07,
+        "tradingVolume": 1378932,
+        "transactionAmount": 20830808
+    },
+    {
+        "closingPrice": 15.08,
+        "date": "2017-12-05",
+        "highestPrice": 15.85,
+        "lowestPrice": 15.13,
+        "openingPrice": 15.82,
+        "tradingVolume": 2865290,
+        "transactionAmount": 44082264
+    },
+    {
+        "closingPrice": 15.82,
+        "date": "2017-12-04",
+        "highestPrice": 16.06,
+        "lowestPrice": 15.83,
+        "openingPrice": 16.06,
+        "tradingVolume": 1079033,
+        "transactionAmount": 17168614
+    },
+    {
+        "closingPrice": 15.89,
+        "date": "2017-12-01",
+        "highestPrice": 16.07,
+        "lowestPrice": 16.06,
+        "openingPrice": 15.9,
+        "tradingVolume": 1044912,
+        "transactionAmount": 16725686
+    },
+    {
+        "closingPrice": 15.9,
+        "date": "2017-11-30",
+        "highestPrice": 16.09,
+        "lowestPrice": 15.97,
+        "openingPrice": 15.92,
+        "tradingVolume": 853500,
+        "transactionAmount": 13643122
+    },
+    {
+        "closingPrice": 15.83,
+        "date": "2017-11-29",
+        "highestPrice": 16.08,
+        "lowestPrice": 15.99,
+        "openingPrice": 16.08,
+        "tradingVolume": 994260,
+        "transactionAmount": 15847148
+    },
+    {
+        "closingPrice": 15.88,
+        "date": "2017-11-28",
+        "highestPrice": 16.16,
+        "lowestPrice": 16.08,
+        "openingPrice": 15.88,
+        "tradingVolume": 1265700,
+        "transactionAmount": 20260774
+    },
+    {
+        "closingPrice": 15.84,
+        "date": "2017-11-27",
+        "highestPrice": 15.97,
+        "lowestPrice": 15.85,
+        "openingPrice": 15.87,
+        "tradingVolume": 875041,
+        "transactionAmount": 13928728
+    },
+    {
+        "closingPrice": 15.82,
+        "date": "2017-11-24",
+        "highestPrice": 15.98,
+        "lowestPrice": 15.92,
+        "openingPrice": 15.83,
+        "tradingVolume": 863000,
+        "transactionAmount": 13724199
+    },
+    {
+        "closingPrice": 15.82,
+        "date": "2017-11-23",
+        "highestPrice": 16.18,
+        "lowestPrice": 15.92,
+        "openingPrice": 16.18,
+        "tradingVolume": 1761593,
+        "transactionAmount": 28215997
+    },
+    {
+        "closingPrice": 16.1,
+        "date": "2017-11-22",
+        "highestPrice": 16.3,
+        "lowestPrice": 16.18,
+        "openingPrice": 16.23,
+        "tradingVolume": 1157000,
+        "transactionAmount": 18735914
+    },
+    {
+        "closingPrice": 16.09,
+        "date": "2017-11-21",
+        "highestPrice": 16.28,
+        "lowestPrice": 16.25,
+        "openingPrice": 16.2,
+        "tradingVolume": 1344000,
+        "transactionAmount": 21761858
+    },
+    {
+        "closingPrice": 15.97,
+        "date": "2017-11-20",
+        "highestPrice": 16.33,
+        "lowestPrice": 16.21,
+        "openingPrice": 16.29,
+        "tradingVolume": 1628476,
+        "transactionAmount": 26220923
+    },
+    {
+        "closingPrice": 16.27,
+        "date": "2017-11-17",
+        "highestPrice": 16.98,
+        "lowestPrice": 16.33,
+        "openingPrice": 16.92,
+        "tradingVolume": 3362279,
+        "transactionAmount": 55571834
+    },
+    {
+        "closingPrice": 16.86,
+        "date": "2017-11-16",
+        "highestPrice": 17.09,
+        "lowestPrice": 16.97,
+        "openingPrice": 17.02,
+        "tradingVolume": 1198829,
+        "transactionAmount": 20337622
+    },
+    {
+        "closingPrice": 16.99,
+        "date": "2017-11-15",
+        "highestPrice": 17.12,
+        "lowestPrice": 17.04,
+        "openingPrice": 17,
+        "tradingVolume": 1084046,
+        "transactionAmount": 18474648
+    },
+    {
+        "closingPrice": 16.95,
+        "date": "2017-11-14",
+        "highestPrice": 17.27,
+        "lowestPrice": 17.06,
+        "openingPrice": 17.27,
+        "tradingVolume": 2005641,
+        "transactionAmount": 34289241
+    },
+    {
+        "closingPrice": 17.19,
+        "date": "2017-11-13",
+        "highestPrice": 17.36,
+        "lowestPrice": 17.25,
+        "openingPrice": 17.27,
+        "tradingVolume": 1324201,
+        "transactionAmount": 22858522
+    },
+    {
+        "closingPrice": 17.2,
+        "date": "2017-11-10",
+        "highestPrice": 17.39,
+        "lowestPrice": 17.22,
+        "openingPrice": 17.39,
+        "tradingVolume": 1661800,
+        "transactionAmount": 28704360
+    },
+    {
+        "closingPrice": 17.29,
+        "date": "2017-11-09",
+        "highestPrice": 17.42,
+        "lowestPrice": 17.39,
+        "openingPrice": 17.36,
+        "tradingVolume": 991584,
+        "transactionAmount": 17202632
+    },
+    {
+        "closingPrice": 17.31,
+        "date": "2017-11-08",
+        "highestPrice": 17.48,
+        "lowestPrice": 17.37,
+        "openingPrice": 17.35,
+        "tradingVolume": 1413872,
+        "transactionAmount": 24619603
+    },
+    {
+        "closingPrice": 17.2,
+        "date": "2017-11-07",
+        "highestPrice": 17.38,
+        "lowestPrice": 17.35,
+        "openingPrice": 17.34,
+        "tradingVolume": 1234406,
+        "transactionAmount": 21343989
+    },
+    {
+        "closingPrice": 17.05,
+        "date": "2017-11-06",
+        "highestPrice": 17.37,
+        "lowestPrice": 17.34,
+        "openingPrice": 17.2,
+        "tradingVolume": 1462158,
+        "transactionAmount": 25110741
+    },
+    {
+        "closingPrice": 17.06,
+        "date": "2017-11-03",
+        "highestPrice": 17.49,
+        "lowestPrice": 17.21,
+        "openingPrice": 17.41,
+        "tradingVolume": 1957485,
+        "transactionAmount": 33767203
+    },
+    {
+        "closingPrice": 17.37,
+        "date": "2017-11-02",
+        "highestPrice": 17.6,
+        "lowestPrice": 17.38,
+        "openingPrice": 17.52,
+        "tradingVolume": 1695000,
+        "transactionAmount": 29573932
+    },
+    {
+        "closingPrice": 17.45,
+        "date": "2017-11-01",
+        "highestPrice": 17.59,
+        "lowestPrice": 17.58,
+        "openingPrice": 17.57,
+        "tradingVolume": 1636941,
+        "transactionAmount": 28694716
+    },
+    {
+        "closingPrice": 17.39,
+        "date": "2017-10-31",
+        "highestPrice": 17.55,
+        "lowestPrice": 17.51,
+        "openingPrice": 17.55,
+        "tradingVolume": 1891587,
+        "transactionAmount": 33070274
+    },
+    {
+        "closingPrice": 17.3,
+        "date": "2017-10-30",
+        "highestPrice": 17.95,
+        "lowestPrice": 17.37,
+        "openingPrice": 17.91,
+        "tradingVolume": 3773749,
+        "transactionAmount": 65906325
+    },
+    {
+        "closingPrice": 17.83,
+        "date": "2017-10-27",
+        "highestPrice": 18.09,
+        "lowestPrice": 17.87,
+        "openingPrice": 18.08,
+        "tradingVolume": 2622849,
+        "transactionAmount": 46992417
+    },
+    {
+        "closingPrice": 17.93,
+        "date": "2017-10-26",
+        "highestPrice": 18.12,
+        "lowestPrice": 18.07,
+        "openingPrice": 17.99,
+        "tradingVolume": 3088404,
+        "transactionAmount": 55689177
+    },
+    {
+        "closingPrice": 17.73,
+        "date": "2017-10-25",
+        "highestPrice": 18.12,
+        "lowestPrice": 18.06,
+        "openingPrice": 17.84,
+        "tradingVolume": 4148852,
+        "transactionAmount": 74584198
+    },
+    {
+        "closingPrice": 17.6,
+        "date": "2017-10-24",
+        "highestPrice": 17.86,
+        "lowestPrice": 17.78,
+        "openingPrice": 17.83,
+        "tradingVolume": 1722034,
+        "transactionAmount": 30519739
+    },
+    {
+        "closingPrice": 17.75,
+        "date": "2017-10-23",
+        "highestPrice": 17.92,
+        "lowestPrice": 17.88,
+        "openingPrice": 17.92,
+        "tradingVolume": 2067307,
+        "transactionAmount": 36853319
+    },
+    {
+        "closingPrice": 17.4,
+        "date": "2017-10-20",
+        "highestPrice": 17.91,
+        "lowestPrice": 17.89,
+        "openingPrice": 17.55,
+        "tradingVolume": 2003280,
+        "transactionAmount": 35375300
+    },
+    {
+        "closingPrice": 17.39,
+        "date": "2017-10-19",
+        "highestPrice": 17.8,
+        "lowestPrice": 17.48,
+        "openingPrice": 17.72,
+        "tradingVolume": 2629589,
+        "transactionAmount": 46185379
+    },
+    {
+        "closingPrice": 17.58,
+        "date": "2017-10-18",
+        "highestPrice": 18.15,
+        "lowestPrice": 17.81,
+        "openingPrice": 17.6,
+        "tradingVolume": 4409779,
+        "transactionAmount": 78997678
+    },
+    {
+        "closingPrice": 17.41,
+        "date": "2017-10-17",
+        "highestPrice": 17.61,
+        "lowestPrice": 17.61,
+        "openingPrice": 17.5,
+        "tradingVolume": 1151200,
+        "transactionAmount": 20197872
+    },
+    {
+        "closingPrice": 17.47,
+        "date": "2017-10-16",
+        "highestPrice": 17.95,
+        "lowestPrice": 17.49,
+        "openingPrice": 17.77,
+        "tradingVolume": 2084633,
+        "transactionAmount": 36937136
+    },
+    {
+        "closingPrice": 17.64,
+        "date": "2017-10-13",
+        "highestPrice": 17.8,
+        "lowestPrice": 17.77,
+        "openingPrice": 17.68,
+        "tradingVolume": 1493391,
+        "transactionAmount": 26497680
+    },
+    {
+        "closingPrice": 17.57,
+        "date": "2017-10-12",
+        "highestPrice": 17.77,
+        "lowestPrice": 17.63,
+        "openingPrice": 17.7,
+        "tradingVolume": 1098258,
+        "transactionAmount": 19411741
+    },
+    {
+        "closingPrice": 17.65,
+        "date": "2017-10-11",
+        "highestPrice": 17.8,
+        "lowestPrice": 17.74,
+        "openingPrice": 17.78,
+        "tradingVolume": 1471904,
+        "transactionAmount": 26109887
+    },
+    {
+        "closingPrice": 17.46,
+        "date": "2017-10-10",
+        "highestPrice": 17.75,
+        "lowestPrice": 17.71,
+        "openingPrice": 17.49,
+        "tradingVolume": 1742390,
+        "transactionAmount": 30669275
+    },
+    {
+        "closingPrice": 17.45,
+        "date": "2017-10-09",
+        "highestPrice": 17.6,
+        "lowestPrice": 17.49,
+        "openingPrice": 17.55,
+        "tradingVolume": 1273200,
+        "transactionAmount": 22285846
+    },
+    {
+        "closingPrice": 14.38,
+        "date": "2018-03-30",
+        "highestPrice": 14.58,
+        "lowestPrice": 14.5,
+        "openingPrice": 14.45,
+        "tradingVolume": 976400,
+        "transactionAmount": 14135480
+    },
+    {
+        "closingPrice": 14.2,
+        "date": "2018-03-29",
+        "highestPrice": 14.42,
+        "lowestPrice": 14.38,
+        "openingPrice": 14.23,
+        "tradingVolume": 675877,
+        "transactionAmount": 9692103
+    },
+    {
+        "closingPrice": 14.01,
+        "date": "2018-03-28",
+        "highestPrice": 14.32,
+        "lowestPrice": 14.2,
+        "openingPrice": 14.13,
+        "tradingVolume": 804865,
+        "transactionAmount": 11440973
+    },
+    {
+        "closingPrice": 14.04,
+        "date": "2018-03-27",
+        "highestPrice": 14.29,
+        "lowestPrice": 14.2,
+        "openingPrice": 14.1,
+        "tradingVolume": 1006667,
+        "transactionAmount": 14276521
+    },
+    {
+        "closingPrice": 13.51,
+        "date": "2018-03-26",
+        "highestPrice": 14.07,
+        "lowestPrice": 13.99,
+        "openingPrice": 13.51,
+        "tradingVolume": 1275765,
+        "transactionAmount": 17588714
+    },
+    {
+        "closingPrice": 13.7,
+        "date": "2018-03-23",
+        "highestPrice": 14.5,
+        "lowestPrice": 13.83,
+        "openingPrice": 14.5,
+        "tradingVolume": 2241632,
+        "transactionAmount": 31557217
+    },
+    {
+        "closingPrice": 14.5,
+        "date": "2018-03-22",
+        "highestPrice": 14.77,
+        "lowestPrice": 14.74,
+        "openingPrice": 14.6,
+        "tradingVolume": 1135659,
+        "transactionAmount": 16649853
+    },
+    {
+        "closingPrice": 14.51,
+        "date": "2018-03-21",
+        "highestPrice": 14.8,
+        "lowestPrice": 14.58,
+        "openingPrice": 14.56,
+        "tradingVolume": 1270959,
+        "transactionAmount": 18672826
+    },
+    {
+        "closingPrice": 14.34,
+        "date": "2018-03-20",
+        "highestPrice": 14.65,
+        "lowestPrice": 14.57,
+        "openingPrice": 14.43,
+        "tradingVolume": 1124500,
+        "transactionAmount": 16276040
+    },
+    {
+        "closingPrice": 14.21,
+        "date": "2018-03-19",
+        "highestPrice": 14.72,
+        "lowestPrice": 14.55,
+        "openingPrice": 14.54,
+        "tradingVolume": 822992,
+        "transactionAmount": 11993587
+    },
+    {
+        "closingPrice": 14.46,
+        "date": "2018-03-16",
+        "highestPrice": 14.67,
+        "lowestPrice": 14.53,
+        "openingPrice": 14.46,
+        "tradingVolume": 992256,
+        "transactionAmount": 14482061
+    },
+    {
+        "closingPrice": 14.43,
+        "date": "2018-03-15",
+        "highestPrice": 14.67,
+        "lowestPrice": 14.53,
+        "openingPrice": 14.62,
+        "tradingVolume": 1019228,
+        "transactionAmount": 14804292
+    },
+    {
+        "closingPrice": 14.61,
+        "date": "2018-03-14",
+        "highestPrice": 14.75,
+        "lowestPrice": 14.63,
+        "openingPrice": 14.67,
+        "tradingVolume": 875237,
+        "transactionAmount": 12842194
+    },
+    {
+        "closingPrice": 14.66,
+        "date": "2018-03-13",
+        "highestPrice": 14.87,
+        "lowestPrice": 14.68,
+        "openingPrice": 14.77,
+        "tradingVolume": 1158200,
+        "transactionAmount": 17075650
+    },
+    {
+        "closingPrice": 14.66,
+        "date": "2018-03-12",
+        "highestPrice": 14.85,
+        "lowestPrice": 14.82,
+        "openingPrice": 14.71,
+        "tradingVolume": 1235393,
+        "transactionAmount": 18266818
+    },
+    {
+        "closingPrice": 14.48,
+        "date": "2018-03-09",
+        "highestPrice": 14.76,
+        "lowestPrice": 14.72,
+        "openingPrice": 14.51,
+        "tradingVolume": 1727800,
+        "transactionAmount": 25301524
+    },
+    {
+        "closingPrice": 14.28,
+        "date": "2018-03-08",
+        "highestPrice": 14.53,
+        "lowestPrice": 14.49,
+        "openingPrice": 14.28,
+        "tradingVolume": 942027,
+        "transactionAmount": 13607281
+    },
+    {
+        "closingPrice": 14.35,
+        "date": "2018-03-07",
+        "highestPrice": 14.58,
+        "lowestPrice": 14.38,
+        "openingPrice": 14.54,
+        "tradingVolume": 1279215,
+        "transactionAmount": 18501838
+    },
+    {
+        "closingPrice": 14.43,
+        "date": "2018-03-06",
+        "highestPrice": 14.57,
+        "lowestPrice": 14.55,
+        "openingPrice": 14.43,
+        "tradingVolume": 1299503,
+        "transactionAmount": 18847598
+    },
+    {
+        "closingPrice": 14.27,
+        "date": "2018-03-05",
+        "highestPrice": 14.45,
+        "lowestPrice": 14.41,
+        "openingPrice": 14.43,
+        "tradingVolume": 783009,
+        "transactionAmount": 11255410
+    },
+    {
+        "closingPrice": 14.36,
+        "date": "2018-03-02",
+        "highestPrice": 14.5,
+        "lowestPrice": 14.43,
+        "openingPrice": 14.39,
+        "tradingVolume": 782600,
+        "transactionAmount": 11293746
+    },
+    {
+        "closingPrice": 14.22,
+        "date": "2018-03-01",
+        "highestPrice": 14.54,
+        "lowestPrice": 14.51,
+        "openingPrice": 14.27,
+        "tradingVolume": 1009500,
+        "transactionAmount": 14555853
+    },
+    {
+        "closingPrice": 14.15,
+        "date": "2018-02-28",
+        "highestPrice": 14.39,
+        "lowestPrice": 14.37,
+        "openingPrice": 14.3,
+        "tradingVolume": 927720,
+        "transactionAmount": 13232950
+    },
+    {
+        "closingPrice": 14.37,
+        "date": "2018-02-27",
+        "highestPrice": 14.51,
+        "lowestPrice": 14.41,
+        "openingPrice": 14.44,
+        "tradingVolume": 1024901,
+        "transactionAmount": 14792164
+    },
+    {
+        "closingPrice": 14.33,
+        "date": "2018-02-26",
+        "highestPrice": 14.54,
+        "lowestPrice": 14.49,
+        "openingPrice": 14.36,
+        "tradingVolume": 1277921,
+        "transactionAmount": 18468727
+    },
+    {
+        "closingPrice": 14.23,
+        "date": "2018-02-23",
+        "highestPrice": 14.33,
+        "lowestPrice": 14.31,
+        "openingPrice": 14.28,
+        "tradingVolume": 591300,
+        "transactionAmount": 8443471
+    },
+    {
+        "closingPrice": 14.14,
+        "date": "2018-02-22",
+        "highestPrice": 14.34,
+        "lowestPrice": 14.28,
+        "openingPrice": 14.19,
+        "tradingVolume": 755947,
+        "transactionAmount": 10759389
+    },
+    {
+        "closingPrice": 14.04,
+        "date": "2018-02-14",
+        "highestPrice": 14.15,
+        "lowestPrice": 14.1,
+        "openingPrice": 14.12,
+        "tradingVolume": 639966,
+        "transactionAmount": 9017794
+    },
+    {
+        "closingPrice": 14.06,
+        "date": "2018-02-13",
+        "highestPrice": 14.22,
+        "lowestPrice": 14.07,
+        "openingPrice": 14.13,
+        "tradingVolume": 738200,
+        "transactionAmount": 10440376
+    },
+    {
+        "closingPrice": 13.86,
+        "date": "2018-02-12",
+        "highestPrice": 14.14,
+        "lowestPrice": 14.12,
+        "openingPrice": 13.96,
+        "tradingVolume": 900093,
+        "transactionAmount": 12651690
+    },
+    {
+        "closingPrice": 13.61,
+        "date": "2018-02-09",
+        "highestPrice": 13.9,
+        "lowestPrice": 13.8,
+        "openingPrice": 13.7,
+        "tradingVolume": 1306367,
+        "transactionAmount": 18011009
+    },
+    {
+        "closingPrice": 13.8,
+        "date": "2018-02-08",
+        "highestPrice": 14.15,
+        "lowestPrice": 14.12,
+        "openingPrice": 13.87,
+        "tradingVolume": 1132906,
+        "transactionAmount": 15892017
+    },
+    {
+        "closingPrice": 13.5,
+        "date": "2018-02-07",
+        "highestPrice": 14.02,
+        "lowestPrice": 13.92,
+        "openingPrice": 13.98,
+        "tradingVolume": 1467201,
+        "transactionAmount": 20309188
+    },
+    {
+        "closingPrice": 13.7,
+        "date": "2018-02-06",
+        "highestPrice": 14.4,
+        "lowestPrice": 13.72,
+        "openingPrice": 14.4,
+        "tradingVolume": 2740500,
+        "transactionAmount": 38569662
+    },
+    {
+        "closingPrice": 14.32,
+        "date": "2018-02-05",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.55,
+        "openingPrice": 14.44,
+        "tradingVolume": 1399200,
+        "transactionAmount": 20324793
+    },
+    {
+        "closingPrice": 14.3,
+        "date": "2018-02-02",
+        "highestPrice": 14.98,
+        "lowestPrice": 14.69,
+        "openingPrice": 14.96,
+        "tradingVolume": 3257300,
+        "transactionAmount": 47605822
+    },
+    {
+        "closingPrice": 15.07,
+        "date": "2018-02-01",
+        "highestPrice": 15.94,
+        "lowestPrice": 15.08,
+        "openingPrice": 15.82,
+        "tradingVolume": 4062826,
+        "transactionAmount": 62460238
+    },
+    {
+        "closingPrice": 15.82,
+        "date": "2018-01-31",
+        "highestPrice": 16.32,
+        "lowestPrice": 15.89,
+        "openingPrice": 16,
+        "tradingVolume": 4538671,
+        "transactionAmount": 72725242
+    },
+    {
+        "closingPrice": 15.56,
+        "date": "2018-01-30",
+        "highestPrice": 16.26,
+        "lowestPrice": 16.12,
+        "openingPrice": 15.57,
+        "tradingVolume": 6022008,
+        "transactionAmount": 96590931
+    },
+    {
+        "closingPrice": 15.5,
+        "date": "2018-01-29",
+        "highestPrice": 15.98,
+        "lowestPrice": 15.64,
+        "openingPrice": 15.56,
+        "tradingVolume": 3366405,
+        "transactionAmount": 52984688
+    },
+    {
+        "closingPrice": 15.49,
+        "date": "2018-01-26",
+        "highestPrice": 15.61,
+        "lowestPrice": 15.52,
+        "openingPrice": 15.5,
+        "tradingVolume": 1092800,
+        "transactionAmount": 16974171
+    },
+    {
+        "closingPrice": 15.5,
+        "date": "2018-01-25",
+        "highestPrice": 15.68,
+        "lowestPrice": 15.53,
+        "openingPrice": 15.52,
+        "tradingVolume": 1707476,
+        "transactionAmount": 26633362
+    },
+    {
+        "closingPrice": 15.41,
+        "date": "2018-01-24",
+        "highestPrice": 15.62,
+        "lowestPrice": 15.58,
+        "openingPrice": 15.56,
+        "tradingVolume": 1474407,
+        "transactionAmount": 22900758
+    },
+    {
+        "closingPrice": 15.48,
+        "date": "2018-01-23",
+        "highestPrice": 15.61,
+        "lowestPrice": 15.57,
+        "openingPrice": 15.54,
+        "tradingVolume": 1089898,
+        "transactionAmount": 16935412
+    },
+    {
+        "closingPrice": 15.32,
+        "date": "2018-01-22",
+        "highestPrice": 15.59,
+        "lowestPrice": 15.54,
+        "openingPrice": 15.43,
+        "tradingVolume": 1325711,
+        "transactionAmount": 20503087
+    },
+    {
+        "closingPrice": 15.36,
+        "date": "2018-01-19",
+        "highestPrice": 15.56,
+        "lowestPrice": 15.51,
+        "openingPrice": 15.42,
+        "tradingVolume": 1778001,
+        "transactionAmount": 27533103
+    },
+    {
+        "closingPrice": 15.2,
+        "date": "2018-01-18",
+        "highestPrice": 15.47,
+        "lowestPrice": 15.41,
+        "openingPrice": 15.2,
+        "tradingVolume": 1331576,
+        "transactionAmount": 20413916
+    },
+    {
+        "closingPrice": 15.01,
+        "date": "2018-01-17",
+        "highestPrice": 15.3,
+        "lowestPrice": 15.29,
+        "openingPrice": 15.17,
+        "tradingVolume": 1313851,
+        "transactionAmount": 19911131
+    },
+    {
+        "closingPrice": 15.07,
+        "date": "2018-01-16",
+        "highestPrice": 15.25,
+        "lowestPrice": 15.23,
+        "openingPrice": 15.11,
+        "tradingVolume": 1093234,
+        "transactionAmount": 16574498
+    },
+    {
+        "closingPrice": 15.06,
+        "date": "2018-01-15",
+        "highestPrice": 15.44,
+        "lowestPrice": 15.1,
+        "openingPrice": 15.42,
+        "tradingVolume": 1406283,
+        "transactionAmount": 21348853
+    },
+    {
+        "closingPrice": 15.43,
+        "date": "2018-01-12",
+        "highestPrice": 15.63,
+        "lowestPrice": 15.49,
+        "openingPrice": 15.46,
+        "tradingVolume": 1399293,
+        "transactionAmount": 21724863
+    },
+    {
+        "closingPrice": 15.3,
+        "date": "2018-01-11",
+        "highestPrice": 15.57,
+        "lowestPrice": 15.48,
+        "openingPrice": 15.3,
+        "tradingVolume": 848478,
+        "transactionAmount": 13137153
+    },
+    {
+        "closingPrice": 15.39,
+        "date": "2018-01-10",
+        "highestPrice": 15.61,
+        "lowestPrice": 15.42,
+        "openingPrice": 15.61,
+        "tradingVolume": 1134277,
+        "transactionAmount": 17539817
+    },
+    {
+        "closingPrice": 15.54,
+        "date": "2018-01-09",
+        "highestPrice": 15.75,
+        "lowestPrice": 15.63,
+        "openingPrice": 15.57,
+        "tradingVolume": 1216400,
+        "transactionAmount": 19040884
+    },
+    {
+        "closingPrice": 15.47,
+        "date": "2018-01-08",
+        "highestPrice": 15.59,
+        "lowestPrice": 15.58,
+        "openingPrice": 15.58,
+        "tradingVolume": 1306056,
+        "transactionAmount": 20278903
+    },
+    {
+        "closingPrice": 15.53,
+        "date": "2018-01-05",
+        "highestPrice": 15.71,
+        "lowestPrice": 15.59,
+        "openingPrice": 15.62,
+        "tradingVolume": 1462138,
+        "transactionAmount": 22805292
+    },
+    {
+        "closingPrice": 15.44,
+        "date": "2018-01-04",
+        "highestPrice": 15.76,
+        "lowestPrice": 15.68,
+        "openingPrice": 15.49,
+        "tradingVolume": 2042013,
+        "transactionAmount": 31839840
+    },
+    {
+        "closingPrice": 15.4,
+        "date": "2018-01-03",
+        "highestPrice": 15.55,
+        "lowestPrice": 15.5,
+        "openingPrice": 15.45,
+        "tradingVolume": 1656292,
+        "transactionAmount": 25627807
+    },
+    {
+        "closingPrice": 15.35,
+        "date": "2018-01-02",
+        "highestPrice": 15.52,
+        "lowestPrice": 15.5,
+        "openingPrice": 15.36,
+        "tradingVolume": 1257944,
+        "transactionAmount": 19443740
+    },
+    {
+        "closingPrice": 12.82,
+        "date": "2018-06-29",
+        "highestPrice": 13.14,
+        "lowestPrice": 13.12,
+        "openingPrice": 12.82,
+        "tradingVolume": 748000,
+        "transactionAmount": 9751085
+    },
+    {
+        "closingPrice": 12.76,
+        "date": "2018-06-28",
+        "highestPrice": 13.02,
+        "lowestPrice": 12.8,
+        "openingPrice": 12.81,
+        "tradingVolume": 648500,
+        "transactionAmount": 8362456
+    },
+    {
+        "closingPrice": 12.85,
+        "date": "2018-06-27",
+        "highestPrice": 13.19,
+        "lowestPrice": 12.96,
+        "openingPrice": 13,
+        "tradingVolume": 887774,
+        "transactionAmount": 11577114
+    },
+    {
+        "closingPrice": 12.52,
+        "date": "2018-06-26",
+        "highestPrice": 13,
+        "lowestPrice": 12.95,
+        "openingPrice": 12.8,
+        "tradingVolume": 686800,
+        "transactionAmount": 8816203
+    },
+    {
+        "closingPrice": 12.84,
+        "date": "2018-06-25",
+        "highestPrice": 13.03,
+        "lowestPrice": 12.87,
+        "openingPrice": 12.97,
+        "tradingVolume": 731598,
+        "transactionAmount": 9452973
+    },
+    {
+        "closingPrice": 12.52,
+        "date": "2018-06-22",
+        "highestPrice": 12.88,
+        "lowestPrice": 12.88,
+        "openingPrice": 12.68,
+        "tradingVolume": 1065773,
+        "transactionAmount": 13577901
+    },
+    {
+        "closingPrice": 12.7,
+        "date": "2018-06-21",
+        "highestPrice": 13.03,
+        "lowestPrice": 12.72,
+        "openingPrice": 12.86,
+        "tradingVolume": 1206900,
+        "transactionAmount": 15493071
+    },
+    {
+        "closingPrice": 12.7,
+        "date": "2018-06-20",
+        "highestPrice": 13.03,
+        "lowestPrice": 12.88,
+        "openingPrice": 12.71,
+        "tradingVolume": 1092993,
+        "transactionAmount": 14091046
+    },
+    {
+        "closingPrice": 12.61,
+        "date": "2018-06-19",
+        "highestPrice": 13.65,
+        "lowestPrice": 12.76,
+        "openingPrice": 13.65,
+        "tradingVolume": 2844893,
+        "transactionAmount": 37393004
+    },
+    {
+        "closingPrice": 13.55,
+        "date": "2018-06-15",
+        "highestPrice": 14.21,
+        "lowestPrice": 13.81,
+        "openingPrice": 14.15,
+        "tradingVolume": 1812051,
+        "transactionAmount": 25081336
+    },
+    {
+        "closingPrice": 14.11,
+        "date": "2018-06-14",
+        "highestPrice": 14.32,
+        "lowestPrice": 14.15,
+        "openingPrice": 14.15,
+        "tradingVolume": 1186665,
+        "transactionAmount": 16823022
+    },
+    {
+        "closingPrice": 14.16,
+        "date": "2018-06-13",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.21,
+        "openingPrice": 14.57,
+        "tradingVolume": 1465000,
+        "transactionAmount": 21150735
+    },
+    {
+        "closingPrice": 14.43,
+        "date": "2018-06-12",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.66,
+        "openingPrice": 14.59,
+        "tradingVolume": 1137300,
+        "transactionAmount": 16552635
+    },
+    {
+        "closingPrice": 14.43,
+        "date": "2018-06-11",
+        "highestPrice": 14.85,
+        "lowestPrice": 14.52,
+        "openingPrice": 14.62,
+        "tradingVolume": 1329853,
+        "transactionAmount": 19405543
+    },
+    {
+        "closingPrice": 14.57,
+        "date": "2018-06-08",
+        "highestPrice": 14.97,
+        "lowestPrice": 14.71,
+        "openingPrice": 14.9,
+        "tradingVolume": 1585600,
+        "transactionAmount": 23365677
+    },
+    {
+        "closingPrice": 14.88,
+        "date": "2018-06-07",
+        "highestPrice": 15.44,
+        "lowestPrice": 14.9,
+        "openingPrice": 15.44,
+        "tradingVolume": 2248776,
+        "transactionAmount": 33989123
+    },
+    {
+        "closingPrice": 15.13,
+        "date": "2018-06-06",
+        "highestPrice": 15.37,
+        "lowestPrice": 15.34,
+        "openingPrice": 15.23,
+        "tradingVolume": 1997632,
+        "transactionAmount": 30449093
+    },
+    {
+        "closingPrice": 14.93,
+        "date": "2018-06-05",
+        "highestPrice": 15.3,
+        "lowestPrice": 15.28,
+        "openingPrice": 15.08,
+        "tradingVolume": 2297711,
+        "transactionAmount": 34826787
+    },
+    {
+        "closingPrice": 14.84,
+        "date": "2018-06-04",
+        "highestPrice": 15.16,
+        "lowestPrice": 15.03,
+        "openingPrice": 15.1,
+        "tradingVolume": 1535200,
+        "transactionAmount": 23007930
+    },
+    {
+        "closingPrice": 14.84,
+        "date": "2018-06-01",
+        "highestPrice": 15.33,
+        "lowestPrice": 15.02,
+        "openingPrice": 15.05,
+        "tradingVolume": 2907671,
+        "transactionAmount": 43869567
+    },
+    {
+        "closingPrice": 14.4,
+        "date": "2018-05-31",
+        "highestPrice": 15.33,
+        "lowestPrice": 15.22,
+        "openingPrice": 14.45,
+        "tradingVolume": 4518670,
+        "transactionAmount": 67692764
+    },
+    {
+        "closingPrice": 14.35,
+        "date": "2018-05-30",
+        "highestPrice": 14.91,
+        "lowestPrice": 14.37,
+        "openingPrice": 14.91,
+        "tradingVolume": 2942937,
+        "transactionAmount": 42847097
+    },
+    {
+        "closingPrice": 14.84,
+        "date": "2018-05-29",
+        "highestPrice": 15.17,
+        "lowestPrice": 15.07,
+        "openingPrice": 14.9,
+        "tradingVolume": 2023157,
+        "transactionAmount": 30390314
+    },
+    {
+        "closingPrice": 14.89,
+        "date": "2018-05-28",
+        "highestPrice": 15.09,
+        "lowestPrice": 14.9,
+        "openingPrice": 15.01,
+        "tradingVolume": 1482500,
+        "transactionAmount": 22170854
+    },
+    {
+        "closingPrice": 14.93,
+        "date": "2018-05-25",
+        "highestPrice": 15.15,
+        "lowestPrice": 15.01,
+        "openingPrice": 15.08,
+        "tradingVolume": 1366000,
+        "transactionAmount": 20544129
+    },
+    {
+        "closingPrice": 14.96,
+        "date": "2018-05-24",
+        "highestPrice": 15.19,
+        "lowestPrice": 15.01,
+        "openingPrice": 15.16,
+        "tradingVolume": 1569245,
+        "transactionAmount": 23606935
+    },
+    {
+        "closingPrice": 15.11,
+        "date": "2018-05-23",
+        "highestPrice": 15.3,
+        "lowestPrice": 15.16,
+        "openingPrice": 15.2,
+        "tradingVolume": 1363701,
+        "transactionAmount": 20699200
+    },
+    {
+        "closingPrice": 15.18,
+        "date": "2018-05-22",
+        "highestPrice": 15.47,
+        "lowestPrice": 15.27,
+        "openingPrice": 15.41,
+        "tradingVolume": 2314732,
+        "transactionAmount": 35356387
+    },
+    {
+        "closingPrice": 15.29,
+        "date": "2018-05-21",
+        "highestPrice": 15.5,
+        "lowestPrice": 15.47,
+        "openingPrice": 15.4,
+        "tradingVolume": 1947926,
+        "transactionAmount": 29990514
+    },
+    {
+        "closingPrice": 15.21,
+        "date": "2018-05-18",
+        "highestPrice": 15.43,
+        "lowestPrice": 15.33,
+        "openingPrice": 15.36,
+        "tradingVolume": 2284143,
+        "transactionAmount": 34928138
+    },
+    {
+        "closingPrice": 15.07,
+        "date": "2018-05-17",
+        "highestPrice": 15.6,
+        "lowestPrice": 15.43,
+        "openingPrice": 15.08,
+        "tradingVolume": 5859019,
+        "transactionAmount": 90246903
+    },
+    {
+        "closingPrice": 14.89,
+        "date": "2018-05-16",
+        "highestPrice": 15.32,
+        "lowestPrice": 15.13,
+        "openingPrice": 14.97,
+        "tradingVolume": 3250349,
+        "transactionAmount": 49179668
+    },
+    {
+        "closingPrice": 14.68,
+        "date": "2018-05-15",
+        "highestPrice": 14.97,
+        "lowestPrice": 14.95,
+        "openingPrice": 14.68,
+        "tradingVolume": 1671853,
+        "transactionAmount": 24847068
+    },
+    {
+        "closingPrice": 14.63,
+        "date": "2018-05-14",
+        "highestPrice": 14.8,
+        "lowestPrice": 14.68,
+        "openingPrice": 14.69,
+        "tradingVolume": 956077,
+        "transactionAmount": 14077236
+    },
+    {
+        "closingPrice": 14.71,
+        "date": "2018-05-11",
+        "highestPrice": 14.98,
+        "lowestPrice": 14.72,
+        "openingPrice": 14.94,
+        "tradingVolume": 1376000,
+        "transactionAmount": 20385370
+    },
+    {
+        "closingPrice": 14.83,
+        "date": "2018-05-10",
+        "highestPrice": 14.99,
+        "lowestPrice": 14.96,
+        "openingPrice": 14.94,
+        "tradingVolume": 1732128,
+        "transactionAmount": 25817913
+    },
+    {
+        "closingPrice": 14.66,
+        "date": "2018-05-09",
+        "highestPrice": 15.06,
+        "lowestPrice": 14.91,
+        "openingPrice": 14.72,
+        "tradingVolume": 2689000,
+        "transactionAmount": 40017253
+    },
+    {
+        "closingPrice": 14.64,
+        "date": "2018-05-08",
+        "highestPrice": 14.77,
+        "lowestPrice": 14.72,
+        "openingPrice": 14.71,
+        "tradingVolume": 1493700,
+        "transactionAmount": 21967198
+    },
+    {
+        "closingPrice": 14.57,
+        "date": "2018-05-07",
+        "highestPrice": 14.79,
+        "lowestPrice": 14.71,
+        "openingPrice": 14.65,
+        "tradingVolume": 1728900,
+        "transactionAmount": 25409977
+    },
+    {
+        "closingPrice": 14.39,
+        "date": "2018-05-04",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.57,
+        "openingPrice": 14.46,
+        "tradingVolume": 1650200,
+        "transactionAmount": 24031272
+    },
+    {
+        "closingPrice": 14.17,
+        "date": "2018-05-03",
+        "highestPrice": 14.54,
+        "lowestPrice": 14.46,
+        "openingPrice": 14.4,
+        "tradingVolume": 1418100,
+        "transactionAmount": 20387238
+    },
+    {
+        "closingPrice": 14.31,
+        "date": "2018-05-02",
+        "highestPrice": 14.61,
+        "lowestPrice": 14.43,
+        "openingPrice": 14.42,
+        "tradingVolume": 1177800,
+        "transactionAmount": 17008042
+    },
+    {
+        "closingPrice": 14.35,
+        "date": "2018-04-27",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.6,
+        "openingPrice": 14.35,
+        "tradingVolume": 1738536,
+        "transactionAmount": 25306266
+    },
+    {
+        "closingPrice": 14.35,
+        "date": "2018-04-26",
+        "highestPrice": 14.88,
+        "lowestPrice": 14.39,
+        "openingPrice": 14.7,
+        "tradingVolume": 3247700,
+        "transactionAmount": 47425772
+    },
+    {
+        "closingPrice": 14.11,
+        "date": "2018-04-25",
+        "highestPrice": 14.44,
+        "lowestPrice": 14.34,
+        "openingPrice": 14.12,
+        "tradingVolume": 1252642,
+        "transactionAmount": 17883624
+    },
+    {
+        "closingPrice": 13.85,
+        "date": "2018-04-24",
+        "highestPrice": 14.25,
+        "lowestPrice": 14.22,
+        "openingPrice": 13.86,
+        "tradingVolume": 860601,
+        "transactionAmount": 12160654
+    },
+    {
+        "closingPrice": 13.87,
+        "date": "2018-04-23",
+        "highestPrice": 14.1,
+        "lowestPrice": 13.93,
+        "openingPrice": 14,
+        "tradingVolume": 758200,
+        "transactionAmount": 10570730
+    },
+    {
+        "closingPrice": 13.98,
+        "date": "2018-04-20",
+        "highestPrice": 14.32,
+        "lowestPrice": 14.04,
+        "openingPrice": 14.3,
+        "tradingVolume": 1159800,
+        "transactionAmount": 16415768
+    },
+    {
+        "closingPrice": 14.21,
+        "date": "2018-04-19",
+        "highestPrice": 14.36,
+        "lowestPrice": 14.28,
+        "openingPrice": 14.33,
+        "tradingVolume": 901936,
+        "transactionAmount": 12873334
+    },
+    {
+        "closingPrice": 14.03,
+        "date": "2018-04-18",
+        "highestPrice": 14.44,
+        "lowestPrice": 14.26,
+        "openingPrice": 14.36,
+        "tradingVolume": 1329600,
+        "transactionAmount": 18961668
+    },
+    {
+        "closingPrice": 14.09,
+        "date": "2018-04-17",
+        "highestPrice": 14.39,
+        "lowestPrice": 14.24,
+        "openingPrice": 14.25,
+        "tradingVolume": 1338700,
+        "transactionAmount": 19045918
+    },
+    {
+        "closingPrice": 14.09,
+        "date": "2018-04-16",
+        "highestPrice": 14.39,
+        "lowestPrice": 14.11,
+        "openingPrice": 14.23,
+        "tradingVolume": 1025600,
+        "transactionAmount": 14591075
+    },
+    {
+        "closingPrice": 14.33,
+        "date": "2018-04-13",
+        "highestPrice": 14.64,
+        "lowestPrice": 14.36,
+        "openingPrice": 14.58,
+        "tradingVolume": 1187600,
+        "transactionAmount": 17164803
+    },
+    {
+        "closingPrice": 14.47,
+        "date": "2018-04-12",
+        "highestPrice": 14.68,
+        "lowestPrice": 14.59,
+        "openingPrice": 14.58,
+        "tradingVolume": 1042098,
+        "transactionAmount": 15217147
+    },
+    {
+        "closingPrice": 14.48,
+        "date": "2018-04-11",
+        "highestPrice": 14.61,
+        "lowestPrice": 14.58,
+        "openingPrice": 14.5,
+        "tradingVolume": 1001000,
+        "transactionAmount": 14568257
+    },
+    {
+        "closingPrice": 14.29,
+        "date": "2018-04-10",
+        "highestPrice": 14.49,
+        "lowestPrice": 14.45,
+        "openingPrice": 14.38,
+        "tradingVolume": 895300,
+        "transactionAmount": 12887725
+    },
+    {
+        "closingPrice": 14.12,
+        "date": "2018-04-09",
+        "highestPrice": 14.35,
+        "lowestPrice": 14.3,
+        "openingPrice": 14.2,
+        "tradingVolume": 939600,
+        "transactionAmount": 13407193
+    },
+    {
+        "closingPrice": 14.37,
+        "date": "2018-04-04",
+        "highestPrice": 14.62,
+        "lowestPrice": 14.39,
+        "openingPrice": 14.41,
+        "tradingVolume": 1102400,
+        "transactionAmount": 15994814
+    },
+    {
+        "closingPrice": 14.22,
+        "date": "2018-04-03",
+        "highestPrice": 14.42,
+        "lowestPrice": 14.39,
+        "openingPrice": 14.3,
+        "tradingVolume": 821191,
+        "transactionAmount": 11761037
+    },
+    {
+        "closingPrice": 14.42,
+        "date": "2018-04-02",
+        "highestPrice": 14.59,
+        "lowestPrice": 14.49,
+        "openingPrice": 14.5,
+        "tradingVolume": 925587,
+        "transactionAmount": 13433826
+    },
+    {
+        "closingPrice": 7.81,
+        "date": "2018-09-14",
+        "highestPrice": 7.88,
+        "lowestPrice": 7.81,
+        "openingPrice": 7.88,
+        "tradingVolume": 716020,
+        "transactionAmount": 5606997
+    },
+    {
+        "closingPrice": 7.8,
+        "date": "2018-09-13",
+        "highestPrice": 7.89,
+        "lowestPrice": 7.86,
+        "openingPrice": 7.89,
+        "tradingVolume": 912120,
+        "transactionAmount": 7157089
+    },
+    {
+        "closingPrice": 7.78,
+        "date": "2018-09-12",
+        "highestPrice": 7.87,
+        "lowestPrice": 7.83,
+        "openingPrice": 7.8,
+        "tradingVolume": 1081589,
+        "transactionAmount": 8455227
+    },
+    {
+        "closingPrice": 7.67,
+        "date": "2018-09-11",
+        "highestPrice": 8.1,
+        "lowestPrice": 7.88,
+        "openingPrice": 7.7,
+        "tradingVolume": 1717649,
+        "transactionAmount": 13558428
+    },
+    {
+        "closingPrice": 7.7,
+        "date": "2018-09-10",
+        "highestPrice": 7.81,
+        "lowestPrice": 7.7,
+        "openingPrice": 7.73,
+        "tradingVolume": 722430,
+        "transactionAmount": 5595511
+    },
+    {
+        "closingPrice": 7.74,
+        "date": "2018-09-07",
+        "highestPrice": 7.86,
+        "lowestPrice": 7.81,
+        "openingPrice": 7.79,
+        "tradingVolume": 822781,
+        "transactionAmount": 6420362
+    },
+    {
+        "closingPrice": 7.71,
+        "date": "2018-09-06",
+        "highestPrice": 7.82,
+        "lowestPrice": 7.76,
+        "openingPrice": 7.72,
+        "tradingVolume": 640640,
+        "transactionAmount": 4981100
+    },
+    {
+        "closingPrice": 7.77,
+        "date": "2018-09-05",
+        "highestPrice": 7.93,
+        "lowestPrice": 7.77,
+        "openingPrice": 7.92,
+        "tradingVolume": 934489,
+        "transactionAmount": 7329854
+    },
+    {
+        "closingPrice": 7.8,
+        "date": "2018-09-04",
+        "highestPrice": 7.95,
+        "lowestPrice": 7.93,
+        "openingPrice": 7.85,
+        "tradingVolume": 980458,
+        "transactionAmount": 7734434
+    },
+    {
+        "closingPrice": 7.78,
+        "date": "2018-09-03",
+        "highestPrice": 7.93,
+        "lowestPrice": 7.85,
+        "openingPrice": 7.92,
+        "tradingVolume": 1050548,
+        "transactionAmount": 8229496
+    },
+    {
+        "closingPrice": 7.91,
+        "date": "2018-08-31",
+        "highestPrice": 8.02,
+        "lowestPrice": 7.91,
+        "openingPrice": 7.98,
+        "tradingVolume": 696660,
+        "transactionAmount": 5536262
+    },
+    {
+        "closingPrice": 7.99,
+        "date": "2018-08-30",
+        "highestPrice": 8.09,
+        "lowestPrice": 7.99,
+        "openingPrice": 8.06,
+        "tradingVolume": 675960,
+        "transactionAmount": 5433081
+    },
+    {
+        "closingPrice": 8.03,
+        "date": "2018-08-29",
+        "highestPrice": 8.12,
+        "lowestPrice": 8.06,
+        "openingPrice": 8.11,
+        "tradingVolume": 872372,
+        "transactionAmount": 7039759
+    },
+    {
+        "closingPrice": 8.07,
+        "date": "2018-08-28",
+        "highestPrice": 8.19,
+        "lowestPrice": 8.12,
+        "openingPrice": 8.15,
+        "tradingVolume": 1448600,
+        "transactionAmount": 11756182
+    },
+    {
+        "closingPrice": 8.04,
+        "date": "2018-08-27",
+        "highestPrice": 8.16,
+        "lowestPrice": 8.15,
+        "openingPrice": 8.05,
+        "tradingVolume": 920980,
+        "transactionAmount": 7486219
+    },
+    {
+        "closingPrice": 8.02,
+        "date": "2018-08-24",
+        "highestPrice": 8.1,
+        "lowestPrice": 8.04,
+        "openingPrice": 8.03,
+        "tradingVolume": 614300,
+        "transactionAmount": 4951461
+    },
+    {
+        "closingPrice": 7.99,
+        "date": "2018-08-23",
+        "highestPrice": 8.08,
+        "lowestPrice": 8.05,
+        "openingPrice": 8,
+        "tradingVolume": 965920,
+        "transactionAmount": 7769738
+    },
+    {
+        "closingPrice": 8.02,
+        "date": "2018-08-22",
+        "highestPrice": 8.13,
+        "lowestPrice": 8.04,
+        "openingPrice": 8.1,
+        "tradingVolume": 696559,
+        "transactionAmount": 5615777
+    },
+    {
+        "closingPrice": 8.04,
+        "date": "2018-08-21",
+        "highestPrice": 8.15,
+        "lowestPrice": 8.11,
+        "openingPrice": 8.07,
+        "tradingVolume": 933531,
+        "transactionAmount": 7566241
+    },
+    {
+        "closingPrice": 7.94,
+        "date": "2018-08-20",
+        "highestPrice": 8.2,
+        "lowestPrice": 8.07,
+        "openingPrice": 8.13,
+        "tradingVolume": 1506149,
+        "transactionAmount": 12120167
+    },
+    {
+        "closingPrice": 8.1,
+        "date": "2018-08-17",
+        "highestPrice": 8.5,
+        "lowestPrice": 8.16,
+        "openingPrice": 8.47,
+        "tradingVolume": 1639040,
+        "transactionAmount": 13603521
+    },
+    {
+        "closingPrice": 8.36,
+        "date": "2018-08-16",
+        "highestPrice": 8.48,
+        "lowestPrice": 8.42,
+        "openingPrice": 8.43,
+        "tradingVolume": 1151399,
+        "transactionAmount": 9680351
+    },
+    {
+        "closingPrice": 8.49,
+        "date": "2018-08-15",
+        "highestPrice": 8.66,
+        "lowestPrice": 8.5,
+        "openingPrice": 8.57,
+        "tradingVolume": 1213876,
+        "transactionAmount": 10417733
+    },
+    {
+        "closingPrice": 8.52,
+        "date": "2018-08-14",
+        "highestPrice": 8.6,
+        "lowestPrice": 8.57,
+        "openingPrice": 8.52,
+        "tradingVolume": 895020,
+        "transactionAmount": 7664245
+    },
+    {
+        "closingPrice": 8.44,
+        "date": "2018-08-13",
+        "highestPrice": 8.6,
+        "lowestPrice": 8.58,
+        "openingPrice": 8.5,
+        "tradingVolume": 906008,
+        "transactionAmount": 7700615
+    },
+    {
+        "closingPrice": 8.5,
+        "date": "2018-08-10",
+        "highestPrice": 8.61,
+        "lowestPrice": 8.57,
+        "openingPrice": 8.52,
+        "tradingVolume": 859280,
+        "transactionAmount": 7346473
+    },
+    {
+        "closingPrice": 8.38,
+        "date": "2018-08-09",
+        "highestPrice": 8.6,
+        "lowestPrice": 8.55,
+        "openingPrice": 8.41,
+        "tradingVolume": 1529560,
+        "transactionAmount": 13046250
+    },
+    {
+        "closingPrice": 8.35,
+        "date": "2018-08-08",
+        "highestPrice": 8.64,
+        "lowestPrice": 8.44,
+        "openingPrice": 8.6,
+        "tradingVolume": 1086740,
+        "transactionAmount": 9256546
+    },
+    {
+        "closingPrice": 8.47,
+        "date": "2018-08-07",
+        "highestPrice": 8.67,
+        "lowestPrice": 8.65,
+        "openingPrice": 8.54,
+        "tradingVolume": 903060,
+        "transactionAmount": 7731659
+    },
+    {
+        "closingPrice": 8.43,
+        "date": "2018-08-06",
+        "highestPrice": 8.64,
+        "lowestPrice": 8.49,
+        "openingPrice": 8.64,
+        "tradingVolume": 732088,
+        "transactionAmount": 6250891
+    },
+    {
+        "closingPrice": 8.56,
+        "date": "2018-08-03",
+        "highestPrice": 8.68,
+        "lowestPrice": 8.62,
+        "openingPrice": 8.61,
+        "tradingVolume": 1143480,
+        "transactionAmount": 9864531
+    },
+    {
+        "closingPrice": 8.41,
+        "date": "2018-08-02",
+        "highestPrice": 8.95,
+        "lowestPrice": 8.61,
+        "openingPrice": 8.94,
+        "tradingVolume": 2144473,
+        "transactionAmount": 18526720
+    },
+    {
+        "closingPrice": 8.92,
+        "date": "2018-08-01",
+        "highestPrice": 9.05,
+        "lowestPrice": 8.93,
+        "openingPrice": 9.05,
+        "tradingVolume": 907700,
+        "transactionAmount": 8142848
+    },
+    {
+        "closingPrice": 8.89,
+        "date": "2018-07-31",
+        "highestPrice": 9.03,
+        "lowestPrice": 8.99,
+        "openingPrice": 8.89,
+        "tradingVolume": 549480,
+        "transactionAmount": 4927997
+    },
+    {
+        "closingPrice": 8.91,
+        "date": "2018-07-30",
+        "highestPrice": 9.1,
+        "lowestPrice": 8.96,
+        "openingPrice": 9.1,
+        "tradingVolume": 1172880,
+        "transactionAmount": 10530760
+    },
+    {
+        "closingPrice": 9.09,
+        "date": "2018-07-27",
+        "highestPrice": 9.21,
+        "lowestPrice": 9.1,
+        "openingPrice": 9.19,
+        "tradingVolume": 1002880,
+        "transactionAmount": 9158889
+    },
+    {
+        "closingPrice": 9.11,
+        "date": "2018-07-26",
+        "highestPrice": 9.25,
+        "lowestPrice": 9.19,
+        "openingPrice": 9.15,
+        "tradingVolume": 1293727,
+        "transactionAmount": 11870641
+    },
+    {
+        "closingPrice": 9.13,
+        "date": "2018-07-25",
+        "highestPrice": 9.23,
+        "lowestPrice": 9.16,
+        "openingPrice": 9.19,
+        "tradingVolume": 1010340,
+        "transactionAmount": 9260760
+    },
+    {
+        "closingPrice": 9.03,
+        "date": "2018-07-24",
+        "highestPrice": 9.23,
+        "lowestPrice": 9.19,
+        "openingPrice": 9.06,
+        "tradingVolume": 1569528,
+        "transactionAmount": 14391621
+    },
+    {
+        "closingPrice": 8.89,
+        "date": "2018-07-23",
+        "highestPrice": 9.09,
+        "lowestPrice": 9.08,
+        "openingPrice": 8.96,
+        "tradingVolume": 1195847,
+        "transactionAmount": 10777848
+    },
+    {
+        "closingPrice": 8.82,
+        "date": "2018-07-20",
+        "highestPrice": 9.04,
+        "lowestPrice": 9,
+        "openingPrice": 8.9,
+        "tradingVolume": 1435848,
+        "transactionAmount": 12858129
+    },
+    {
+        "closingPrice": 8.91,
+        "date": "2018-07-19",
+        "highestPrice": 9.17,
+        "lowestPrice": 8.93,
+        "openingPrice": 9.13,
+        "tradingVolume": 1687920,
+        "transactionAmount": 15237686
+    },
+    {
+        "closingPrice": 9.12,
+        "date": "2018-07-18",
+        "highestPrice": 9.27,
+        "lowestPrice": 9.15,
+        "openingPrice": 9.27,
+        "tradingVolume": 1673446,
+        "transactionAmount": 15353079
+    },
+    {
+        "closingPrice": 9.18,
+        "date": "2018-07-17",
+        "highestPrice": 9.35,
+        "lowestPrice": 9.3,
+        "openingPrice": 9.25,
+        "tradingVolume": 1006600,
+        "transactionAmount": 9330817
+    },
+    {
+        "closingPrice": 13.38,
+        "date": "2018-07-16",
+        "highestPrice": 13.6,
+        "lowestPrice": 13.47,
+        "openingPrice": 13.58,
+        "tradingVolume": 1500401,
+        "transactionAmount": 20230999
+    },
+    {
+        "closingPrice": 13.3,
+        "date": "2018-07-13",
+        "highestPrice": 13.55,
+        "lowestPrice": 13.52,
+        "openingPrice": 13.38,
+        "tradingVolume": 1097201,
+        "transactionAmount": 14725523
+    },
+    {
+        "closingPrice": 13.01,
+        "date": "2018-07-12",
+        "highestPrice": 13.4,
+        "lowestPrice": 13.37,
+        "openingPrice": 13.03,
+        "tradingVolume": 1176320,
+        "transactionAmount": 15661086
+    },
+    {
+        "closingPrice": 12.91,
+        "date": "2018-07-11",
+        "highestPrice": 13.35,
+        "lowestPrice": 13.12,
+        "openingPrice": 13.35,
+        "tradingVolume": 1183168,
+        "transactionAmount": 15560381
+    },
+    {
+        "closingPrice": 13.16,
+        "date": "2018-07-10",
+        "highestPrice": 13.6,
+        "lowestPrice": 13.37,
+        "openingPrice": 13.16,
+        "tradingVolume": 2005600,
+        "transactionAmount": 26844448
+    },
+    {
+        "closingPrice": 12.86,
+        "date": "2018-07-09",
+        "highestPrice": 13.08,
+        "lowestPrice": 13.06,
+        "openingPrice": 12.9,
+        "tradingVolume": 680900,
+        "transactionAmount": 8860941
+    },
+    {
+        "closingPrice": 12.56,
+        "date": "2018-07-06",
+        "highestPrice": 12.99,
+        "lowestPrice": 12.9,
+        "openingPrice": 12.91,
+        "tradingVolume": 1136898,
+        "transactionAmount": 14556318
+    },
+    {
+        "closingPrice": 12.86,
+        "date": "2018-07-05",
+        "highestPrice": 13.13,
+        "lowestPrice": 12.88,
+        "openingPrice": 12.97,
+        "tradingVolume": 689500,
+        "transactionAmount": 8946832
+    },
+    {
+        "closingPrice": 12.94,
+        "date": "2018-07-04",
+        "highestPrice": 13.19,
+        "lowestPrice": 13.02,
+        "openingPrice": 13.19,
+        "tradingVolume": 743900,
+        "transactionAmount": 9715320
+    },
+    {
+        "closingPrice": 12.92,
+        "date": "2018-07-03",
+        "highestPrice": 13.2,
+        "lowestPrice": 13.18,
+        "openingPrice": 12.92,
+        "tradingVolume": 858600,
+        "transactionAmount": 11245094
+    },
+    {
+        "closingPrice": 12.86,
+        "date": "2018-07-02",
+        "highestPrice": 13.17,
+        "lowestPrice": 12.98,
+        "openingPrice": 13.15,
+        "tradingVolume": 1016000,
+        "transactionAmount": 13254076
+    }
+]
