@@ -110,7 +110,7 @@ async function queue(urls) {
   let data = [];
   for (let url of urls) {
     let res = await getHistoricalTranscationDataFromURL(url);
-    sleep.sleep(parseInt(Math.random(10))+3);
+    sleep.sleep(parseInt(Math.random(5))+3);
     data.push(res);
   }
   return data;
