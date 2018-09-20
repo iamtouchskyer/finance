@@ -100,7 +100,7 @@ function getHistoricalTranscationDataFromURL(url) {
 
         resolve(transcations);
       } else {
-        reject({url: options.url, err: error, statusCode: response || response.statusCode});
+        reject({url: options.url, err: error, statusCode: response && response.statusCode});
       }
     });
   });
