@@ -1,7 +1,8 @@
-const mysql      = require('mysql');
-const _     = require("lodash");
-const fs  = require('fs');
-const path = require('path');
+const mysql   = require('mysql');
+const moment  = require('moment');
+const _       = require("lodash");
+const fs      = require('fs');
+const path    = require('path');
 
 function generateMetadata(connection) {
   const metadata  = require('./metadata/stocks_full');
@@ -31,6 +32,29 @@ function generateRRR(connection) {
   });
 }
 
+function generateDividend(connection, fileList) {
+  _.each(fileList, (fileName) => {
+    const data = JSON.parse(fs.readFileSync(fileName, 'utf8'))[0];
+
+    if (_.size(data) > 0) {
+      const values = _.map(data, 
+            (item) => 
+              `('${item.symbol}', '${item.ex_dividend_year}'`
+                + ', ' + (_.isEmpty(item.ex_dividend_at) ? 'NULL' : `'${item.ex_dividend_at}'`)
+                + ', ' + (_.isEmpty(item.announced_at) ? 'NULL' : `'${item.announced_at}'`)
+                + `, '${item.year_profit}', '${item.total_dividend}', '${item.stock_amount}', '${item.sharing}', '${item.growth_rate}', '${item.count_money}', '${item.count_stock_give}', '${item.count_stock_add}')`
+          ).join(',');
+
+      connection.query("INSERT INTO `dividend` (`symbol`, `dividend_year`, `dividend_at`, `announced_at`, `yearly_profit`, `total_dividend`, `stock_amount`, `sharing`, `growth_rate`, `dividend_bonus`, `dividend_stock_give`, `dividend_stock_add`) VALUES " + values, function (error, results, fields) { 
+        if (error) {
+          console.log(error);
+          throw error;
+        }
+      });
+    }
+  }); 
+}
+
 async function doBulkInsert(connection, sqlStatement) {
   return new Promise((resolve, reject) => {
     connection.query(sqlStatement, (error, results, fields) => {
@@ -39,6 +63,7 @@ async function doBulkInsert(connection, sqlStatement) {
     });
   });
 }
+
 
 async function generateHistoricalFianceData(connection, fileList) {
   const keys = ['dvdy', 'pb', 'pcfttm', 'pcftyr', 'pettm', 'petyr', 'totalValue'];
@@ -112,6 +137,7 @@ connection.connect(function(err) {
 //generateMetadata(connection);
 //generateRRR(connection);
 
+generateDividend(connection, _.slice(process.argv, 2));
 /*
 generateHistoricalFianceData(connection, _.slice(process.argv, 2))
   .then(function () {
