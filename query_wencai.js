@@ -44,7 +44,11 @@ function parseData(data) {
       "市净率(pb)" : "pb",
       "市盈率(pe)" : "petyr",
       "市销率(ps)" : "ps",
+      "基本每股收益": "beps",
+      "销售毛利率": "gpm",  // Gross Profit Margin
+      "销售净利率": "npm",  // Net Profit Margin
       "预测市盈率(pe,最新预测)" : "peestimate",
+      "营业收入": "revenue",
       "总市值" : "totalValue",
       "a股市值(不含限售股)" : "totalValueA",
       "所属同花顺行业" : "industry", 
@@ -71,7 +75,9 @@ function parseData(data) {
             objectiedItem['region'] = item[i].substring(item[i].indexOf('.')+1);
           } else if (data.oriIndexID[i] === '_stk-name_') {
             objectiedItem['name'] = item[i];
-          }
+          } else {
+            objectiedItem[translateKey(data.oriIndexID[i])] = item[i];
+	  }
 
         } else if (_.isArray(data.oriIndexID[i])) {
           if (_.size(data.oriIndexID[i]) === 5) {
@@ -98,31 +104,48 @@ function parseData(data) {
     });
 }
 
-Promise.all([queue('3824b3f357c597f30999ada49763fd34'), queue('3824b3f357c597f30999ada49763fd34')])
-  .then((dataArr) => {
-    const parsedData1 = parseData(dataArr[0]);
-    const parsedData2 = parseData(dataArr[1]);
-
-    const stkCode = _.intersection(_.map(parsedData1, 'symbol'), _.map(parsedData2, 'symbol'));
-
-    fs.writeFileSync(
-        'wencai.json',
-          _.map(stkCode, (theCode) => {
-            let itemFromData1 = _.find(parsedData1, (item) => item['symbol'] === theCode);
-            let itemFromData2 = _.find(parsedData2, (item) => item['symbol'] === theCode);
-
-            const result =  _.merge(itemFromData1, itemFromData2);
-
-            console.log(result.symbol);
-
-            return JSON.stringify(result);
-          }).join(',\n')
-        , 
-        'utf8'
-      );
-  })
-  .catch(error => console.log(error));
 
 
+function _doRealParse(dataList) {
+  const parsedData = _.map(dataList, (data) => parseData(data));
+  const stkCode = _.intersection([..._.flatten(_.map(parsedData, (data) => _.map(data, 'symbol')))]);
+  
+  fs.writeFileSync(
+      'wencai.json',
+        _.map(stkCode, (theCode) => {
+          const result =  _.merge({}, ..._.flatten(_.map(parsedData, data => _.find(data, (item) => item['symbol'] === theCode))));
 
+          console.log(result.symbol);
 
+          return JSON.stringify(result);
+        }).join(',\n')
+      , 
+      'utf8'
+    );  
+}
+
+function doFetch(tokenList) {
+  Promise.all(_.map(tokenList, (token) => queue(token)))
+    .then((dataArr) => {
+      _doRealParse(dataArr);
+    })
+    .catch(error => console.log(error));
+}
+
+function doParse(fileList) {
+  _doRealParse(_.map(fileList, (fileName) => JSON.parse(fs.readFileSync(fileName, 'utf8'))));
+}
+
+if (process.argv[2] === 'parse') {
+  doParse(process.argv.slice(3));
+} else if (process.argv[2] === 'fetch') {
+  doFetch(process.argv.slice(3));
+} else if (process.argv[2] === 'import') {
+  doImport(process.argv.slice(3));
+} else {
+  console.log(
+    `${process.argv[0]} ${process.argv[1]} parse fileList:array\n
+      ${process.argv[0]} ${process.argv[1]} fetch token:array\n
+      ${process.argv[0]} ${process.argv[1]} import finalFile\n
+    `);
+}

@@ -19,6 +19,41 @@ function generateMetadata(connection) {
   .join(',');
 }
 
+/*
+function generateYearlyData(connection) {
+  const rrr  = require('./metadata/wencai');
+  _.each(rrr, (item) => {
+
+    const mappingArray = [
+      "pb",
+      "petyr",
+      "ps",
+      "peestimate",
+      "totalValue",
+      "totalValueA",
+      "industry", 
+      'pettm',
+      'roic',
+      'roe',
+      'roa',
+      'roeestimate',
+      'parentRevenud',
+      'totalEquity',
+    };
+
+
+    const values = _.map(item, (subItem, key) => {
+    		if (_.isObject(subItem
+    	});
+
+    connection.query("INSERT INTO `yearlydata` (`symbol`,`category`, `year`, `value`) VALUES " + roic, function (error, results, fields) { });
+
+    connection.query("INSERT INTO `roic` (`symbol`, `year`, `value`) VALUES " + roic, function (error, results, fields) { });
+    connection.query("INSERT INTO `roe` (`symbol`, `year`, `value`) VALUES " + roe, function (error, results, fields) { });
+    connection.query("INSERT INTO `roa` (`symbol`, `year`, `value`) VALUES " + roa, function (error, results, fields) { });
+  });
+}
+*/
 function generateRRR(connection) {
   const rrr  = require('./metadata/roic_roe_roa_data');
   _.each(rrr, (item) => {
